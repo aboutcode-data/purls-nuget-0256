@@ -1,0 +1,3 @@
+- pkg:nuget/Techbrifut.EntityFrameworkCore.PostgreSQL.UsefulExtensions@0.1.0
+- pkg:nuget/Techbrifut.EntityFrameworkCore.PostgreSQL.UsefulExtensions@0.1.1
+- pkg:nuget/Techbrifut.EntityFrameworkCore.PostgreSQL.UsefulExtensions@10.0.0-rc.1
