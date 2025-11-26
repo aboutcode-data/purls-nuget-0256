@@ -1,0 +1,3 @@
+- pkg:nuget/Zypher.Security.JwtSigningCredentials.Store.EntityFrameworkCore@1.0.0-dev
+- pkg:nuget/Zypher.Security.JwtSigningCredentials.Store.EntityFrameworkCore@1.0.1-dev
+- pkg:nuget/Zypher.Security.JwtSigningCredentials.Store.EntityFrameworkCore@1.0.2-dev
