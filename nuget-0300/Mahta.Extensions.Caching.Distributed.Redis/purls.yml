@@ -1,0 +1,2 @@
+- pkg:nuget/Mahta.Extensions.Caching.Distributed.Redis@9.10.0
+- pkg:nuget/Mahta.Extensions.Caching.Distributed.Redis@9.3.1
