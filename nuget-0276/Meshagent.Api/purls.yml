@@ -1,0 +1,4 @@
+- pkg:nuget/Meshagent.Api@0.5.3
+- pkg:nuget/Meshagent.Api@0.6.2
+- pkg:nuget/Meshagent.Api@0.6.7
+- pkg:nuget/Meshagent.Api@0.6.9
