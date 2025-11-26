@@ -1,0 +1,4 @@
+- pkg:nuget/MyBatis.NET.SqlMapper@1.0.0
+- pkg:nuget/MyBatis.NET.SqlMapper@1.2.0-alpha
+- pkg:nuget/MyBatis.NET.SqlMapper@1.2.1-alpha
+- pkg:nuget/MyBatis.NET.SqlMapper@1.3.0
