@@ -64,6 +64,7 @@
 - pkg:nuget/VIEApps.Enyim.Caching.Transcoders@1.8.2011.1
 - pkg:nuget/VIEApps.Enyim.Caching.Transcoders@1.8.2011.2
 - pkg:nuget/VIEApps.Enyim.Caching.Transcoders@1.8.2012.1
+- pkg:nuget/VIEApps.Enyim.Caching.Transcoders@10.10.2512.1
 - pkg:nuget/VIEApps.Enyim.Caching.Transcoders@2.0.2012.1
 - pkg:nuget/VIEApps.Enyim.Caching.Transcoders@3.0.2101.1
 - pkg:nuget/VIEApps.Enyim.Caching.Transcoders@3.1.2102.1

@@ -1,3 +1,4 @@
+- pkg:nuget/MvvmCross.DroidX.RecyclerView@10.1.17-alpha-g3f1402683c
 - pkg:nuget/MvvmCross.DroidX.RecyclerView@7.0.0
 - pkg:nuget/MvvmCross.DroidX.RecyclerView@7.0.1
 - pkg:nuget/MvvmCross.DroidX.RecyclerView@7.1.0
