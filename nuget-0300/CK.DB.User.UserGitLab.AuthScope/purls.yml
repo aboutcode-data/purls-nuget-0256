@@ -30,6 +30,7 @@
 - pkg:nuget/CK.DB.User.UserGitLab.AuthScope@13.0.0
 - pkg:nuget/CK.DB.User.UserGitLab.AuthScope@13.0.1
 - pkg:nuget/CK.DB.User.UserGitLab.AuthScope@13.0.2
+- pkg:nuget/CK.DB.User.UserGitLab.AuthScope@14.1.1
 - pkg:nuget/CK.DB.User.UserGitLab.AuthScope@2.0.0
 - pkg:nuget/CK.DB.User.UserGitLab.AuthScope@3.0.0
 - pkg:nuget/CK.DB.User.UserGitLab.AuthScope@4.0.0

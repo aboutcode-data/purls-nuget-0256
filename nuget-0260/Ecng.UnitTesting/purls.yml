@@ -125,6 +125,7 @@
 - pkg:nuget/Ecng.UnitTesting@1.0.21
 - pkg:nuget/Ecng.UnitTesting@1.0.210
 - pkg:nuget/Ecng.UnitTesting@1.0.22
+- pkg:nuget/Ecng.UnitTesting@1.0.228
 - pkg:nuget/Ecng.UnitTesting@1.0.23
 - pkg:nuget/Ecng.UnitTesting@1.0.24
 - pkg:nuget/Ecng.UnitTesting@1.0.25
