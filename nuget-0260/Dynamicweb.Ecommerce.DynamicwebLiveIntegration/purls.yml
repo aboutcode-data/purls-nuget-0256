@@ -38,6 +38,7 @@
 - pkg:nuget/Dynamicweb.Ecommerce.DynamicwebLiveIntegration@10.4.28
 - pkg:nuget/Dynamicweb.Ecommerce.DynamicwebLiveIntegration@10.4.29
 - pkg:nuget/Dynamicweb.Ecommerce.DynamicwebLiveIntegration@10.4.3
+- pkg:nuget/Dynamicweb.Ecommerce.DynamicwebLiveIntegration@10.4.33
 - pkg:nuget/Dynamicweb.Ecommerce.DynamicwebLiveIntegration@10.4.4
 - pkg:nuget/Dynamicweb.Ecommerce.DynamicwebLiveIntegration@10.4.5
 - pkg:nuget/Dynamicweb.Ecommerce.DynamicwebLiveIntegration@10.4.6
