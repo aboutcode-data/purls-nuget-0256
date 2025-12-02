@@ -1,1 +1,2 @@
 - pkg:nuget/DotnetManageSecrets@0.4.0
+- pkg:nuget/DotnetManageSecrets@0.9.0
