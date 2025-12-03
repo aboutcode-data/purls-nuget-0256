@@ -110,3 +110,4 @@
 - pkg:nuget/EasyExtensions.WebDav@2.0.27
 - pkg:nuget/EasyExtensions.WebDav@2.0.29
 - pkg:nuget/EasyExtensions.WebDav@2.0.3
+- pkg:nuget/EasyExtensions.WebDav@3.0.1
