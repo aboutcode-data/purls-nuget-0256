@@ -12,6 +12,7 @@
 - pkg:nuget/OBotLlamaService@24.0.0
 - pkg:nuget/OBotLlamaService@25.0.0
 - pkg:nuget/OBotLlamaService@25.1.0
+- pkg:nuget/OBotLlamaService@25.12.1
 - pkg:nuget/OBotLlamaService@25.2.0
 - pkg:nuget/OBotLlamaService@25.3.0
 - pkg:nuget/OBotLlamaService@25.4.1
