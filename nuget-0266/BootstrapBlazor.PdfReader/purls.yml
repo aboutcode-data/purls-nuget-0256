@@ -1,4 +1,5 @@
 - pkg:nuget/BootstrapBlazor.PdfReader@0.0.1
+- pkg:nuget/BootstrapBlazor.PdfReader@10.0.11
 - pkg:nuget/BootstrapBlazor.PdfReader@10.0.8
 - pkg:nuget/BootstrapBlazor.PdfReader@7.0.0
 - pkg:nuget/BootstrapBlazor.PdfReader@7.0.1
