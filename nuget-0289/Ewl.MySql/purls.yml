@@ -236,3 +236,4 @@
 - pkg:nuget/Ewl.MySql@84.0.0-pr00513
 - pkg:nuget/Ewl.MySql@84.0.0-pr00517
 - pkg:nuget/Ewl.MySql@85.0.0-pr00527
+- pkg:nuget/Ewl.MySql@85.0.0-pr00532
