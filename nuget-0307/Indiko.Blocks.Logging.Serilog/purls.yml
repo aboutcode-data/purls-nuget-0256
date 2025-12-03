@@ -150,3 +150,4 @@
 - pkg:nuget/Indiko.Blocks.Logging.Serilog@1.7.5
 - pkg:nuget/Indiko.Blocks.Logging.Serilog@1.7.8
 - pkg:nuget/Indiko.Blocks.Logging.Serilog@1.7.9
+- pkg:nuget/Indiko.Blocks.Logging.Serilog@2.1.1

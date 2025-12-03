@@ -200,3 +200,4 @@
 - pkg:nuget/DotNetBrightener.WebApi.GenericCRUD@2025.0.9-preview-473
 - pkg:nuget/DotNetBrightener.WebApi.GenericCRUD@2025.0.9-preview-481
 - pkg:nuget/DotNetBrightener.WebApi.GenericCRUD@2025.0.9-preview-487
+- pkg:nuget/DotNetBrightener.WebApi.GenericCRUD@2026.0.1-preview-676

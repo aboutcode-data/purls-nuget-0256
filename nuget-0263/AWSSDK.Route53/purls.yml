@@ -1234,6 +1234,7 @@
 - pkg:nuget/AWSSDK.Route53@3.7.502.7
 - pkg:nuget/AWSSDK.Route53@3.7.502.8
 - pkg:nuget/AWSSDK.Route53@3.7.504.2
+- pkg:nuget/AWSSDK.Route53@3.7.505.1
 - pkg:nuget/AWSSDK.Route53@4.0.0
 - pkg:nuget/AWSSDK.Route53@4.0.0-preview
 - pkg:nuget/AWSSDK.Route53@4.0.0-preview.10
