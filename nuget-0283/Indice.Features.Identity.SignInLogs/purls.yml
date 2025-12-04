@@ -191,6 +191,7 @@
 - pkg:nuget/Indice.Features.Identity.SignInLogs@8.2.0
 - pkg:nuget/Indice.Features.Identity.SignInLogs@8.2.1
 - pkg:nuget/Indice.Features.Identity.SignInLogs@8.20.0
+- pkg:nuget/Indice.Features.Identity.SignInLogs@8.27.0
 - pkg:nuget/Indice.Features.Identity.SignInLogs@8.3.0
 - pkg:nuget/Indice.Features.Identity.SignInLogs@8.4.0
 - pkg:nuget/Indice.Features.Identity.SignInLogs@8.5.0

@@ -185,6 +185,7 @@
 - pkg:nuget/Indice.AspNetCore.EmbeddedUI@8.17.0
 - pkg:nuget/Indice.AspNetCore.EmbeddedUI@8.2.0
 - pkg:nuget/Indice.AspNetCore.EmbeddedUI@8.20.0
+- pkg:nuget/Indice.AspNetCore.EmbeddedUI@8.27.0
 - pkg:nuget/Indice.AspNetCore.EmbeddedUI@8.3.0
 - pkg:nuget/Indice.AspNetCore.EmbeddedUI@8.4.0
 - pkg:nuget/Indice.AspNetCore.EmbeddedUI@8.5.0
