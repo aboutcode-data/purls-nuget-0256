@@ -102,7 +102,13 @@
 - pkg:nuget/Umbraco.Cms@13.1.1
 - pkg:nuget/Umbraco.Cms@13.10.0
 - pkg:nuget/Umbraco.Cms@13.10.0-rc
+- pkg:nuget/Umbraco.Cms@13.10.1
 - pkg:nuget/Umbraco.Cms@13.11.0
+- pkg:nuget/Umbraco.Cms@13.11.0-rc
+- pkg:nuget/Umbraco.Cms@13.11.0-rc2
+- pkg:nuget/Umbraco.Cms@13.12.0
+- pkg:nuget/Umbraco.Cms@13.12.0-rc
+- pkg:nuget/Umbraco.Cms@13.12.0-rc2
 - pkg:nuget/Umbraco.Cms@13.2.0
 - pkg:nuget/Umbraco.Cms@13.2.0-rc
 - pkg:nuget/Umbraco.Cms@13.2.1
