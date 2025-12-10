@@ -162,5 +162,6 @@
 - pkg:nuget/pagglo_sdk@1.4.59
 - pkg:nuget/pagglo_sdk@1.4.6
 - pkg:nuget/pagglo_sdk@1.4.7
+- pkg:nuget/pagglo_sdk@1.4.74
 - pkg:nuget/pagglo_sdk@1.4.8
 - pkg:nuget/pagglo_sdk@1.4.9
