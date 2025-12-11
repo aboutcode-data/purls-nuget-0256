@@ -38,6 +38,7 @@
 - pkg:nuget/SqlSugarCore.Kdbndp@9.3.6.925-preview01
 - pkg:nuget/SqlSugarCore.Kdbndp@9.3.6.925-preview02
 - pkg:nuget/SqlSugarCore.Kdbndp@9.3.7.114
+- pkg:nuget/SqlSugarCore.Kdbndp@9.3.7.1211
 - pkg:nuget/SqlSugarCore.Kdbndp@9.3.7.205
 - pkg:nuget/SqlSugarCore.Kdbndp@9.3.7.207
 - pkg:nuget/SqlSugarCore.Kdbndp@9.3.7.220
