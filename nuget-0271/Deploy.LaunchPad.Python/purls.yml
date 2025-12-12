@@ -12,6 +12,8 @@
 - pkg:nuget/Deploy.LaunchPad.Python@10.19.2
 - pkg:nuget/Deploy.LaunchPad.Python@10.19.3
 - pkg:nuget/Deploy.LaunchPad.Python@10.20.0
+- pkg:nuget/Deploy.LaunchPad.Python@10.22.3
+- pkg:nuget/Deploy.LaunchPad.Python@10.22.4
 - pkg:nuget/Deploy.LaunchPad.Python@10.4.0
 - pkg:nuget/Deploy.LaunchPad.Python@10.5.0
 - pkg:nuget/Deploy.LaunchPad.Python@10.7.1
