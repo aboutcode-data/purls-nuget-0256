@@ -9,6 +9,7 @@
 - pkg:nuget/Krosoft.Extensions.Testing.Data.EntityFramework@2024.6.26.872
 - pkg:nuget/Krosoft.Extensions.Testing.Data.EntityFramework@2025.11.13.4312
 - pkg:nuget/Krosoft.Extensions.Testing.Data.EntityFramework@2025.11.21.4518
+- pkg:nuget/Krosoft.Extensions.Testing.Data.EntityFramework@2025.12.11.4808
 - pkg:nuget/Krosoft.Extensions.Testing.Data.EntityFramework@2025.2.18.1200
 - pkg:nuget/Krosoft.Extensions.Testing.Data.EntityFramework@2025.3.21.1259
 - pkg:nuget/Krosoft.Extensions.Testing.Data.EntityFramework@2025.4.29.1388
