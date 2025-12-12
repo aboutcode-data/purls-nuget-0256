@@ -79,3 +79,5 @@
 - pkg:nuget/0xor1.Common.Shared@6.0.0
 - pkg:nuget/0xor1.Common.Shared@6.0.1
 - pkg:nuget/0xor1.Common.Shared@6.0.2
+- pkg:nuget/0xor1.Common.Shared@6.0.7
+- pkg:nuget/0xor1.Common.Shared@6.0.8
