@@ -26,6 +26,7 @@
 - pkg:nuget/Dundas.BI.Web.Core@25.1.0.1000
 - pkg:nuget/Dundas.BI.Web.Core@25.2.0.1000
 - pkg:nuget/Dundas.BI.Web.Core@25.2.0.1001
+- pkg:nuget/Dundas.BI.Web.Core@25.4.0.1000
 - pkg:nuget/Dundas.BI.Web.Core@7.0.0.1001
 - pkg:nuget/Dundas.BI.Web.Core@7.0.1.1000
 - pkg:nuget/Dundas.BI.Web.Core@7.0.1.1001
