@@ -155,6 +155,7 @@
 - pkg:nuget/AWSSDK.Notifications@3.7.502.6
 - pkg:nuget/AWSSDK.Notifications@3.7.502.7
 - pkg:nuget/AWSSDK.Notifications@3.7.502.8
+- pkg:nuget/AWSSDK.Notifications@3.7.503.15
 - pkg:nuget/AWSSDK.Notifications@3.7.503.7
 - pkg:nuget/AWSSDK.Notifications@3.7.503.9
 - pkg:nuget/AWSSDK.Notifications@4.0.0
