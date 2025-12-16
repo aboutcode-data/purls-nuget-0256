@@ -9,3 +9,6 @@
 - pkg:nuget/Funcular.Data.Orm@1.0.0
 - pkg:nuget/Funcular.Data.Orm@1.1.0
 - pkg:nuget/Funcular.Data.Orm@2.3.2
+- pkg:nuget/Funcular.Data.Orm@3.0.0-beta1
+- pkg:nuget/Funcular.Data.Orm@3.0.0-beta2
+- pkg:nuget/Funcular.Data.Orm@3.0.0-beta3
