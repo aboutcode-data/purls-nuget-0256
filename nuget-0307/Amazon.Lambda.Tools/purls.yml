@@ -87,3 +87,4 @@
 - pkg:nuget/Amazon.Lambda.Tools@5.8.0
 - pkg:nuget/Amazon.Lambda.Tools@5.8.1
 - pkg:nuget/Amazon.Lambda.Tools@5.9.0
+- pkg:nuget/Amazon.Lambda.Tools@6.0.3
