@@ -49,3 +49,4 @@
 - pkg:nuget/LaunchDarkly.InternalSdk@3.5.3
 - pkg:nuget/LaunchDarkly.InternalSdk@3.5.4
 - pkg:nuget/LaunchDarkly.InternalSdk@3.5.5
+- pkg:nuget/LaunchDarkly.InternalSdk@3.6.0
