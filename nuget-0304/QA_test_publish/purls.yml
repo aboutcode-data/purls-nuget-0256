@@ -46,6 +46,7 @@
 - pkg:nuget/QA_test_publish@1.5.6
 - pkg:nuget/QA_test_publish@10.0.0
 - pkg:nuget/QA_test_publish@10.0.3
+- pkg:nuget/QA_test_publish@10.0.4
 - pkg:nuget/QA_test_publish@2.3.10
 - pkg:nuget/QA_test_publish@2.3.11
 - pkg:nuget/QA_test_publish@2.3.12
