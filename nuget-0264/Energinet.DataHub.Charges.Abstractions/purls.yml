@@ -2,4 +2,5 @@
 - pkg:nuget/Energinet.DataHub.Charges.Abstractions@1.14.0
 - pkg:nuget/Energinet.DataHub.Charges.Abstractions@1.15.0
 - pkg:nuget/Energinet.DataHub.Charges.Abstractions@1.17.0
+- pkg:nuget/Energinet.DataHub.Charges.Abstractions@1.19.0
 - pkg:nuget/Energinet.DataHub.Charges.Abstractions@1.6.0
