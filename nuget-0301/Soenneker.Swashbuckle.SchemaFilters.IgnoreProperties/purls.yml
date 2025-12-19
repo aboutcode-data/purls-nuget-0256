@@ -24,3 +24,4 @@
 - pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.IgnoreProperties@3.0.9
 - pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.IgnoreProperties@4.0.26
 - pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.IgnoreProperties@4.0.28
+- pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.IgnoreProperties@4.0.34
