@@ -25,3 +25,4 @@
 - pkg:nuget/Space.DependencyInjection@1.3.1
 - pkg:nuget/Space.DependencyInjection@1.3.1-preview
 - pkg:nuget/Space.DependencyInjection@2.0.0-preview
+- pkg:nuget/Space.DependencyInjection@2.3.1-preview
