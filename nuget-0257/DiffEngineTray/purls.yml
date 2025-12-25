@@ -78,6 +78,7 @@
 - pkg:nuget/DiffEngineTray@16.6.0
 - pkg:nuget/DiffEngineTray@16.8.0
 - pkg:nuget/DiffEngineTray@18.0.0
+- pkg:nuget/DiffEngineTray@18.1.2
 - pkg:nuget/DiffEngineTray@4.6.0-beta.1
 - pkg:nuget/DiffEngineTray@4.6.0-beta.2
 - pkg:nuget/DiffEngineTray@4.6.0-beta.3
