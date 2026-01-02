@@ -33,6 +33,7 @@
 - pkg:nuget/Microting.InsightDashboardBase@1.0.7
 - pkg:nuget/Microting.InsightDashboardBase@1.0.8
 - pkg:nuget/Microting.InsightDashboardBase@1.0.9
+- pkg:nuget/Microting.InsightDashboardBase@10.0.1
 - pkg:nuget/Microting.InsightDashboardBase@2.0.10
 - pkg:nuget/Microting.InsightDashboardBase@2.0.11
 - pkg:nuget/Microting.InsightDashboardBase@2.0.12
