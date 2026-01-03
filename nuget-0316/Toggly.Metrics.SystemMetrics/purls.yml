@@ -1,4 +1,5 @@
 - pkg:nuget/Toggly.Metrics.SystemMetrics@2.10.0
+- pkg:nuget/Toggly.Metrics.SystemMetrics@2.12.2
 - pkg:nuget/Toggly.Metrics.SystemMetrics@2.5.0
 - pkg:nuget/Toggly.Metrics.SystemMetrics@2.5.1
 - pkg:nuget/Toggly.Metrics.SystemMetrics@2.5.2
