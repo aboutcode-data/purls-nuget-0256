@@ -38,3 +38,4 @@
 - pkg:nuget/SunamoData@24.9.20.1
 - pkg:nuget/SunamoData@25.3.29.1
 - pkg:nuget/SunamoData@25.6.7.1
+- pkg:nuget/SunamoData@26.1.3.2
