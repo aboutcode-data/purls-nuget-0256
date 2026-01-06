@@ -1,2 +1,3 @@
 - pkg:nuget/GenericOutbox.SourceGenerator@0.0.1
+- pkg:nuget/GenericOutbox.SourceGenerator@0.0.12
 - pkg:nuget/GenericOutbox.SourceGenerator@0.0.6
