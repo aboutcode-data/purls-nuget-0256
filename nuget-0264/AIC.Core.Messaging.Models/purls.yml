@@ -81,3 +81,4 @@
 - pkg:nuget/AIC.Core.Messaging.Models@2025.9.14.1
 - pkg:nuget/AIC.Core.Messaging.Models@2026.1.5.2
 - pkg:nuget/AIC.Core.Messaging.Models@2026.1.5.3
+- pkg:nuget/AIC.Core.Messaging.Models@2026.1.6.1
