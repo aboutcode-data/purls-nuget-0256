@@ -1,2 +1,3 @@
 - pkg:nuget/EF.CH@10.0.0
+- pkg:nuget/EF.CH@8.0.4
 - pkg:nuget/EF.CH@9.0.0
