@@ -124,3 +124,4 @@
 - pkg:nuget/Serilog.Sinks.ApplicationInsights@4.0.1-dev-00050
 - pkg:nuget/Serilog.Sinks.ApplicationInsights@4.0.1-dev-02303
 - pkg:nuget/Serilog.Sinks.ApplicationInsights@4.1.0-dev-02304
+- pkg:nuget/Serilog.Sinks.ApplicationInsights@5.0.0-dev-02323
