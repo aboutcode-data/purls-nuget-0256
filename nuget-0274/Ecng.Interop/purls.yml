@@ -187,6 +187,7 @@
 - pkg:nuget/Ecng.Interop@1.0.29-atestpub
 - pkg:nuget/Ecng.Interop@1.0.3
 - pkg:nuget/Ecng.Interop@1.0.30
+- pkg:nuget/Ecng.Interop@1.0.302
 - pkg:nuget/Ecng.Interop@1.0.31
 - pkg:nuget/Ecng.Interop@1.0.32
 - pkg:nuget/Ecng.Interop@1.0.33
