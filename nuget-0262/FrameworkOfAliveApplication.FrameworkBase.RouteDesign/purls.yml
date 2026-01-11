@@ -141,6 +141,7 @@
 - pkg:nuget/FrameworkOfAliveApplication.FrameworkBase.RouteDesign@5.2.0.108
 - pkg:nuget/FrameworkOfAliveApplication.FrameworkBase.RouteDesign@5.2.0.109
 - pkg:nuget/FrameworkOfAliveApplication.FrameworkBase.RouteDesign@5.2.0.116
+- pkg:nuget/FrameworkOfAliveApplication.FrameworkBase.RouteDesign@5.2.0.159
 - pkg:nuget/FrameworkOfAliveApplication.FrameworkBase.RouteDesign@8.0.0.15
 - pkg:nuget/FrameworkOfAliveApplication.FrameworkBase.RouteDesign@8.0.0.17
 - pkg:nuget/FrameworkOfAliveApplication.FrameworkBase.RouteDesign@8.1.0.23
