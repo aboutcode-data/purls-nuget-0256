@@ -1154,6 +1154,11 @@
 - pkg:nuget/HotChocolate.Language.SyntaxTree@16.0.0-p.1.7
 - pkg:nuget/HotChocolate.Language.SyntaxTree@16.0.0-p.1.8
 - pkg:nuget/HotChocolate.Language.SyntaxTree@16.0.0-p.1.9
+- pkg:nuget/HotChocolate.Language.SyntaxTree@16.0.0-p.10.24
+- pkg:nuget/HotChocolate.Language.SyntaxTree@16.0.0-p.10.25
+- pkg:nuget/HotChocolate.Language.SyntaxTree@16.0.0-p.10.26
+- pkg:nuget/HotChocolate.Language.SyntaxTree@16.0.0-p.10.27
+- pkg:nuget/HotChocolate.Language.SyntaxTree@16.0.0-p.10.28
 - pkg:nuget/HotChocolate.Language.SyntaxTree@16.0.0-p.10.29
 - pkg:nuget/HotChocolate.Language.SyntaxTree@16.0.0-p.10.5
 - pkg:nuget/HotChocolate.Language.SyntaxTree@16.0.0-p.10.6
