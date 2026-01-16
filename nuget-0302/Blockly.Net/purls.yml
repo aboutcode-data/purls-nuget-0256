@@ -149,3 +149,4 @@
 - pkg:nuget/Blockly.Net@0.9.4
 - pkg:nuget/Blockly.Net@0.9.5
 - pkg:nuget/Blockly.Net@0.9.6
+- pkg:nuget/Blockly.Net@1.0.1
