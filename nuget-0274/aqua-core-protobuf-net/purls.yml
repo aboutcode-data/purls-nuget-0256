@@ -30,3 +30,5 @@
 - pkg:nuget/aqua-core-protobuf-net@5.5.0-alpha-010
 - pkg:nuget/aqua-core-protobuf-net@5.5.0-alpha-011
 - pkg:nuget/aqua-core-protobuf-net@5.5.0-alpha-012
+- pkg:nuget/aqua-core-protobuf-net@5.5.0-alpha-013
+- pkg:nuget/aqua-core-protobuf-net@5.5.0-alpha-014
