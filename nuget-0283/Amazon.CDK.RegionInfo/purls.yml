@@ -483,6 +483,7 @@
 - pkg:nuget/Amazon.CDK.RegionInfo@2.22.0
 - pkg:nuget/Amazon.CDK.RegionInfo@2.23.0
 - pkg:nuget/Amazon.CDK.RegionInfo@2.235.0
+- pkg:nuget/Amazon.CDK.RegionInfo@2.235.1
 - pkg:nuget/Amazon.CDK.RegionInfo@2.24.0
 - pkg:nuget/Amazon.CDK.RegionInfo@2.24.1
 - pkg:nuget/Amazon.CDK.RegionInfo@2.25.0
