@@ -12,3 +12,4 @@
 - pkg:nuget/FlowX.EntityFrameworkCore@6.0.0
 - pkg:nuget/FlowX.EntityFrameworkCore@6.0.7
 - pkg:nuget/FlowX.EntityFrameworkCore@7.0.3
+- pkg:nuget/FlowX.EntityFrameworkCore@8.0.0

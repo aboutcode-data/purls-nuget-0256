@@ -4,6 +4,8 @@
 - pkg:nuget/Softoverse.EntityFrameworkCore.Specification@1.2.1
 - pkg:nuget/Softoverse.EntityFrameworkCore.Specification@1.3.0
 - pkg:nuget/Softoverse.EntityFrameworkCore.Specification@1.3.1
+- pkg:nuget/Softoverse.EntityFrameworkCore.Specification@10.1.0
+- pkg:nuget/Softoverse.EntityFrameworkCore.Specification@10.2.0
 - pkg:nuget/Softoverse.EntityFrameworkCore.Specification@2.0.0
 - pkg:nuget/Softoverse.EntityFrameworkCore.Specification@2.0.1
 - pkg:nuget/Softoverse.EntityFrameworkCore.Specification@2.0.2

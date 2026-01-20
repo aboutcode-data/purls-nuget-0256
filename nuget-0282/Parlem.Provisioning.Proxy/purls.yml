@@ -80,6 +80,7 @@
 - pkg:nuget/Parlem.Provisioning.Proxy@8.0.12
 - pkg:nuget/Parlem.Provisioning.Proxy@8.0.13
 - pkg:nuget/Parlem.Provisioning.Proxy@8.0.14
+- pkg:nuget/Parlem.Provisioning.Proxy@8.0.16-beta6
 - pkg:nuget/Parlem.Provisioning.Proxy@8.0.2
 - pkg:nuget/Parlem.Provisioning.Proxy@8.0.3
 - pkg:nuget/Parlem.Provisioning.Proxy@8.0.4
