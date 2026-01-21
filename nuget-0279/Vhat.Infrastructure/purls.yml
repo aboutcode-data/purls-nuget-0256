@@ -2,6 +2,7 @@
 - pkg:nuget/Vhat.Infrastructure@10.26.428
 - pkg:nuget/Vhat.Infrastructure@10.26.433
 - pkg:nuget/Vhat.Infrastructure@10.27.440
+- pkg:nuget/Vhat.Infrastructure@10.27.443
 - pkg:nuget/Vhat.Infrastructure@9.24.395
 - pkg:nuget/Vhat.Infrastructure@9.24.396
 - pkg:nuget/Vhat.Infrastructure@9.24.397
