@@ -6,6 +6,7 @@
 - pkg:nuget/Croco.WebApplication@1.0.3
 - pkg:nuget/Croco.WebApplication@1.0.5
 - pkg:nuget/Croco.WebApplication@1.0.6
+- pkg:nuget/Croco.WebApplication@10.4.0
 - pkg:nuget/Croco.WebApplication@2.0.0
 - pkg:nuget/Croco.WebApplication@2.0.10
 - pkg:nuget/Croco.WebApplication@2.0.11

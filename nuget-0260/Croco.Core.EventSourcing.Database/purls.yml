@@ -37,6 +37,7 @@
 - pkg:nuget/Croco.Core.EventSourcing.Database@1.86.0
 - pkg:nuget/Croco.Core.EventSourcing.Database@1.9.0
 - pkg:nuget/Croco.Core.EventSourcing.Database@1.90.0
+- pkg:nuget/Croco.Core.EventSourcing.Database@10.2.0
 - pkg:nuget/Croco.Core.EventSourcing.Database@2.0.0
 - pkg:nuget/Croco.Core.EventSourcing.Database@2.1.0
 - pkg:nuget/Croco.Core.EventSourcing.Database@2.2.0
