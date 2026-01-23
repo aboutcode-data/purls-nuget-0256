@@ -52,3 +52,4 @@
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureAIInference@1.64.0-beta
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureAIInference@1.65.0-beta
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureAIInference@1.68.0-beta
+- pkg:nuget/Microsoft.SemanticKernel.Connectors.AzureAIInference@1.70.0-beta
