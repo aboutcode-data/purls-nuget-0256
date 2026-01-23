@@ -47,6 +47,7 @@
 - pkg:nuget/Ecng.Backup.Yandex@1.0.18
 - pkg:nuget/Ecng.Backup.Yandex@1.0.185
 - pkg:nuget/Ecng.Backup.Yandex@1.0.19
+- pkg:nuget/Ecng.Backup.Yandex@1.0.191
 - pkg:nuget/Ecng.Backup.Yandex@1.0.2
 - pkg:nuget/Ecng.Backup.Yandex@1.0.20
 - pkg:nuget/Ecng.Backup.Yandex@1.0.21
