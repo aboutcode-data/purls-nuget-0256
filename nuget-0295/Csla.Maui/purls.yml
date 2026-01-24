@@ -1,3 +1,4 @@
+- pkg:nuget/Csla.Maui@10.0.0
 - pkg:nuget/Csla.Maui@6.1.0
 - pkg:nuget/Csla.Maui@6.1.0-R22070602
 - pkg:nuget/Csla.Maui@6.2.0
