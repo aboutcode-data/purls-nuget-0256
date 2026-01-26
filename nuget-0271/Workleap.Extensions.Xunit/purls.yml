@@ -108,6 +108,7 @@
 - pkg:nuget/Workleap.Extensions.Xunit@1.1.3
 - pkg:nuget/Workleap.Extensions.Xunit@1.1.3-preview.1
 - pkg:nuget/Workleap.Extensions.Xunit@1.1.30
+- pkg:nuget/Workleap.Extensions.Xunit@1.1.32-preview.11
 - pkg:nuget/Workleap.Extensions.Xunit@1.1.32-preview.4
 - pkg:nuget/Workleap.Extensions.Xunit@1.1.32-preview.5
 - pkg:nuget/Workleap.Extensions.Xunit@1.1.4
