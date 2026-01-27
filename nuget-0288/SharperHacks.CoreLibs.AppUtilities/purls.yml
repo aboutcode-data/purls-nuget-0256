@@ -4,6 +4,7 @@
 - pkg:nuget/SharperHacks.CoreLibs.AppUtilities@10.0.2%2Bbuilt.by.JwD.2025.07.18.1fd7874
 - pkg:nuget/SharperHacks.CoreLibs.AppUtilities@10.0.3%2Bbuilt.by.JwD.2015.07.18.ee50491
 - pkg:nuget/SharperHacks.CoreLibs.AppUtilities@10.0.4%2B0075708.2025.08.21.built.by.JwD
+- pkg:nuget/SharperHacks.CoreLibs.AppUtilities@11.0.1%2B2026.01.27.JwD.a5509b4
 - pkg:nuget/SharperHacks.CoreLibs.AppUtilities@2.0.0%2Bbuilt.by.JwD
 - pkg:nuget/SharperHacks.CoreLibs.AppUtilities@3.0.0%2Bbuilt.by.JwD
 - pkg:nuget/SharperHacks.CoreLibs.AppUtilities@4.0.0%2Bbuilt.by.JwD.5fe5040
