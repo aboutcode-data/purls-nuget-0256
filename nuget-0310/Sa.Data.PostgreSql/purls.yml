@@ -3,3 +3,4 @@
 - pkg:nuget/Sa.Data.PostgreSql@0.0.3
 - pkg:nuget/Sa.Data.PostgreSql@0.1.0
 - pkg:nuget/Sa.Data.PostgreSql@0.2.0
+- pkg:nuget/Sa.Data.PostgreSql@0.7.0
