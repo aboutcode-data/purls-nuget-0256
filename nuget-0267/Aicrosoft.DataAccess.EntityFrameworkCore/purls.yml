@@ -3,6 +3,7 @@
 - pkg:nuget/Aicrosoft.DataAccess.EntityFrameworkCore@6.2.1
 - pkg:nuget/Aicrosoft.DataAccess.EntityFrameworkCore@6.3.2
 - pkg:nuget/Aicrosoft.DataAccess.EntityFrameworkCore@6.4.0
+- pkg:nuget/Aicrosoft.DataAccess.EntityFrameworkCore@8.0.0-beta.260127.1
 - pkg:nuget/Aicrosoft.DataAccess.EntityFrameworkCore@8.1.0
 - pkg:nuget/Aicrosoft.DataAccess.EntityFrameworkCore@8.1.0-dev.240716.12
 - pkg:nuget/Aicrosoft.DataAccess.EntityFrameworkCore@8.2.0
