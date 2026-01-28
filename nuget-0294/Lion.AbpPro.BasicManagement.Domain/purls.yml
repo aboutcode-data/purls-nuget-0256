@@ -1,3 +1,4 @@
+- pkg:nuget/Lion.AbpPro.BasicManagement.Domain@10.0.1.1
 - pkg:nuget/Lion.AbpPro.BasicManagement.Domain@5.3.2.10
 - pkg:nuget/Lion.AbpPro.BasicManagement.Domain@5.3.2.7
 - pkg:nuget/Lion.AbpPro.BasicManagement.Domain@5.3.2.8
