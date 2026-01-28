@@ -14,6 +14,7 @@
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask@1.1.5
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask@1.1.6
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask@1.1.7
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask@1.14.0
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask@1.2.0
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask@1.2.0-rc.1
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Extensions.DurableTask@1.2.0-rc.2
