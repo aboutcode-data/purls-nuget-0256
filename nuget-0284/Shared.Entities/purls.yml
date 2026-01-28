@@ -47,6 +47,7 @@
 - pkg:nuget/Shared.Entities@1.1.50
 - pkg:nuget/Shared.Entities@1.1.52
 - pkg:nuget/Shared.Entities@1.1.6
+- pkg:nuget/Shared.Entities@1.1.67
 - pkg:nuget/Shared.Entities@1.1.7
 - pkg:nuget/Shared.Entities@1.1.7.1
 - pkg:nuget/Shared.Entities@1.1.8
