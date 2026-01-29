@@ -2,3 +2,4 @@
 - pkg:nuget/Gapotchenko.FX.Versioning.Semantic@2025.1.24-beta
 - pkg:nuget/Gapotchenko.FX.Versioning.Semantic@2025.1.25-beta
 - pkg:nuget/Gapotchenko.FX.Versioning.Semantic@2025.1.26-beta
+- pkg:nuget/Gapotchenko.FX.Versioning.Semantic@2026.3.5
