@@ -29,3 +29,4 @@
 - pkg:nuget/Google.Cloud.EntityFrameworkCore.Spanner@3.4.1
 - pkg:nuget/Google.Cloud.EntityFrameworkCore.Spanner@3.5.0
 - pkg:nuget/Google.Cloud.EntityFrameworkCore.Spanner@3.6.0
+- pkg:nuget/Google.Cloud.EntityFrameworkCore.Spanner@3.9.0
