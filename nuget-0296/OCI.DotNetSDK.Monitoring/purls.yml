@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Monitoring@12.0.0
 - pkg:nuget/OCI.DotNetSDK.Monitoring@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Monitoring@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Monitoring@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Monitoring@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Monitoring@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Monitoring@14.1.0
