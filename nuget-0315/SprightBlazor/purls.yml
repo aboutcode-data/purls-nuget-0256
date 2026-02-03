@@ -100,3 +100,4 @@
 - pkg:nuget/SprightBlazor@4.7.12
 - pkg:nuget/SprightBlazor@4.7.19
 - pkg:nuget/SprightBlazor@4.7.23
+- pkg:nuget/SprightBlazor@4.9.0
