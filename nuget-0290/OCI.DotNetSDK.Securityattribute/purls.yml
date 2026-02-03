@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Securityattribute@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Securityattribute@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Securityattribute@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Securityattribute@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Securityattribute@96.1.0
 - pkg:nuget/OCI.DotNetSDK.Securityattribute@96.2.0
 - pkg:nuget/OCI.DotNetSDK.Securityattribute@97.0.0

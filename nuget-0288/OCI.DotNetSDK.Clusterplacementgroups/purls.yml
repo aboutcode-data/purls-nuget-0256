@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Clusterplacementgroups@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Clusterplacementgroups@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Clusterplacementgroups@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Clusterplacementgroups@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Clusterplacementgroups@86.0.0
 - pkg:nuget/OCI.DotNetSDK.Clusterplacementgroups@87.0.0
 - pkg:nuget/OCI.DotNetSDK.Clusterplacementgroups@87.1.0

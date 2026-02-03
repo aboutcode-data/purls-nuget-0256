@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Opa@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Opa@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Opa@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Opa@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Opa@40.1.0
 - pkg:nuget/OCI.DotNetSDK.Opa@41.0.0
 - pkg:nuget/OCI.DotNetSDK.Opa@41.1.0
