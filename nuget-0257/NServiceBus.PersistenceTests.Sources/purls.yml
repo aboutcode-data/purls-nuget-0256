@@ -1,3 +1,4 @@
+- pkg:nuget/NServiceBus.PersistenceTests.Sources@10.0.1
 - pkg:nuget/NServiceBus.PersistenceTests.Sources@7.4.0
 - pkg:nuget/NServiceBus.PersistenceTests.Sources@7.4.1
 - pkg:nuget/NServiceBus.PersistenceTests.Sources@7.4.2
@@ -66,3 +67,4 @@
 - pkg:nuget/NServiceBus.PersistenceTests.Sources@9.2.5
 - pkg:nuget/NServiceBus.PersistenceTests.Sources@9.2.6
 - pkg:nuget/NServiceBus.PersistenceTests.Sources@9.2.7
+- pkg:nuget/NServiceBus.PersistenceTests.Sources@9.2.9
