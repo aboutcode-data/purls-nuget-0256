@@ -154,4 +154,6 @@
 - pkg:nuget/AntdUI@2.1.5
 - pkg:nuget/AntdUI@2.1.7
 - pkg:nuget/AntdUI@2.1.8
+- pkg:nuget/AntdUI@2.2.15
+- pkg:nuget/AntdUI@2.2.16
 - pkg:nuget/AntdUI@2.2.5
