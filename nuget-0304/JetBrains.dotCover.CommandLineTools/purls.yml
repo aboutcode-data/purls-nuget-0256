@@ -451,6 +451,7 @@
 - pkg:nuget/JetBrains.dotCover.CommandLineTools@2025.3.0-eap03
 - pkg:nuget/JetBrains.dotCover.CommandLineTools@2025.3.0-eap07
 - pkg:nuget/JetBrains.dotCover.CommandLineTools@2025.3.1
+- pkg:nuget/JetBrains.dotCover.CommandLineTools@2026.1.0-eap03
 - pkg:nuget/JetBrains.dotCover.CommandLineTools@3.1.20150408.155159
 - pkg:nuget/JetBrains.dotCover.CommandLineTools@3.1.20150521.131501
 - pkg:nuget/JetBrains.dotCover.CommandLineTools@3.1.20150721.134135
