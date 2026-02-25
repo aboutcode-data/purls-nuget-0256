@@ -1,2 +1,4 @@
 - pkg:nuget/T.Molodoy.SharpExtensions@0.0.16
 - pkg:nuget/T.Molodoy.SharpExtensions@0.0.18
+- pkg:nuget/T.Molodoy.SharpExtensions@0.0.28
+- pkg:nuget/T.Molodoy.SharpExtensions@0.0.29
