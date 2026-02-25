@@ -1,1 +1,2 @@
 - pkg:nuget/ToolBox.EntityFramework@2.3.0
+- pkg:nuget/ToolBox.EntityFramework@2.4.0
