@@ -96,6 +96,7 @@
 - pkg:nuget/Borg.Cloud.Logging@0.72.0
 - pkg:nuget/Borg.Cloud.Logging@0.73.0
 - pkg:nuget/Borg.Cloud.Logging@0.74.0
+- pkg:nuget/Borg.Cloud.Logging@0.75.0
 - pkg:nuget/Borg.Cloud.Logging@0.8.0
 - pkg:nuget/Borg.Cloud.Logging@0.8.1
 - pkg:nuget/Borg.Cloud.Logging@0.9.0

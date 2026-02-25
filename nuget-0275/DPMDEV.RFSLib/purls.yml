@@ -56,3 +56,5 @@
 - pkg:nuget/DPMDEV.RFSLib@1.6.2
 - pkg:nuget/DPMDEV.RFSLib@1.6.3
 - pkg:nuget/DPMDEV.RFSLib@1.6.4
+- pkg:nuget/DPMDEV.RFSLib@1.7.1
+- pkg:nuget/DPMDEV.RFSLib@1.7.4
