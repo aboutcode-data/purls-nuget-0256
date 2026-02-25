@@ -27,3 +27,4 @@
 - pkg:nuget/AmqpTools.Core@8.0.151-async
 - pkg:nuget/AmqpTools.Core@8.0.152-async
 - pkg:nuget/AmqpTools.Core@8.0.153-async
+- pkg:nuget/AmqpTools.Core@8.0.159

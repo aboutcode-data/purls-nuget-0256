@@ -6,3 +6,4 @@
 - pkg:nuget/Microsoft.Build.UniversalPackages@1.0.358
 - pkg:nuget/Microsoft.Build.UniversalPackages@1.0.359
 - pkg:nuget/Microsoft.Build.UniversalPackages@1.0.366
+- pkg:nuget/Microsoft.Build.UniversalPackages@1.1.1

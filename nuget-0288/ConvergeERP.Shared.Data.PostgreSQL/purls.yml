@@ -1,1 +1,2 @@
 - pkg:nuget/ConvergeERP.Shared.Data.PostgreSQL@1.0.1
+- pkg:nuget/ConvergeERP.Shared.Data.PostgreSQL@2.0.1
