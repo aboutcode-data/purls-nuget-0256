@@ -307,3 +307,4 @@
 - pkg:nuget/Google.Apis.ServiceManagement.v1@1.69.0.3791
 - pkg:nuget/Google.Apis.ServiceManagement.v1@1.69.0.3804
 - pkg:nuget/Google.Apis.ServiceManagement.v1@1.71.0.3876
+- pkg:nuget/Google.Apis.ServiceManagement.v1@1.73.0.4046

@@ -617,6 +617,7 @@
 - pkg:nuget/VirtoCommerce.OrdersModule.Data@3.856.0
 - pkg:nuget/VirtoCommerce.OrdersModule.Data@3.858.0
 - pkg:nuget/VirtoCommerce.OrdersModule.Data@3.859.0
+- pkg:nuget/VirtoCommerce.OrdersModule.Data@3.869.0
 - pkg:nuget/VirtoCommerce.OrdersModule.Data@3.9.0
 - pkg:nuget/VirtoCommerce.OrdersModule.Data@3.9.0-alpha.781
 - pkg:nuget/VirtoCommerce.OrdersModule.Data@3.9.0-alpha.782

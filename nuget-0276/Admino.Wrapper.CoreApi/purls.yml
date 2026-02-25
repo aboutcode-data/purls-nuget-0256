@@ -791,6 +791,8 @@
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.401
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.402
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.403
+- pkg:nuget/Admino.Wrapper.CoreApi@1.0.4040
+- pkg:nuget/Admino.Wrapper.CoreApi@1.0.4041
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.405
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.406
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.407
@@ -799,8 +801,10 @@
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.41
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.410
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.411
+- pkg:nuget/Admino.Wrapper.CoreApi@1.0.4118
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.412
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.413
+- pkg:nuget/Admino.Wrapper.CoreApi@1.0.4130
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.414
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.415
 - pkg:nuget/Admino.Wrapper.CoreApi@1.0.416

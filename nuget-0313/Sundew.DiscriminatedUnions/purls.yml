@@ -120,3 +120,4 @@
 - pkg:nuget/Sundew.DiscriminatedUnions@5.3.8-u20241027-222735-ci%2B6e6a0a78d8
 - pkg:nuget/Sundew.DiscriminatedUnions@5.3.9-u20250225-215735-ci%2Bfa417d63bb
 - pkg:nuget/Sundew.DiscriminatedUnions@5.3.9-u20250427-204829-ci%2B783f5d1c4b
+- pkg:nuget/Sundew.DiscriminatedUnions@6.0.0%2Becad987f90

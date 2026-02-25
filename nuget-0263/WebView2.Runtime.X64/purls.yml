@@ -193,6 +193,7 @@
 - pkg:nuget/WebView2.Runtime.X64@139.0.3405.86
 - pkg:nuget/WebView2.Runtime.X64@142.0.3595.90
 - pkg:nuget/WebView2.Runtime.X64@142.0.3595.94
+- pkg:nuget/WebView2.Runtime.X64@145.0.3800.65
 - pkg:nuget/WebView2.Runtime.X64@93.0.961.52
 - pkg:nuget/WebView2.Runtime.X64@95.0.1020.30
 - pkg:nuget/WebView2.Runtime.X64@95.0.1020.44
