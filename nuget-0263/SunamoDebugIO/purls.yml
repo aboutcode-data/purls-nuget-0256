@@ -35,4 +35,5 @@
 - pkg:nuget/SunamoDebugIO@25.2.18.1
 - pkg:nuget/SunamoDebugIO@25.3.29.1
 - pkg:nuget/SunamoDebugIO@25.6.29.1
+- pkg:nuget/SunamoDebugIO@26.2.23.3
 - pkg:nuget/SunamoDebugIO@26.2.4.1

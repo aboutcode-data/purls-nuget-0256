@@ -74,3 +74,5 @@
 - pkg:nuget/CommonNetFuncs.SubsetModelBinder@3.7.16
 - pkg:nuget/CommonNetFuncs.SubsetModelBinder@3.7.17
 - pkg:nuget/CommonNetFuncs.SubsetModelBinder@3.8.13
+- pkg:nuget/CommonNetFuncs.SubsetModelBinder@3.8.38
+- pkg:nuget/CommonNetFuncs.SubsetModelBinder@4.0.17

@@ -22,4 +22,5 @@
 - pkg:nuget/SunamoDebugging@24.9.20.1
 - pkg:nuget/SunamoDebugging@25.3.29.1
 - pkg:nuget/SunamoDebugging@25.6.7.1
+- pkg:nuget/SunamoDebugging@26.2.23.3
 - pkg:nuget/SunamoDebugging@26.2.4.1

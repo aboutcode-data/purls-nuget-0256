@@ -8,6 +8,7 @@
 - pkg:nuget/Consul.AspNetCore@1.6.10.8
 - pkg:nuget/Consul.AspNetCore@1.6.10.9
 - pkg:nuget/Consul.AspNetCore@1.7.14.1
+- pkg:nuget/Consul.AspNetCore@1.7.14.11
 - pkg:nuget/Consul.AspNetCore@1.7.14.2
 - pkg:nuget/Consul.AspNetCore@1.7.14.3
 - pkg:nuget/Consul.AspNetCore@1.7.14.4

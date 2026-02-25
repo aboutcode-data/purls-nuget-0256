@@ -1,3 +1,7 @@
+- pkg:nuget/ytdlp-executable@2025.10.14
+- pkg:nuget/ytdlp-executable@2025.10.22
+- pkg:nuget/ytdlp-executable@2025.11.12
+- pkg:nuget/ytdlp-executable@2025.12.8
 - pkg:nuget/ytdlp-executable@2025.3.23
 - pkg:nuget/ytdlp-executable@2025.3.31
 - pkg:nuget/ytdlp-executable@2025.4.30
@@ -7,3 +11,6 @@
 - pkg:nuget/ytdlp-executable@2025.6.9
 - pkg:nuget/ytdlp-executable@2025.7.21
 - pkg:nuget/ytdlp-executable@2025.8.11
+- pkg:nuget/ytdlp-executable@2026.1.29
+- pkg:nuget/ytdlp-executable@2026.1.31
+- pkg:nuget/ytdlp-executable@2026.2.4
