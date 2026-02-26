@@ -25,3 +25,4 @@
 - pkg:nuget/AmqpTools@8.0.152-async
 - pkg:nuget/AmqpTools@8.0.153-async
 - pkg:nuget/AmqpTools@8.0.159
+- pkg:nuget/AmqpTools@8.1.160-regions-EBPP-4180
