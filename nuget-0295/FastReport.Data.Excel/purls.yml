@@ -63,3 +63,4 @@
 - pkg:nuget/FastReport.Data.Excel@2025.2.7
 - pkg:nuget/FastReport.Data.Excel@2025.2.8
 - pkg:nuget/FastReport.Data.Excel@2025.2.9
+- pkg:nuget/FastReport.Data.Excel@2026.1.4
