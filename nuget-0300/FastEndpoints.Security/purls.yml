@@ -909,3 +909,4 @@
 - pkg:nuget/FastEndpoints.Security@7.3.0-beta.13
 - pkg:nuget/FastEndpoints.Security@7.3.0-beta.6
 - pkg:nuget/FastEndpoints.Security@8.0.0-beta.8
+- pkg:nuget/FastEndpoints.Security@8.0.1
