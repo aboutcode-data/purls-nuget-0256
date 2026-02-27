@@ -1,6 +1,7 @@
 - pkg:nuget/epoch-cli@0.1.10
 - pkg:nuget/epoch-cli@0.1.11
 - pkg:nuget/epoch-cli@0.1.12
+- pkg:nuget/epoch-cli@0.1.121
 - pkg:nuget/epoch-cli@0.1.13-preview
 - pkg:nuget/epoch-cli@0.1.15
 - pkg:nuget/epoch-cli@0.1.16-preview
