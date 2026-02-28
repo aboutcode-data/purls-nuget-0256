@@ -48,3 +48,9 @@
 - pkg:nuget/VeloxDev.Core.Generator@2.7.4-preview
 - pkg:nuget/VeloxDev.Core.Generator@2.7.6-preview
 - pkg:nuget/VeloxDev.Core.Generator@3.3.0
+- pkg:nuget/VeloxDev.Core.Generator@3.7.10
+- pkg:nuget/VeloxDev.Core.Generator@3.7.12
+- pkg:nuget/VeloxDev.Core.Generator@3.7.13
+- pkg:nuget/VeloxDev.Core.Generator@3.7.14
+- pkg:nuget/VeloxDev.Core.Generator@3.7.15
+- pkg:nuget/VeloxDev.Core.Generator@3.7.16
