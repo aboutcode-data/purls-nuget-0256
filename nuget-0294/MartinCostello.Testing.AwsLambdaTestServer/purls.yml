@@ -1,6 +1,7 @@
 - pkg:nuget/MartinCostello.Testing.AwsLambdaTestServer@0.1.0
 - pkg:nuget/MartinCostello.Testing.AwsLambdaTestServer@0.10.0
 - pkg:nuget/MartinCostello.Testing.AwsLambdaTestServer@0.11.0
+- pkg:nuget/MartinCostello.Testing.AwsLambdaTestServer@0.12.1
 - pkg:nuget/MartinCostello.Testing.AwsLambdaTestServer@0.2.0
 - pkg:nuget/MartinCostello.Testing.AwsLambdaTestServer@0.2.1
 - pkg:nuget/MartinCostello.Testing.AwsLambdaTestServer@0.3.0
