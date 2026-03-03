@@ -1,1 +1,2 @@
 - pkg:nuget/RykenLibrary.SourceGenerators.FactoryInitialization@0.5.8-beta
+- pkg:nuget/RykenLibrary.SourceGenerators.FactoryInitialization@0.5.9-beta
