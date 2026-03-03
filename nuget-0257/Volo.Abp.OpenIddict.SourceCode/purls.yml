@@ -1,4 +1,5 @@
 - pkg:nuget/Volo.Abp.OpenIddict.SourceCode@10.0.0
+- pkg:nuget/Volo.Abp.OpenIddict.SourceCode@10.1.1
 - pkg:nuget/Volo.Abp.OpenIddict.SourceCode@6.0.0
 - pkg:nuget/Volo.Abp.OpenIddict.SourceCode@6.0.0-rc.4
 - pkg:nuget/Volo.Abp.OpenIddict.SourceCode@6.0.0-rc.5
