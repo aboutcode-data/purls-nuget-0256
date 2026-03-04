@@ -1,1 +1,2 @@
+- pkg:nuget/Bones.AspNetCore@1.0.11-dom-renderer-2
 - pkg:nuget/Bones.AspNetCore@1.0.9
