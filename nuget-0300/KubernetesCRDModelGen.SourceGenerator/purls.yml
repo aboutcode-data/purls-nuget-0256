@@ -357,3 +357,4 @@
 - pkg:nuget/KubernetesCRDModelGen.SourceGenerator@1.0.0-alpha.98
 - pkg:nuget/KubernetesCRDModelGen.SourceGenerator@1.0.0-alpha.99
 - pkg:nuget/KubernetesCRDModelGen.SourceGenerator@1.1.2
+- pkg:nuget/KubernetesCRDModelGen.SourceGenerator@1.2.4
