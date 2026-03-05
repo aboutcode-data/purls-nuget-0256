@@ -5,3 +5,4 @@
 - pkg:nuget/Dino.DremIO@1.0.4%2Bfix-job-status
 - pkg:nuget/Dino.DremIO@1.0.5%2Bfix-query-wait
 - pkg:nuget/Dino.DremIO@1.0.6%2Bfix-json-text
+- pkg:nuget/Dino.DremIO@2.2.1%2Bfix-token-path-namefile
