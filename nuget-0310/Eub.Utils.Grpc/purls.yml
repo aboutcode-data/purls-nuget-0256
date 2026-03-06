@@ -1,1 +1,2 @@
 - pkg:nuget/Eub.Utils.Grpc@1.0.6
+- pkg:nuget/Eub.Utils.Grpc@1.1.3
