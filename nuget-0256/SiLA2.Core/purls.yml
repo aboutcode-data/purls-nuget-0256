@@ -1,4 +1,5 @@
 - pkg:nuget/SiLA2.Core@10.2.0
+- pkg:nuget/SiLA2.Core@10.2.3
 - pkg:nuget/SiLA2.Core@6.0.10
 - pkg:nuget/SiLA2.Core@6.0.11
 - pkg:nuget/SiLA2.Core@6.0.12
