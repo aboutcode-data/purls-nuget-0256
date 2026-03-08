@@ -1,1 +1,3 @@
 - pkg:nuget/MsClaw@0.4.0
+- pkg:nuget/MsClaw@0.7.0
+- pkg:nuget/MsClaw@0.7.2
