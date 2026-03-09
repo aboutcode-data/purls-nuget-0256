@@ -51,6 +51,7 @@
 - pkg:nuget/Soenneker.Playwright.Installation@4.0.172
 - pkg:nuget/Soenneker.Playwright.Installation@4.0.177
 - pkg:nuget/Soenneker.Playwright.Installation@4.0.183
+- pkg:nuget/Soenneker.Playwright.Installation@4.0.199
 - pkg:nuget/Soenneker.Playwright.Installation@4.0.53
 - pkg:nuget/Soenneker.Playwright.Installation@4.0.67
 - pkg:nuget/Soenneker.Playwright.Installation@4.0.68
