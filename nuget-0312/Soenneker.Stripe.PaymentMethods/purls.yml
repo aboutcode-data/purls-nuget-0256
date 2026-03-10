@@ -893,6 +893,7 @@
 - pkg:nuget/Soenneker.Stripe.PaymentMethods@4.0.1021
 - pkg:nuget/Soenneker.Stripe.PaymentMethods@4.0.1040
 - pkg:nuget/Soenneker.Stripe.PaymentMethods@4.0.1041
+- pkg:nuget/Soenneker.Stripe.PaymentMethods@4.0.1044
 - pkg:nuget/Soenneker.Stripe.PaymentMethods@4.0.904
 - pkg:nuget/Soenneker.Stripe.PaymentMethods@4.0.906
 - pkg:nuget/Soenneker.Stripe.PaymentMethods@4.0.908
