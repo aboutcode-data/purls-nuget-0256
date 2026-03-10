@@ -1494,3 +1494,4 @@
 - pkg:nuget/Soenneker.Azure.OpenAI.Client.Chat@4.0.1577
 - pkg:nuget/Soenneker.Azure.OpenAI.Client.Chat@4.0.1581
 - pkg:nuget/Soenneker.Azure.OpenAI.Client.Chat@4.0.1583
+- pkg:nuget/Soenneker.Azure.OpenAI.Client.Chat@4.0.1589

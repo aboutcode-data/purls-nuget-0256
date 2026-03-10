@@ -75,6 +75,7 @@
 - pkg:nuget/DNV.Vista.SDK.System.Text.Json@0.1.178
 - pkg:nuget/DNV.Vista.SDK.System.Text.Json@0.1.189
 - pkg:nuget/DNV.Vista.SDK.System.Text.Json@0.1.206
+- pkg:nuget/DNV.Vista.SDK.System.Text.Json@0.2.0
 - pkg:nuget/DNV.Vista.SDK.System.Text.Json@0.2.0-preview-175
 - pkg:nuget/DNV.Vista.SDK.System.Text.Json@0.2.0-preview-176
 - pkg:nuget/DNV.Vista.SDK.System.Text.Json@0.2.0-preview-179
