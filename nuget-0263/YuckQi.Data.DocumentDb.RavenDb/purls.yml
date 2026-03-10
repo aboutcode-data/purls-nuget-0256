@@ -1,1 +1,2 @@
 - pkg:nuget/YuckQi.Data.DocumentDb.RavenDb@8.3.1
+- pkg:nuget/YuckQi.Data.DocumentDb.RavenDb@8.3.2
