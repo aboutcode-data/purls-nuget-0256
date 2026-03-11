@@ -1,1 +1,3 @@
+- pkg:nuget/Soenneker.Deduplication.Bounded.Registry@4.0.10
+- pkg:nuget/Soenneker.Deduplication.Bounded.Registry@4.0.12
 - pkg:nuget/Soenneker.Deduplication.Bounded.Registry@4.0.7
