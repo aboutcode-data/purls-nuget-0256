@@ -530,3 +530,5 @@
 - pkg:nuget/Soenneker.Compression.SevenZip@4.0.718
 - pkg:nuget/Soenneker.Compression.SevenZip@4.0.720
 - pkg:nuget/Soenneker.Compression.SevenZip@4.0.722
+- pkg:nuget/Soenneker.Compression.SevenZip@4.0.729
+- pkg:nuget/Soenneker.Compression.SevenZip@4.0.731

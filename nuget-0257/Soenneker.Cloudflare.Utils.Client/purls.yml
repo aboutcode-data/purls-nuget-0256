@@ -319,3 +319,6 @@
 - pkg:nuget/Soenneker.Cloudflare.Utils.Client@4.0.672
 - pkg:nuget/Soenneker.Cloudflare.Utils.Client@4.0.678
 - pkg:nuget/Soenneker.Cloudflare.Utils.Client@4.0.681
+- pkg:nuget/Soenneker.Cloudflare.Utils.Client@4.0.689
+- pkg:nuget/Soenneker.Cloudflare.Utils.Client@4.0.691
+- pkg:nuget/Soenneker.Cloudflare.Utils.Client@4.0.692
