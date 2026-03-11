@@ -18,3 +18,4 @@
 - pkg:nuget/EBCEYS.RabbitMQ.Server.MappedService@1.5.0
 - pkg:nuget/EBCEYS.RabbitMQ.Server.MappedService@1.5.1
 - pkg:nuget/EBCEYS.RabbitMQ.Server.MappedService@1.6.0
+- pkg:nuget/EBCEYS.RabbitMQ.Server.MappedService@1.7.0
