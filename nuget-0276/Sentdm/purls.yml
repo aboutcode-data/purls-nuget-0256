@@ -1,1 +1,4 @@
+- pkg:nuget/Sentdm@0.11.0
+- pkg:nuget/Sentdm@0.12.0
+- pkg:nuget/Sentdm@0.12.1
 - pkg:nuget/Sentdm@0.2.0
