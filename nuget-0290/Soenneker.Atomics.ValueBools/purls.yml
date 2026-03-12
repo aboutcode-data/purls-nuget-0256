@@ -1,2 +1,3 @@
 - pkg:nuget/Soenneker.Atomics.ValueBools@4.0.17
+- pkg:nuget/Soenneker.Atomics.ValueBools@4.0.22
 - pkg:nuget/Soenneker.Atomics.ValueBools@4.0.5
