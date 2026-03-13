@@ -44,6 +44,7 @@
 - pkg:nuget/Ewl.Tools@3.0.0-pr00006
 - pkg:nuget/Ewl.Tools@3.0.0-pr00007
 - pkg:nuget/Ewl.Tools@3.0.0-pr00008
+- pkg:nuget/Ewl.Tools@31.0.0-pr00044
 - pkg:nuget/Ewl.Tools@4.0.0
 - pkg:nuget/Ewl.Tools@4.0.0-pr00009
 - pkg:nuget/Ewl.Tools@5.0.0
