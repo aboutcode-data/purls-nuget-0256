@@ -12,3 +12,5 @@
 - pkg:nuget/Mumrich.SpaDevMiddleware.Domain@1.4.1-PullRequest0004.2
 - pkg:nuget/Mumrich.SpaDevMiddleware.Domain@1.4.1-PullRequest0004.3
 - pkg:nuget/Mumrich.SpaDevMiddleware.Domain@1.4.1-PullRequest0004.4
+- pkg:nuget/Mumrich.SpaDevMiddleware.Domain@1.7.0
+- pkg:nuget/Mumrich.SpaDevMiddleware.Domain@1.7.0-PullRequest8.14
