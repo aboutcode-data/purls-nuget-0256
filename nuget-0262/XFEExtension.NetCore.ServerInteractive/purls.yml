@@ -6,4 +6,5 @@
 - pkg:nuget/XFEExtension.NetCore.ServerInteractive@1.1.0
 - pkg:nuget/XFEExtension.NetCore.ServerInteractive@1.1.11
 - pkg:nuget/XFEExtension.NetCore.ServerInteractive@1.1.12
+- pkg:nuget/XFEExtension.NetCore.ServerInteractive@1.1.17
 - pkg:nuget/XFEExtension.NetCore.ServerInteractive@1.1.4
