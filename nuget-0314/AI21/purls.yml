@@ -1,5 +1,8 @@
 - pkg:nuget/AI21@0.0.0-dev.114
 - pkg:nuget/AI21@0.0.0-dev.192
+- pkg:nuget/AI21@0.0.0-dev.197
+- pkg:nuget/AI21@0.0.0-dev.198
+- pkg:nuget/AI21@0.0.0-dev.199
 - pkg:nuget/AI21@0.0.0-dev.24
 - pkg:nuget/AI21@0.0.0-dev.28
 - pkg:nuget/AI21@0.0.0-dev.41
