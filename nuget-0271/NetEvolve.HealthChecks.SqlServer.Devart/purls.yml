@@ -1,1 +1,2 @@
 - pkg:nuget/NetEvolve.HealthChecks.SqlServer.Devart@4.20.61
+- pkg:nuget/NetEvolve.HealthChecks.SqlServer.Devart@5.13.51
