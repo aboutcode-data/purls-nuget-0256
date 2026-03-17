@@ -14,3 +14,4 @@
 - pkg:nuget/FarNominal.Email.MailKit@1.0.7
 - pkg:nuget/FarNominal.Email.MailKit@1.0.8
 - pkg:nuget/FarNominal.Email.MailKit@1.0.9
+- pkg:nuget/FarNominal.Email.MailKit@1.1.4
