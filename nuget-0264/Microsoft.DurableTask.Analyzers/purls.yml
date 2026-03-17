@@ -1,1 +1,2 @@
 - pkg:nuget/Microsoft.DurableTask.Analyzers@0.1.0
+- pkg:nuget/Microsoft.DurableTask.Analyzers@1.23.0
