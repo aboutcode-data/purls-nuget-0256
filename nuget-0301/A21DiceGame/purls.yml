@@ -1,4 +1,5 @@
 - pkg:nuget/A21DiceGame@1.0.1
+- pkg:nuget/A21DiceGame@10.0.5
 - pkg:nuget/A21DiceGame@2.0.1
 - pkg:nuget/A21DiceGame@2.0.2
 - pkg:nuget/A21DiceGame@7.0.1

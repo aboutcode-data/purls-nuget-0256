@@ -1,4 +1,5 @@
 - pkg:nuget/PickelCardGame@1.0.1
+- pkg:nuget/PickelCardGame@10.0.5
 - pkg:nuget/PickelCardGame@2.0.1
 - pkg:nuget/PickelCardGame@2.0.2
 - pkg:nuget/PickelCardGame@7.0.1

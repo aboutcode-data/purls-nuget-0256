@@ -1,4 +1,5 @@
 - pkg:nuget/RoundsCardGame@1.0.1
+- pkg:nuget/RoundsCardGame@10.0.5
 - pkg:nuget/RoundsCardGame@2.0.1
 - pkg:nuget/RoundsCardGame@2.0.2
 - pkg:nuget/RoundsCardGame@7.0.1

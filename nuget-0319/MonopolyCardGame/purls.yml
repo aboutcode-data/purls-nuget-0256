@@ -1,4 +1,5 @@
 - pkg:nuget/MonopolyCardGame@1.0.1
+- pkg:nuget/MonopolyCardGame@10.0.5
 - pkg:nuget/MonopolyCardGame@2.0.1
 - pkg:nuget/MonopolyCardGame@2.0.2
 - pkg:nuget/MonopolyCardGame@7.0.1

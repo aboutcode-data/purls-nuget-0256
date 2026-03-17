@@ -1,4 +1,5 @@
 - pkg:nuget/RummyDice@1.0.1
+- pkg:nuget/RummyDice@10.0.5
 - pkg:nuget/RummyDice@2.0.1
 - pkg:nuget/RummyDice@2.0.2
 - pkg:nuget/RummyDice@7.0.1
