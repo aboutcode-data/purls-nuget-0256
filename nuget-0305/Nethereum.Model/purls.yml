@@ -49,3 +49,4 @@
 - pkg:nuget/Nethereum.Model@4.8.0
 - pkg:nuget/Nethereum.Model@4.9.0
 - pkg:nuget/Nethereum.Model@5.0.0
+- pkg:nuget/Nethereum.Model@6.0.4
