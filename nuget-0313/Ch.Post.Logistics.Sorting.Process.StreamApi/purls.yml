@@ -225,6 +225,7 @@
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.4.0-feature-update-coding-api.1
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.4.1
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.4.1-feature-update-jenkins-config.1
+- pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.42.0-feature-obsolete-physical-category.1
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.5.0
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.5.0-feature-discharge-reason.1
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.6.0
