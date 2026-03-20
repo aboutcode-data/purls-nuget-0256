@@ -1,1 +1,2 @@
 - pkg:nuget/Polecat.EntityFrameworkCore@0.9.0
+- pkg:nuget/Polecat.EntityFrameworkCore@1.1.0
