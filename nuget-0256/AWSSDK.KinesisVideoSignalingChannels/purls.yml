@@ -988,6 +988,7 @@
 - pkg:nuget/AWSSDK.KinesisVideoSignalingChannels@3.7.502.43
 - pkg:nuget/AWSSDK.KinesisVideoSignalingChannels@3.7.502.44
 - pkg:nuget/AWSSDK.KinesisVideoSignalingChannels@3.7.502.51
+- pkg:nuget/AWSSDK.KinesisVideoSignalingChannels@3.7.502.54
 - pkg:nuget/AWSSDK.KinesisVideoSignalingChannels@3.7.502.9
 - pkg:nuget/AWSSDK.KinesisVideoSignalingChannels@4.0.0
 - pkg:nuget/AWSSDK.KinesisVideoSignalingChannels@4.0.0-preview
