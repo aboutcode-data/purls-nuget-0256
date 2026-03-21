@@ -1,3 +1,5 @@
 - pkg:nuget/Rivet.Attributes@0.12.0
 - pkg:nuget/Rivet.Attributes@0.12.1
 - pkg:nuget/Rivet.Attributes@0.16.0
+- pkg:nuget/Rivet.Attributes@0.21.3
+- pkg:nuget/Rivet.Attributes@0.22.0
