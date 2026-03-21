@@ -74,3 +74,4 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuth.Android@9.2.1864-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuth.Android@9.2.1900-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.FullAuth.Android@9.3.1959-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.FullAuth.Android@9.3.2059-rc
