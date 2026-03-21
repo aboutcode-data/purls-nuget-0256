@@ -62,3 +62,4 @@
 - pkg:nuget/BadEcho.Common@1.1.2-beta.13
 - pkg:nuget/BadEcho.Common@1.1.2-beta.18
 - pkg:nuget/BadEcho.Common@1.1.2-beta.20
+- pkg:nuget/BadEcho.Common@1.2.1

@@ -738,6 +738,7 @@
 - pkg:nuget/AWSSDK.SnowDeviceManagement@3.7.502.39
 - pkg:nuget/AWSSDK.SnowDeviceManagement@3.7.502.51
 - pkg:nuget/AWSSDK.SnowDeviceManagement@3.7.502.54
+- pkg:nuget/AWSSDK.SnowDeviceManagement@3.7.502.55
 - pkg:nuget/AWSSDK.SnowDeviceManagement@3.7.502.9
 - pkg:nuget/AWSSDK.SnowDeviceManagement@4.0.0
 - pkg:nuget/AWSSDK.SnowDeviceManagement@4.0.0-preview

@@ -1187,6 +1187,7 @@
 - pkg:nuget/AWSSDK.CloudDirectory@3.7.502.41
 - pkg:nuget/AWSSDK.CloudDirectory@3.7.502.48
 - pkg:nuget/AWSSDK.CloudDirectory@3.7.502.51
+- pkg:nuget/AWSSDK.CloudDirectory@3.7.502.52
 - pkg:nuget/AWSSDK.CloudDirectory@3.7.502.6
 - pkg:nuget/AWSSDK.CloudDirectory@3.7.502.8
 - pkg:nuget/AWSSDK.CloudDirectory@4.0.0

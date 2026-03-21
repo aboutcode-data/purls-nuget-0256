@@ -1065,6 +1065,7 @@
 - pkg:nuget/AWSSDK.PersonalizeEvents@3.7.502.40
 - pkg:nuget/AWSSDK.PersonalizeEvents@3.7.502.52
 - pkg:nuget/AWSSDK.PersonalizeEvents@3.7.502.55
+- pkg:nuget/AWSSDK.PersonalizeEvents@3.7.502.56
 - pkg:nuget/AWSSDK.PersonalizeEvents@4.0.0
 - pkg:nuget/AWSSDK.PersonalizeEvents@4.0.0-preview
 - pkg:nuget/AWSSDK.PersonalizeEvents@4.0.0-preview.10
