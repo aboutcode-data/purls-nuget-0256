@@ -1,3 +1,5 @@
 - pkg:nuget/TickerQ.Caching.StackExchangeRedis@10.0.1
 - pkg:nuget/TickerQ.Caching.StackExchangeRedis@8.0.1
+- pkg:nuget/TickerQ.Caching.StackExchangeRedis@8.2.3
 - pkg:nuget/TickerQ.Caching.StackExchangeRedis@9.0.1
+- pkg:nuget/TickerQ.Caching.StackExchangeRedis@9.2.3
