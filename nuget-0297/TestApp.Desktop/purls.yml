@@ -1,2 +1,3 @@
 - pkg:nuget/TestApp.Desktop@31.0.11
 - pkg:nuget/TestApp.Desktop@46.0.13
+- pkg:nuget/TestApp.Desktop@51.0.2
