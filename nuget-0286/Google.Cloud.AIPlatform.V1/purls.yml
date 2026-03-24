@@ -86,6 +86,7 @@
 - pkg:nuget/Google.Cloud.AIPlatform.V1@3.47.0
 - pkg:nuget/Google.Cloud.AIPlatform.V1@3.5.0
 - pkg:nuget/Google.Cloud.AIPlatform.V1@3.6.0
+- pkg:nuget/Google.Cloud.AIPlatform.V1@3.69.0
 - pkg:nuget/Google.Cloud.AIPlatform.V1@3.7.0
 - pkg:nuget/Google.Cloud.AIPlatform.V1@3.8.0
 - pkg:nuget/Google.Cloud.AIPlatform.V1@3.9.0
