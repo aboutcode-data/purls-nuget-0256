@@ -80,3 +80,4 @@
 - pkg:nuget/Codexcite.Blazor@5.9.8
 - pkg:nuget/Codexcite.Blazor@5.9.9
 - pkg:nuget/Codexcite.Blazor@6.4.0
+- pkg:nuget/Codexcite.Blazor@6.4.3
