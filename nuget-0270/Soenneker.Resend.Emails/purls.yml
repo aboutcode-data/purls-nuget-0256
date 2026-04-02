@@ -69,5 +69,9 @@
 - pkg:nuget/Soenneker.Resend.Emails@4.0.221
 - pkg:nuget/Soenneker.Resend.Emails@4.0.223
 - pkg:nuget/Soenneker.Resend.Emails@4.0.237
+- pkg:nuget/Soenneker.Resend.Emails@4.0.242
+- pkg:nuget/Soenneker.Resend.Emails@4.0.243
+- pkg:nuget/Soenneker.Resend.Emails@4.0.244
+- pkg:nuget/Soenneker.Resend.Emails@4.0.245
 - pkg:nuget/Soenneker.Resend.Emails@4.0.77
 - pkg:nuget/Soenneker.Resend.Emails@4.0.84

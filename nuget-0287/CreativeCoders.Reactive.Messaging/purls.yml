@@ -52,3 +52,4 @@
 - pkg:nuget/CreativeCoders.Reactive.Messaging@4.6.0
 - pkg:nuget/CreativeCoders.Reactive.Messaging@5.1.0
 - pkg:nuget/CreativeCoders.Reactive.Messaging@5.4.0
+- pkg:nuget/CreativeCoders.Reactive.Messaging@6.7.1

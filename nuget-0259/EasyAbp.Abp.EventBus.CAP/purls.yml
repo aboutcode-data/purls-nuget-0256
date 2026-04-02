@@ -1,4 +1,5 @@
 - pkg:nuget/EasyAbp.Abp.EventBus.CAP@1.0.0
+- pkg:nuget/EasyAbp.Abp.EventBus.CAP@10.1.1
 - pkg:nuget/EasyAbp.Abp.EventBus.CAP@2.5.0
 - pkg:nuget/EasyAbp.Abp.EventBus.CAP@2.5.1
 - pkg:nuget/EasyAbp.Abp.EventBus.CAP@2.5.2

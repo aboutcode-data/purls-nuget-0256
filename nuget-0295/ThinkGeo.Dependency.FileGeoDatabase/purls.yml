@@ -10,3 +10,4 @@
 - pkg:nuget/ThinkGeo.Dependency.FileGeoDatabase@14.1.0-beta012
 - pkg:nuget/ThinkGeo.Dependency.FileGeoDatabase@14.1.0-beta018
 - pkg:nuget/ThinkGeo.Dependency.FileGeoDatabase@14.1.0-beta019
+- pkg:nuget/ThinkGeo.Dependency.FileGeoDatabase@14.2.0

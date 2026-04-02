@@ -114,6 +114,10 @@
 - pkg:nuget/GTools2AG@1.0.290
 - pkg:nuget/GTools2AG@1.0.3
 - pkg:nuget/GTools2AG@1.0.30
+- pkg:nuget/GTools2AG@1.0.305
+- pkg:nuget/GTools2AG@1.0.306
+- pkg:nuget/GTools2AG@1.0.307
+- pkg:nuget/GTools2AG@1.0.308
 - pkg:nuget/GTools2AG@1.0.31
 - pkg:nuget/GTools2AG@1.0.32
 - pkg:nuget/GTools2AG@1.0.33

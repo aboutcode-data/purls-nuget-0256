@@ -17,4 +17,5 @@
 - pkg:nuget/XDApiScaffold.MysqlDB@1.0.7
 - pkg:nuget/XDApiScaffold.MysqlDB@1.0.8
 - pkg:nuget/XDApiScaffold.MysqlDB@1.0.9
+- pkg:nuget/XDApiScaffold.MysqlDB@2.0.10
 - pkg:nuget/XDApiScaffold.MysqlDB@2.0.8

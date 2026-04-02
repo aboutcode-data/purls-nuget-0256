@@ -118,6 +118,7 @@
 - pkg:nuget/StackExchange.Redis@2.1.55
 - pkg:nuget/StackExchange.Redis@2.1.58
 - pkg:nuget/StackExchange.Redis@2.10.1
+- pkg:nuget/StackExchange.Redis@2.12.14
 - pkg:nuget/StackExchange.Redis@2.2.11
 - pkg:nuget/StackExchange.Redis@2.2.14
 - pkg:nuget/StackExchange.Redis@2.2.20
@@ -169,3 +170,5 @@
 - pkg:nuget/StackExchange.Redis@2.9.25
 - pkg:nuget/StackExchange.Redis@2.9.32
 - pkg:nuget/StackExchange.Redis@2.9.99-gfe04f9c406
+- pkg:nuget/StackExchange.Redis@3.0.15-preview.g4f313ac133
+- pkg:nuget/StackExchange.Redis@3.0.2-preview

@@ -59,3 +59,5 @@
 - pkg:nuget/Dynamicweb.ExternalAuthentication@10.22.8
 - pkg:nuget/Dynamicweb.ExternalAuthentication@10.23.8
 - pkg:nuget/Dynamicweb.ExternalAuthentication@10.24.6
+- pkg:nuget/Dynamicweb.ExternalAuthentication@10.24.7
+- pkg:nuget/Dynamicweb.ExternalAuthentication@10.25.2-PreRelease

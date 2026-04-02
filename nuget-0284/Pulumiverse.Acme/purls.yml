@@ -32,8 +32,11 @@
 - pkg:nuget/Pulumiverse.Acme@0.14.0-alpha.1757665287
 - pkg:nuget/Pulumiverse.Acme@0.14.0-alpha.1758698982
 - pkg:nuget/Pulumiverse.Acme@0.14.0-alpha.1758701430
+- pkg:nuget/Pulumiverse.Acme@0.14.1-alpha.1774899928
+- pkg:nuget/Pulumiverse.Acme@0.15.0
 - pkg:nuget/Pulumiverse.Acme@0.15.0-alpha.1759084266
 - pkg:nuget/Pulumiverse.Acme@0.15.0-alpha.1761031237
+- pkg:nuget/Pulumiverse.Acme@0.15.0-alpha.1774945572
 - pkg:nuget/Pulumiverse.Acme@0.2.0
 - pkg:nuget/Pulumiverse.Acme@0.3.0
 - pkg:nuget/Pulumiverse.Acme@0.3.1

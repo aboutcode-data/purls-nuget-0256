@@ -38,6 +38,9 @@
 - pkg:nuget/Tacta.EventStore@1.9.0
 - pkg:nuget/Tacta.EventStore@1.9.1
 - pkg:nuget/Tacta.EventStore@1.9.2
+- pkg:nuget/Tacta.EventStore@1.9.2-fix-for-govemp
+- pkg:nuget/Tacta.EventStore@1.9.2-govemp-prerelease
+- pkg:nuget/Tacta.EventStore@1.9.2-govemp-prerelease-2
 - pkg:nuget/Tacta.EventStore@1.9.3
 - pkg:nuget/Tacta.EventStore@1.9.4
 - pkg:nuget/Tacta.EventStore@1.9.5
