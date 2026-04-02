@@ -10,3 +10,4 @@
 - pkg:nuget/MQContract.Redis@2.6.1
 - pkg:nuget/MQContract.Redis@2.7.0
 - pkg:nuget/MQContract.Redis@2.8.0
+- pkg:nuget/MQContract.Redis@3.9.2

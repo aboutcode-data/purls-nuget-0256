@@ -2,4 +2,6 @@
 - pkg:nuget/Soenneker.Deduplication.Bounded.Registry@4.0.12
 - pkg:nuget/Soenneker.Deduplication.Bounded.Registry@4.0.20
 - pkg:nuget/Soenneker.Deduplication.Bounded.Registry@4.0.22
+- pkg:nuget/Soenneker.Deduplication.Bounded.Registry@4.0.39
+- pkg:nuget/Soenneker.Deduplication.Bounded.Registry@4.0.40
 - pkg:nuget/Soenneker.Deduplication.Bounded.Registry@4.0.7
