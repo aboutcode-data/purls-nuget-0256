@@ -9,3 +9,6 @@
 - pkg:nuget/Crusaders.Framework@2.2.0
 - pkg:nuget/Crusaders.Framework@3.0.1
 - pkg:nuget/Crusaders.Framework@3.0.2
+- pkg:nuget/Crusaders.Framework@3.4.1
+- pkg:nuget/Crusaders.Framework@3.4.2
+- pkg:nuget/Crusaders.Framework@3.5.0
