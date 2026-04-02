@@ -13,3 +13,6 @@
 - pkg:nuget/ConnectWise.Manage.Api@3.0.24
 - pkg:nuget/ConnectWise.Manage.Api@3.0.39
 - pkg:nuget/ConnectWise.Manage.Api@3.0.40
+- pkg:nuget/ConnectWise.Manage.Api@3.0.72
+- pkg:nuget/ConnectWise.Manage.Api@3.0.73
+- pkg:nuget/ConnectWise.Manage.Api@3.0.74

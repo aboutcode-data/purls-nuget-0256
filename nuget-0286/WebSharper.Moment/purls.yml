@@ -1,4 +1,5 @@
 - pkg:nuget/WebSharper.Moment@10.0.0.604-beta1
+- pkg:nuget/WebSharper.Moment@10.1.0.667
 - pkg:nuget/WebSharper.Moment@4.4.1.121
 - pkg:nuget/WebSharper.Moment@4.5.0.123
 - pkg:nuget/WebSharper.Moment@4.5.0.124

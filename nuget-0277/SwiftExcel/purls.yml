@@ -18,3 +18,6 @@
 - pkg:nuget/SwiftExcel@1.1.3
 - pkg:nuget/SwiftExcel@1.1.4
 - pkg:nuget/SwiftExcel@1.1.5
+- pkg:nuget/SwiftExcel@1.1.7
+- pkg:nuget/SwiftExcel@1.1.8
+- pkg:nuget/SwiftExcel@1.1.9

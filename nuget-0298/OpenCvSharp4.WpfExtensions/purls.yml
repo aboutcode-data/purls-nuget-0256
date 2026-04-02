@@ -4,6 +4,7 @@
 - pkg:nuget/OpenCvSharp4.WpfExtensions@4.10.0.20241108
 - pkg:nuget/OpenCvSharp4.WpfExtensions@4.11.0.20250506
 - pkg:nuget/OpenCvSharp4.WpfExtensions@4.11.0.20250507
+- pkg:nuget/OpenCvSharp4.WpfExtensions@4.13.0.20260330
 - pkg:nuget/OpenCvSharp4.WpfExtensions@4.4.0.20200725
 - pkg:nuget/OpenCvSharp4.WpfExtensions@4.4.0.20200915
 - pkg:nuget/OpenCvSharp4.WpfExtensions@4.5.0.20201013

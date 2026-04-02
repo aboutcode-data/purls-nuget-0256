@@ -1,4 +1,5 @@
 - pkg:nuget/Microsoft.WindowsAppSDK.ML@1.8.126-experimental
 - pkg:nuget/Microsoft.WindowsAppSDK.ML@1.8.2091
 - pkg:nuget/Microsoft.WindowsAppSDK.ML@1.8.2141
+- pkg:nuget/Microsoft.WindowsAppSDK.ML@2.0.297-preview
 - pkg:nuget/Microsoft.WindowsAppSDK.ML@2.0.44-experimental
