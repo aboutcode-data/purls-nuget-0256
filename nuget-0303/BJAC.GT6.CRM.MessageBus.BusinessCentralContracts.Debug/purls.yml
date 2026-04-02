@@ -1,2 +1,5 @@
 - pkg:nuget/BJAC.GT6.CRM.MessageBus.BusinessCentralContracts.Debug@1.0.0
 - pkg:nuget/BJAC.GT6.CRM.MessageBus.BusinessCentralContracts.Debug@1.0.5
+- pkg:nuget/BJAC.GT6.CRM.MessageBus.BusinessCentralContracts.Debug@1.0.7.10
+- pkg:nuget/BJAC.GT6.CRM.MessageBus.BusinessCentralContracts.Debug@1.0.7.8
+- pkg:nuget/BJAC.GT6.CRM.MessageBus.BusinessCentralContracts.Debug@1.0.7.9
