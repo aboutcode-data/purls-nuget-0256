@@ -4,3 +4,12 @@
 - pkg:nuget/TestTrackingDiagrams.XUnit@1.18.1
 - pkg:nuget/TestTrackingDiagrams.XUnit@1.19.0
 - pkg:nuget/TestTrackingDiagrams.XUnit@1.20.0
+- pkg:nuget/TestTrackingDiagrams.XUnit@1.21.0
+- pkg:nuget/TestTrackingDiagrams.XUnit@1.22.0
+- pkg:nuget/TestTrackingDiagrams.XUnit@1.22.1
+- pkg:nuget/TestTrackingDiagrams.XUnit@1.22.2
+- pkg:nuget/TestTrackingDiagrams.XUnit@1.23.0
+- pkg:nuget/TestTrackingDiagrams.XUnit@1.23.1
+- pkg:nuget/TestTrackingDiagrams.XUnit@1.23.2
+- pkg:nuget/TestTrackingDiagrams.XUnit@1.23.3
+- pkg:nuget/TestTrackingDiagrams.XUnit@1.23.4

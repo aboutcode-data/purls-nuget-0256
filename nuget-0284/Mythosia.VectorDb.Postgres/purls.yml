@@ -1,1 +1,5 @@
 - pkg:nuget/Mythosia.VectorDb.Postgres@10.0.0
+- pkg:nuget/Mythosia.VectorDb.Postgres@10.4.0
+- pkg:nuget/Mythosia.VectorDb.Postgres@10.5.0
+- pkg:nuget/Mythosia.VectorDb.Postgres@10.6.0
+- pkg:nuget/Mythosia.VectorDb.Postgres@10.6.1
