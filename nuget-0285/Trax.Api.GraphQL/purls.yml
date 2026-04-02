@@ -1,3 +1,5 @@
 - pkg:nuget/Trax.Api.GraphQL@1.1.0
 - pkg:nuget/Trax.Api.GraphQL@1.14.0
+- pkg:nuget/Trax.Api.GraphQL@1.17.0
+- pkg:nuget/Trax.Api.GraphQL@1.18.0
 - pkg:nuget/Trax.Api.GraphQL@1.9.0
