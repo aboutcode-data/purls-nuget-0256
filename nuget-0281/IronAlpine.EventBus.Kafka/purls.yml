@@ -1,0 +1,2 @@
+- pkg:nuget/IronAlpine.EventBus.Kafka@2.0.0
+- pkg:nuget/IronAlpine.EventBus.Kafka@2.0.1
