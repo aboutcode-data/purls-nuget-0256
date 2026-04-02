@@ -1,4 +1,12 @@
 - pkg:nuget/TestApp.Desktop@31.0.11
 - pkg:nuget/TestApp.Desktop@46.0.13
 - pkg:nuget/TestApp.Desktop@51.0.10
+- pkg:nuget/TestApp.Desktop@51.0.12
+- pkg:nuget/TestApp.Desktop@51.0.13
+- pkg:nuget/TestApp.Desktop@51.0.14
+- pkg:nuget/TestApp.Desktop@51.0.15
+- pkg:nuget/TestApp.Desktop@51.0.16
+- pkg:nuget/TestApp.Desktop@51.0.17
 - pkg:nuget/TestApp.Desktop@51.0.2
+- pkg:nuget/TestApp.Desktop@51.1.0
+- pkg:nuget/TestApp.Desktop@51.2.0

@@ -37,5 +37,7 @@
 - pkg:nuget/fAI@1.0.6
 - pkg:nuget/fAI@1.0.7
 - pkg:nuget/fAI@1.0.71
+- pkg:nuget/fAI@1.0.73
+- pkg:nuget/fAI@1.0.74
 - pkg:nuget/fAI@1.0.8
 - pkg:nuget/fAI@1.0.9

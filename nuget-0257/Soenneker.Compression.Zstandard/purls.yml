@@ -4,4 +4,5 @@
 - pkg:nuget/Soenneker.Compression.Zstandard@4.0.20
 - pkg:nuget/Soenneker.Compression.Zstandard@4.0.22
 - pkg:nuget/Soenneker.Compression.Zstandard@4.0.24
+- pkg:nuget/Soenneker.Compression.Zstandard@4.0.25
 - pkg:nuget/Soenneker.Compression.Zstandard@4.0.3

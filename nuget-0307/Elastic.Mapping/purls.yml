@@ -1,1 +1,2 @@
 - pkg:nuget/Elastic.Mapping@0.39.0
+- pkg:nuget/Elastic.Mapping@0.41.0

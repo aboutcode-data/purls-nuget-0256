@@ -5,6 +5,8 @@
 - pkg:nuget/ORM_FlexFlow@9.4.0
 - pkg:nuget/ORM_FlexFlow@9.5.10
 - pkg:nuget/ORM_FlexFlow@9.5.11
+- pkg:nuget/ORM_FlexFlow@9.5.12
+- pkg:nuget/ORM_FlexFlow@9.5.13
 - pkg:nuget/ORM_FlexFlow@9.5.4
 - pkg:nuget/ORM_FlexFlow@9.5.7
 - pkg:nuget/ORM_FlexFlow@9.5.8
