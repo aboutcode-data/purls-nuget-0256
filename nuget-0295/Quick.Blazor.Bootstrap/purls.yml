@@ -25,6 +25,9 @@
 - pkg:nuget/Quick.Blazor.Bootstrap@1.0.7
 - pkg:nuget/Quick.Blazor.Bootstrap@1.0.8
 - pkg:nuget/Quick.Blazor.Bootstrap@1.0.9
+- pkg:nuget/Quick.Blazor.Bootstrap@2026.12.327
+- pkg:nuget/Quick.Blazor.Bootstrap@2026.13.327
+- pkg:nuget/Quick.Blazor.Bootstrap@2026.14.328
 - pkg:nuget/Quick.Blazor.Bootstrap@4.0.0
 - pkg:nuget/Quick.Blazor.Bootstrap@4.0.1
 - pkg:nuget/Quick.Blazor.Bootstrap@4.0.10

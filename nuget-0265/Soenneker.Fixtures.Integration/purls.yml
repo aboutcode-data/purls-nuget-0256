@@ -290,3 +290,5 @@
 - pkg:nuget/Soenneker.Fixtures.Integration@4.0.490
 - pkg:nuget/Soenneker.Fixtures.Integration@4.0.495
 - pkg:nuget/Soenneker.Fixtures.Integration@4.0.513
+- pkg:nuget/Soenneker.Fixtures.Integration@4.0.516
+- pkg:nuget/Soenneker.Fixtures.Integration@4.0.517

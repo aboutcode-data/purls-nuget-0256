@@ -321,7 +321,14 @@
 - pkg:nuget/SQLHelper.DB@5.0.11
 - pkg:nuget/SQLHelper.DB@5.0.12
 - pkg:nuget/SQLHelper.DB@5.0.13
+- pkg:nuget/SQLHelper.DB@5.0.137
+- pkg:nuget/SQLHelper.DB@5.0.138
+- pkg:nuget/SQLHelper.DB@5.0.139
 - pkg:nuget/SQLHelper.DB@5.0.14
+- pkg:nuget/SQLHelper.DB@5.0.140
+- pkg:nuget/SQLHelper.DB@5.0.141
+- pkg:nuget/SQLHelper.DB@5.0.142
+- pkg:nuget/SQLHelper.DB@5.0.143
 - pkg:nuget/SQLHelper.DB@5.0.15
 - pkg:nuget/SQLHelper.DB@5.0.19
 - pkg:nuget/SQLHelper.DB@5.0.20

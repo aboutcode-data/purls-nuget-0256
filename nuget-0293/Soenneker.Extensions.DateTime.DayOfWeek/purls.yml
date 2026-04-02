@@ -1343,3 +1343,5 @@
 - pkg:nuget/Soenneker.Extensions.DateTime.DayOfWeek@4.0.1400
 - pkg:nuget/Soenneker.Extensions.DateTime.DayOfWeek@4.0.1402
 - pkg:nuget/Soenneker.Extensions.DateTime.DayOfWeek@4.0.1409
+- pkg:nuget/Soenneker.Extensions.DateTime.DayOfWeek@4.0.1410
+- pkg:nuget/Soenneker.Extensions.DateTime.DayOfWeek@4.0.1411

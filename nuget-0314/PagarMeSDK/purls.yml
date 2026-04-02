@@ -109,6 +109,8 @@
 - pkg:nuget/PagarMeSDK@1.0.57
 - pkg:nuget/PagarMeSDK@1.0.6
 - pkg:nuget/PagarMeSDK@1.0.60
+- pkg:nuget/PagarMeSDK@1.0.602
+- pkg:nuget/PagarMeSDK@1.0.605
 - pkg:nuget/PagarMeSDK@1.0.64
 - pkg:nuget/PagarMeSDK@1.0.68
 - pkg:nuget/PagarMeSDK@1.0.69

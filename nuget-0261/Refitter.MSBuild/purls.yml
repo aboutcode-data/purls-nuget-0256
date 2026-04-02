@@ -24,3 +24,5 @@
 - pkg:nuget/Refitter.MSBuild@1.6.3-preview.78
 - pkg:nuget/Refitter.MSBuild@1.6.4-preview.80
 - pkg:nuget/Refitter.MSBuild@1.7.3-preview.89
+- pkg:nuget/Refitter.MSBuild@1.8.0-preview.100
+- pkg:nuget/Refitter.MSBuild@1.8.0-preview.101

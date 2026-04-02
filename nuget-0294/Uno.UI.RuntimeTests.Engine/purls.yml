@@ -31,3 +31,5 @@
 - pkg:nuget/Uno.UI.RuntimeTests.Engine@0.38.0-dev.128
 - pkg:nuget/Uno.UI.RuntimeTests.Engine@1.33.0-dev.11
 - pkg:nuget/Uno.UI.RuntimeTests.Engine@2.0.0-dev.53
+- pkg:nuget/Uno.UI.RuntimeTests.Engine@2.0.0-dev.65
+- pkg:nuget/Uno.UI.RuntimeTests.Engine@2.0.0-dev.74

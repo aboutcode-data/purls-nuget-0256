@@ -1,1 +1,5 @@
 - pkg:nuget/WeAutoCommon@1.1.1
+- pkg:nuget/WeAutoCommon@1.2.1
+- pkg:nuget/WeAutoCommon@1.2.2
+- pkg:nuget/WeAutoCommon@1.2.3
+- pkg:nuget/WeAutoCommon@1.2.4

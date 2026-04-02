@@ -10,3 +10,12 @@
 - pkg:nuget/Substratum@1.0.0-beta.6
 - pkg:nuget/Substratum@1.0.0-beta.63
 - pkg:nuget/Substratum@1.0.6
+- pkg:nuget/Substratum@2.0.0
+- pkg:nuget/Substratum@2.1.0
+- pkg:nuget/Substratum@2.1.1
+- pkg:nuget/Substratum@2.3.1
+- pkg:nuget/Substratum@2.3.3
+- pkg:nuget/Substratum@2.4.0
+- pkg:nuget/Substratum@2.5.0
+- pkg:nuget/Substratum@2.5.1
+- pkg:nuget/Substratum@2.6.0

@@ -50,6 +50,7 @@
 - pkg:nuget/OCI.DotNetSDK.Oda@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Oda@129.1.0
 - pkg:nuget/OCI.DotNetSDK.Oda@13.0.0
+- pkg:nuget/OCI.DotNetSDK.Oda@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Oda@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Oda@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Oda@14.2.0

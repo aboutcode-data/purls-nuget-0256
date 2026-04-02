@@ -77,3 +77,5 @@
 - pkg:nuget/JK.OKX.Net@3.7.1
 - pkg:nuget/JK.OKX.Net@3.8.0
 - pkg:nuget/JK.OKX.Net@4.0.1
+- pkg:nuget/JK.OKX.Net@4.10.2
+- pkg:nuget/JK.OKX.Net@4.11.0

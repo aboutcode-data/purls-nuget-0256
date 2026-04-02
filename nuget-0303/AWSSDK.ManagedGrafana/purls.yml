@@ -717,6 +717,7 @@
 - pkg:nuget/AWSSDK.ManagedGrafana@3.7.502.6
 - pkg:nuget/AWSSDK.ManagedGrafana@3.7.503.12
 - pkg:nuget/AWSSDK.ManagedGrafana@3.7.503.13
+- pkg:nuget/AWSSDK.ManagedGrafana@3.7.503.14
 - pkg:nuget/AWSSDK.ManagedGrafana@3.7.503.2
 - pkg:nuget/AWSSDK.ManagedGrafana@3.7.503.9
 - pkg:nuget/AWSSDK.ManagedGrafana@4.0.0
@@ -759,3 +760,7 @@
 - pkg:nuget/AWSSDK.ManagedGrafana@4.0.1.8
 - pkg:nuget/AWSSDK.ManagedGrafana@4.0.2.11
 - pkg:nuget/AWSSDK.ManagedGrafana@4.0.3.3
+- pkg:nuget/AWSSDK.ManagedGrafana@4.0.3.5
+- pkg:nuget/AWSSDK.ManagedGrafana@4.0.3.6
+- pkg:nuget/AWSSDK.ManagedGrafana@4.0.3.7
+- pkg:nuget/AWSSDK.ManagedGrafana@4.0.3.8

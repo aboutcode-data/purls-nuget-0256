@@ -1,3 +1,9 @@
 - pkg:nuget/Mockolate@0.43.0
 - pkg:nuget/Mockolate@1.0.3
 - pkg:nuget/Mockolate@1.0.4
+- pkg:nuget/Mockolate@2.0.1
+- pkg:nuget/Mockolate@2.0.2
+- pkg:nuget/Mockolate@2.1.0
+- pkg:nuget/Mockolate@2.1.0-pre.1
+- pkg:nuget/Mockolate@2.1.0-pre.2
+- pkg:nuget/Mockolate@2.1.1

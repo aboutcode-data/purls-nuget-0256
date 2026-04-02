@@ -30,6 +30,8 @@
 - pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL@1.1.2
 - pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL@10.0.0-rc.1
 - pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL@10.1.1
+- pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL@10.2.0
+- pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL@10.3.0-rc.1
 - pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL@2.0.0
 - pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL@2.0.1
 - pkg:nuget/Volo.Abp.EntityFrameworkCore.MySQL@2.1.0

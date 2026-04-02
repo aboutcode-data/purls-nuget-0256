@@ -59,6 +59,7 @@
 - pkg:nuget/Hangfire.Mongo@1.11.7
 - pkg:nuget/Hangfire.Mongo@1.12.0
 - pkg:nuget/Hangfire.Mongo@1.12.1
+- pkg:nuget/Hangfire.Mongo@1.14.0
 - pkg:nuget/Hangfire.Mongo@1.7.0
 - pkg:nuget/Hangfire.Mongo@1.7.1
 - pkg:nuget/Hangfire.Mongo@1.7.2

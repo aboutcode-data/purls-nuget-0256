@@ -34,6 +34,8 @@
 - pkg:nuget/Scandit.DataCapture.IdCapture.IdEuropeDrivingLicense@7.5.1
 - pkg:nuget/Scandit.DataCapture.IdCapture.IdEuropeDrivingLicense@7.6.0
 - pkg:nuget/Scandit.DataCapture.IdCapture.IdEuropeDrivingLicense@7.6.0-beta.1
+- pkg:nuget/Scandit.DataCapture.IdCapture.IdEuropeDrivingLicense@7.6.10
 - pkg:nuget/Scandit.DataCapture.IdCapture.IdEuropeDrivingLicense@7.6.4
 - pkg:nuget/Scandit.DataCapture.IdCapture.IdEuropeDrivingLicense@8.0.0-beta.1
 - pkg:nuget/Scandit.DataCapture.IdCapture.IdEuropeDrivingLicense@8.1.2
+- pkg:nuget/Scandit.DataCapture.IdCapture.IdEuropeDrivingLicense@8.3.0

@@ -44,3 +44,5 @@
 - pkg:nuget/DisCatSharp.Extensions.TwoFactorCommands@3.2.0-nightly-001
 - pkg:nuget/DisCatSharp.Extensions.TwoFactorCommands@3.2.0-nightly-002
 - pkg:nuget/DisCatSharp.Extensions.TwoFactorCommands@3.2.0-nightly-003
+- pkg:nuget/DisCatSharp.Extensions.TwoFactorCommands@3.3.1
+- pkg:nuget/DisCatSharp.Extensions.TwoFactorCommands@3.3.2

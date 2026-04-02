@@ -75,6 +75,8 @@
 - pkg:nuget/Utility.Package@1.9.7
 - pkg:nuget/Utility.Package@1.9.8
 - pkg:nuget/Utility.Package@1.9.9
+- pkg:nuget/Utility.Package@10.0.1
+- pkg:nuget/Utility.Package@10.0.2
 - pkg:nuget/Utility.Package@7.0.0
 - pkg:nuget/Utility.Package@7.0.1
 - pkg:nuget/Utility.Package@7.0.2

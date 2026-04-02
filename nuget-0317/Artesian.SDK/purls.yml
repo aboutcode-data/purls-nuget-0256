@@ -104,3 +104,4 @@
 - pkg:nuget/Artesian.SDK@7.6.0-beta03
 - pkg:nuget/Artesian.SDK@7.6.1
 - pkg:nuget/Artesian.SDK@7.6.2-beta01
+- pkg:nuget/Artesian.SDK@7.7.3

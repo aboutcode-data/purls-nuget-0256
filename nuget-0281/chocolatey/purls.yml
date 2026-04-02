@@ -122,3 +122,4 @@
 - pkg:nuget/chocolatey@2.4.3
 - pkg:nuget/chocolatey@2.5.0
 - pkg:nuget/chocolatey@2.5.1
+- pkg:nuget/chocolatey@2.7.1

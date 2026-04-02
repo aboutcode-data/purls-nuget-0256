@@ -994,6 +994,7 @@
 - pkg:nuget/AWSSDK.NetworkManager@3.7.503.41
 - pkg:nuget/AWSSDK.NetworkManager@3.7.503.44
 - pkg:nuget/AWSSDK.NetworkManager@3.7.503.45
+- pkg:nuget/AWSSDK.NetworkManager@3.7.503.46
 - pkg:nuget/AWSSDK.NetworkManager@3.7.503.7
 - pkg:nuget/AWSSDK.NetworkManager@4.0.0
 - pkg:nuget/AWSSDK.NetworkManager@4.0.0-preview
@@ -1037,3 +1038,7 @@
 - pkg:nuget/AWSSDK.NetworkManager@4.0.2.9
 - pkg:nuget/AWSSDK.NetworkManager@4.0.3
 - pkg:nuget/AWSSDK.NetworkManager@4.0.4.12
+- pkg:nuget/AWSSDK.NetworkManager@4.0.4.14
+- pkg:nuget/AWSSDK.NetworkManager@4.0.4.15
+- pkg:nuget/AWSSDK.NetworkManager@4.0.4.16
+- pkg:nuget/AWSSDK.NetworkManager@4.0.4.17

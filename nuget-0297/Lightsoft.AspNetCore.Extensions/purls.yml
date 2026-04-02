@@ -47,6 +47,9 @@
 - pkg:nuget/Lightsoft.AspNetCore.Extensions@0.0.0.7
 - pkg:nuget/Lightsoft.AspNetCore.Extensions@0.0.0.8
 - pkg:nuget/Lightsoft.AspNetCore.Extensions@0.0.0.9
+- pkg:nuget/Lightsoft.AspNetCore.Extensions@10.0.5.1
+- pkg:nuget/Lightsoft.AspNetCore.Extensions@10.0.5.2
+- pkg:nuget/Lightsoft.AspNetCore.Extensions@10.0.5.3
 - pkg:nuget/Lightsoft.AspNetCore.Extensions@9.0.10
 - pkg:nuget/Lightsoft.AspNetCore.Extensions@9.0.6.1
 - pkg:nuget/Lightsoft.AspNetCore.Extensions@9.0.6.2

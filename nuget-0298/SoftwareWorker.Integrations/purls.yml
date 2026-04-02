@@ -1,7 +1,14 @@
+- pkg:nuget/SoftwareWorker.Integrations@0.0.0-g0939e54b92
 - pkg:nuget/SoftwareWorker.Integrations@0.0.0-g2c5d5dc430
 - pkg:nuget/SoftwareWorker.Integrations@0.0.0-g3cc511062d
+- pkg:nuget/SoftwareWorker.Integrations@0.0.0-g69124470fc
+- pkg:nuget/SoftwareWorker.Integrations@0.0.0-g707d5339ca
 - pkg:nuget/SoftwareWorker.Integrations@0.0.0-g756502eb12
+- pkg:nuget/SoftwareWorker.Integrations@0.0.0-g79f5b0e309
 - pkg:nuget/SoftwareWorker.Integrations@0.0.0-g996667f892
+- pkg:nuget/SoftwareWorker.Integrations@0.0.0-ga22dd89cd4
 - pkg:nuget/SoftwareWorker.Integrations@0.0.0-ge249d0e168
+- pkg:nuget/SoftwareWorker.Integrations@0.0.0-ge2deca71a5
+- pkg:nuget/SoftwareWorker.Integrations@0.0.0-gedc13c2619
 - pkg:nuget/SoftwareWorker.Integrations@0.0.2-g75b2968502
 - pkg:nuget/SoftwareWorker.Integrations@1.3.1-g70c8c3dd90

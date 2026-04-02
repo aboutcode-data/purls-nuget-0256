@@ -1,4 +1,11 @@
 - pkg:nuget/Robhan.CdkLib.AwsMwaa@0.0.105
+- pkg:nuget/Robhan.CdkLib.AwsMwaa@0.0.113
+- pkg:nuget/Robhan.CdkLib.AwsMwaa@0.0.114
+- pkg:nuget/Robhan.CdkLib.AwsMwaa@0.0.115
+- pkg:nuget/Robhan.CdkLib.AwsMwaa@0.0.116
+- pkg:nuget/Robhan.CdkLib.AwsMwaa@0.0.117
+- pkg:nuget/Robhan.CdkLib.AwsMwaa@0.0.118
+- pkg:nuget/Robhan.CdkLib.AwsMwaa@0.0.119
 - pkg:nuget/Robhan.CdkLib.AwsMwaa@0.0.13
 - pkg:nuget/Robhan.CdkLib.AwsMwaa@0.0.55
 - pkg:nuget/Robhan.CdkLib.AwsMwaa@0.0.77

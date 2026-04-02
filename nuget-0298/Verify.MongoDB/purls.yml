@@ -32,3 +32,4 @@
 - pkg:nuget/Verify.MongoDB@6.0.26
 - pkg:nuget/Verify.MongoDB@6.0.6
 - pkg:nuget/Verify.MongoDB@6.0.8
+- pkg:nuget/Verify.MongoDB@8.0.67

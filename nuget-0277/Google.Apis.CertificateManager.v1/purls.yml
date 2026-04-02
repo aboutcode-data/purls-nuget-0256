@@ -42,3 +42,4 @@
 - pkg:nuget/Google.Apis.CertificateManager.v1@1.69.0.3765
 - pkg:nuget/Google.Apis.CertificateManager.v1@1.70.0.3877
 - pkg:nuget/Google.Apis.CertificateManager.v1@1.71.0.3912
+- pkg:nuget/Google.Apis.CertificateManager.v1@1.73.0.4092

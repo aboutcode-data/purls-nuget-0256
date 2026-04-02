@@ -229,6 +229,7 @@
 - pkg:nuget/EO.WebBrowser@25.2.1
 - pkg:nuget/EO.WebBrowser@25.2.36
 - pkg:nuget/EO.WebBrowser@25.2.64
+- pkg:nuget/EO.WebBrowser@26.1.34
 - pkg:nuget/EO.WebBrowser@3.0.100
 - pkg:nuget/EO.WebBrowser@3.0.112
 - pkg:nuget/EO.WebBrowser@3.0.113

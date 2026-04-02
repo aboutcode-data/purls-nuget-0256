@@ -5,6 +5,7 @@
 - pkg:nuget/Fuxion.AspNet@0.2.1-beta.1
 - pkg:nuget/Fuxion.AspNet@0.2.1-beta.2
 - pkg:nuget/Fuxion.AspNet@0.2.1-beta.3
+- pkg:nuget/Fuxion.AspNet@10.0.10
 - pkg:nuget/Fuxion.AspNet@9.0.10
 - pkg:nuget/Fuxion.AspNet@9.0.11
 - pkg:nuget/Fuxion.AspNet@9.0.12
