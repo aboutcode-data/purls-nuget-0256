@@ -51,4 +51,5 @@
 - pkg:nuget/Stott.Security.Optimizely@3.2.0-beta
 - pkg:nuget/Stott.Security.Optimizely@4.0.0
 - pkg:nuget/Stott.Security.Optimizely@4.0.1
+- pkg:nuget/Stott.Security.Optimizely@7.0.0
 - pkg:nuget/Stott.Security.Optimizely@7.0.0-alpha
