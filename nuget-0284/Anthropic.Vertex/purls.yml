@@ -1,1 +1,2 @@
 - pkg:nuget/Anthropic.Vertex@0.1.0
+- pkg:nuget/Anthropic.Vertex@0.2.1
