@@ -6,5 +6,6 @@
 - pkg:nuget/CyberSolutions.UCore.DependencyInjection@14.0.0
 - pkg:nuget/CyberSolutions.UCore.DependencyInjection@15.0.0
 - pkg:nuget/CyberSolutions.UCore.DependencyInjection@16.0.0
+- pkg:nuget/CyberSolutions.UCore.DependencyInjection@17.1.0
 - pkg:nuget/CyberSolutions.UCore.DependencyInjection@2.0.0
 - pkg:nuget/CyberSolutions.UCore.DependencyInjection@2.1.0
