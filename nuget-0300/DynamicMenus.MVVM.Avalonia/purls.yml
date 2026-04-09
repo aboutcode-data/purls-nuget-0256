@@ -1,2 +1,3 @@
 - pkg:nuget/DynamicMenus.MVVM.Avalonia@0.0.0-ci-b4dd92d
 - pkg:nuget/DynamicMenus.MVVM.Avalonia@1.0.0
+- pkg:nuget/DynamicMenus.MVVM.Avalonia@12.0.0
