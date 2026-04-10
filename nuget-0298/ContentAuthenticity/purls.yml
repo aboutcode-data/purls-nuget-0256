@@ -9,3 +9,5 @@
 - pkg:nuget/ContentAuthenticity@0.77.0
 - pkg:nuget/ContentAuthenticity@0.78.6
 - pkg:nuget/ContentAuthenticity@0.78.7
+- pkg:nuget/ContentAuthenticity@0.79.2
+- pkg:nuget/ContentAuthenticity@0.79.3
