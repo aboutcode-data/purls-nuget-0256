@@ -260,6 +260,7 @@
 - pkg:nuget/TencentCloudSDK.Facefusion@3.0.1345
 - pkg:nuget/TencentCloudSDK.Facefusion@3.0.1381
 - pkg:nuget/TencentCloudSDK.Facefusion@3.0.1398
+- pkg:nuget/TencentCloudSDK.Facefusion@3.0.1405
 - pkg:nuget/TencentCloudSDK.Facefusion@3.0.168
 - pkg:nuget/TencentCloudSDK.Facefusion@3.0.169
 - pkg:nuget/TencentCloudSDK.Facefusion@3.0.170
