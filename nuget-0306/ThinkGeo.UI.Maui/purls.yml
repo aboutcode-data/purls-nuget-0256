@@ -474,3 +474,5 @@
 - pkg:nuget/ThinkGeo.UI.Maui@14.5.0-beta137
 - pkg:nuget/ThinkGeo.UI.Maui@14.5.0-beta138
 - pkg:nuget/ThinkGeo.UI.Maui@15.0.0-beta001
+- pkg:nuget/ThinkGeo.UI.Maui@15.0.0-beta007
+- pkg:nuget/ThinkGeo.UI.Maui@15.0.0-beta008
