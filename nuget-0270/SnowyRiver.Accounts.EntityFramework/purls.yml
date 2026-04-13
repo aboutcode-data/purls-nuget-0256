@@ -8,3 +8,6 @@
 - pkg:nuget/SnowyRiver.Accounts.EntityFramework@1.0.6
 - pkg:nuget/SnowyRiver.Accounts.EntityFramework@1.0.7
 - pkg:nuget/SnowyRiver.Accounts.EntityFramework@1.0.8
+- pkg:nuget/SnowyRiver.Accounts.EntityFramework@10.0.14
+- pkg:nuget/SnowyRiver.Accounts.EntityFramework@10.0.15
+- pkg:nuget/SnowyRiver.Accounts.EntityFramework@10.0.16
