@@ -264,6 +264,7 @@
 - pkg:nuget/TencentCloudSDK.Redis@3.0.1327
 - pkg:nuget/TencentCloudSDK.Redis@3.0.1374
 - pkg:nuget/TencentCloudSDK.Redis@3.0.1394
+- pkg:nuget/TencentCloudSDK.Redis@3.0.1406
 - pkg:nuget/TencentCloudSDK.Redis@3.0.168
 - pkg:nuget/TencentCloudSDK.Redis@3.0.169
 - pkg:nuget/TencentCloudSDK.Redis@3.0.170
