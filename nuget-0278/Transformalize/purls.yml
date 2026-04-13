@@ -47,3 +47,4 @@
 - pkg:nuget/Transformalize@0.5.3-beta
 - pkg:nuget/Transformalize@0.6.28-beta
 - pkg:nuget/Transformalize@0.6.29-beta
+- pkg:nuget/Transformalize@1.1.0
