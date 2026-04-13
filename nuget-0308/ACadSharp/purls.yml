@@ -52,3 +52,4 @@
 - pkg:nuget/ACadSharp@3.1.32
 - pkg:nuget/ACadSharp@3.2.45
 - pkg:nuget/ACadSharp@3.4.24
+- pkg:nuget/ACadSharp@3.4.29
