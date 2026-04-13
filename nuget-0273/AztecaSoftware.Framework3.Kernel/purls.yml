@@ -73,6 +73,7 @@
 - pkg:nuget/AztecaSoftware.Framework3.Kernel@3.4.100.7
 - pkg:nuget/AztecaSoftware.Framework3.Kernel@3.4.100.70
 - pkg:nuget/AztecaSoftware.Framework3.Kernel@3.4.100.8
+- pkg:nuget/AztecaSoftware.Framework3.Kernel@3.4.100.85
 - pkg:nuget/AztecaSoftware.Framework3.Kernel@3.4.100.9
 - pkg:nuget/AztecaSoftware.Framework3.Kernel@3.4.11
 - pkg:nuget/AztecaSoftware.Framework3.Kernel@3.4.12
