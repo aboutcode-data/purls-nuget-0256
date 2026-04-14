@@ -408,6 +408,7 @@
 - pkg:nuget/PlayFabAllSDK@1.22.171127
 - pkg:nuget/PlayFabAllSDK@1.22.180122
 - pkg:nuget/PlayFabAllSDK@1.221.260327
+- pkg:nuget/PlayFabAllSDK@1.222.260410
 - pkg:nuget/PlayFabAllSDK@1.23.180122
 - pkg:nuget/PlayFabAllSDK@1.24.180213
 - pkg:nuget/PlayFabAllSDK@1.25.180316

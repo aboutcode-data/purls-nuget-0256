@@ -256,6 +256,7 @@
 - pkg:nuget/GemBox.Document@2026.3.124
 - pkg:nuget/GemBox.Document@2026.3.125
 - pkg:nuget/GemBox.Document@2026.4.100
+- pkg:nuget/GemBox.Document@2026.4.113
 - pkg:nuget/GemBox.Document@21.3.30.1077
 - pkg:nuget/GemBox.Document@21.3.30.1087
 - pkg:nuget/GemBox.Document@21.3.30.1110
