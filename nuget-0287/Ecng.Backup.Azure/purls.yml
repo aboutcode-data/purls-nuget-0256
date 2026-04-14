@@ -9,6 +9,7 @@
 - pkg:nuget/Ecng.Backup.Azure@1.0.57
 - pkg:nuget/Ecng.Backup.Azure@1.0.6
 - pkg:nuget/Ecng.Backup.Azure@1.0.63
+- pkg:nuget/Ecng.Backup.Azure@1.0.65
 - pkg:nuget/Ecng.Backup.Azure@1.0.7
 - pkg:nuget/Ecng.Backup.Azure@1.0.8
 - pkg:nuget/Ecng.Backup.Azure@1.0.9
