@@ -21,3 +21,5 @@
 - pkg:nuget/FrontierSharp.WorldApi@1.0.0
 - pkg:nuget/FrontierSharp.WorldApi@1.0.1
 - pkg:nuget/FrontierSharp.WorldApi@1.0.11
+- pkg:nuget/FrontierSharp.WorldApi@1.0.13
+- pkg:nuget/FrontierSharp.WorldApi@1.0.14
