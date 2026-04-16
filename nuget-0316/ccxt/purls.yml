@@ -321,4 +321,5 @@
 - pkg:nuget/ccxt@4.5.40
 - pkg:nuget/ccxt@4.5.41
 - pkg:nuget/ccxt@4.5.46
+- pkg:nuget/ccxt@4.5.49
 - pkg:nuget/ccxt@4.5.6
