@@ -739,6 +739,7 @@
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@25.14.25322.3
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@25.14.25323.2
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@25.18.26086.1
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@25.18.26107.2
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@25.2.20241108.3
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@25.2.20241111.2
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@25.2.20241115.1
