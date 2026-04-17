@@ -130,6 +130,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Security@3.1005.0
 - pkg:nuget/VirtoCommerce.Platform.Security@3.1007.1
 - pkg:nuget/VirtoCommerce.Platform.Security@3.1007.5
+- pkg:nuget/VirtoCommerce.Platform.Security@3.1007.6
 - pkg:nuget/VirtoCommerce.Platform.Security@3.101.0-alpha.12190
 - pkg:nuget/VirtoCommerce.Platform.Security@3.101.0-alpha.12192
 - pkg:nuget/VirtoCommerce.Platform.Security@3.101.0-alpha.12195
@@ -1544,6 +1545,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Security@3.91.0
 - pkg:nuget/VirtoCommerce.Platform.Security@3.915.0
 - pkg:nuget/VirtoCommerce.Platform.Security@3.917.0
+- pkg:nuget/VirtoCommerce.Platform.Security@3.917.7
 - pkg:nuget/VirtoCommerce.Platform.Security@3.919.0
 - pkg:nuget/VirtoCommerce.Platform.Security@3.92.0
 - pkg:nuget/VirtoCommerce.Platform.Security@3.92.0-alpha.12162
