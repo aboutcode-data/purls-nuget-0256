@@ -13,6 +13,7 @@
 - pkg:nuget/Substratum@2.0.0
 - pkg:nuget/Substratum@2.1.0
 - pkg:nuget/Substratum@2.1.1
+- pkg:nuget/Substratum@2.21.0
 - pkg:nuget/Substratum@2.3.1
 - pkg:nuget/Substratum@2.3.3
 - pkg:nuget/Substratum@2.4.0
