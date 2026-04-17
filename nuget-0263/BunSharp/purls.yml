@@ -1,2 +1,3 @@
 - pkg:nuget/BunSharp@0.1.0
+- pkg:nuget/BunSharp@0.1.10
 - pkg:nuget/BunSharp@0.1.7
