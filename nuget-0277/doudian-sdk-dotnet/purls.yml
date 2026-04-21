@@ -2,3 +2,4 @@
 - pkg:nuget/doudian-sdk-dotnet@1.0.1
 - pkg:nuget/doudian-sdk-dotnet@1.1.0
 - pkg:nuget/doudian-sdk-dotnet@1.1.1
+- pkg:nuget/doudian-sdk-dotnet@26.4.21.1
