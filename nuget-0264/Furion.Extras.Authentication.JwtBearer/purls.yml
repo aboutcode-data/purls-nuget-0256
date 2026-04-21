@@ -1011,6 +1011,7 @@
 - pkg:nuget/Furion.Extras.Authentication.JwtBearer@4.9.8.4
 - pkg:nuget/Furion.Extras.Authentication.JwtBearer@4.9.8.43
 - pkg:nuget/Furion.Extras.Authentication.JwtBearer@4.9.8.44
+- pkg:nuget/Furion.Extras.Authentication.JwtBearer@4.9.8.49
 - pkg:nuget/Furion.Extras.Authentication.JwtBearer@4.9.8.5
 - pkg:nuget/Furion.Extras.Authentication.JwtBearer@4.9.8.6
 - pkg:nuget/Furion.Extras.Authentication.JwtBearer@4.9.8.7
