@@ -4,3 +4,4 @@
 - pkg:nuget/Loom.Build@0.3.0-preview.3
 - pkg:nuget/Loom.Build@0.3.0-preview.4
 - pkg:nuget/Loom.Build@0.4.1
+- pkg:nuget/Loom.Build@0.4.3
