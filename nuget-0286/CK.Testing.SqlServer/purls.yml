@@ -24,6 +24,7 @@
 - pkg:nuget/CK.Testing.SqlServer@13.0.0
 - pkg:nuget/CK.Testing.SqlServer@14.0.0
 - pkg:nuget/CK.Testing.SqlServer@14.0.1
+- pkg:nuget/CK.Testing.SqlServer@15.0.0
 - pkg:nuget/CK.Testing.SqlServer@2.0.0
 - pkg:nuget/CK.Testing.SqlServer@2.1.0
 - pkg:nuget/CK.Testing.SqlServer@2.2.0
