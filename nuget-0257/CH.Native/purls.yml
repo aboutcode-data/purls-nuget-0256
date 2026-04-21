@@ -1,2 +1,3 @@
 - pkg:nuget/CH.Native@0.2.20
 - pkg:nuget/CH.Native@0.2.22
+- pkg:nuget/CH.Native@1.0.1-prerelease.9
