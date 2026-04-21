@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.AspNetCore.ConcurrencyLimiter@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.ConcurrencyLimiter@10.0.1
 - pkg:nuget/Microsoft.AspNetCore.ConcurrencyLimiter@10.0.2
+- pkg:nuget/Microsoft.AspNetCore.ConcurrencyLimiter@10.0.7
 - pkg:nuget/Microsoft.AspNetCore.ConcurrencyLimiter@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.ConcurrencyLimiter@3.0.0-preview8.19405.7
 - pkg:nuget/Microsoft.AspNetCore.ConcurrencyLimiter@3.0.0-preview9.19424.4
