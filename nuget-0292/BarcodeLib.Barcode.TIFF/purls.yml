@@ -19,3 +19,4 @@
 - pkg:nuget/BarcodeLib.Barcode.TIFF@7.4.1.8
 - pkg:nuget/BarcodeLib.Barcode.TIFF@7.4.1.9
 - pkg:nuget/BarcodeLib.Barcode.TIFF@8.0.0.10
+- pkg:nuget/BarcodeLib.Barcode.TIFF@8.0.0.13
