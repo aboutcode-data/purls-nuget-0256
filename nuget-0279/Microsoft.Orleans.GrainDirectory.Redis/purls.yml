@@ -26,6 +26,7 @@
 - pkg:nuget/Microsoft.Orleans.GrainDirectory.Redis@3.8.0-preview2
 - pkg:nuget/Microsoft.Orleans.GrainDirectory.Redis@3.8.0-preview3
 - pkg:nuget/Microsoft.Orleans.GrainDirectory.Redis@3.8.0-preview5
+- pkg:nuget/Microsoft.Orleans.GrainDirectory.Redis@3.8.1-beta1
 - pkg:nuget/Microsoft.Orleans.GrainDirectory.Redis@4.0.0-preview1
 - pkg:nuget/Microsoft.Orleans.GrainDirectory.Redis@4.0.0-preview2
 - pkg:nuget/Microsoft.Orleans.GrainDirectory.Redis@7.0.0-beta1
