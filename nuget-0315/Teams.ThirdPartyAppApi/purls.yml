@@ -12,3 +12,4 @@
 - pkg:nuget/Teams.ThirdPartyAppApi@1.1.0
 - pkg:nuget/Teams.ThirdPartyAppApi@2.0.0-prerelease2
 - pkg:nuget/Teams.ThirdPartyAppApi@2.0.0-prerelease3
+- pkg:nuget/Teams.ThirdPartyAppApi@4.0.1
