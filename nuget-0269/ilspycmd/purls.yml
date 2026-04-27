@@ -1,5 +1,6 @@
 - pkg:nuget/ilspycmd@1.0.0
 - pkg:nuget/ilspycmd@10.0.0.8079-preview1
+- pkg:nuget/ilspycmd@10.0.1.8346
 - pkg:nuget/ilspycmd@2.0.0
 - pkg:nuget/ilspycmd@3.0.0
 - pkg:nuget/ilspycmd@3.5.0
