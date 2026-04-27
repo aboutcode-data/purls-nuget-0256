@@ -1,3 +1,4 @@
 - pkg:nuget/Mapsui.Experimental.VectorTiles@5.0.0-beta.23
 - pkg:nuget/Mapsui.Experimental.VectorTiles@5.0.0-rc.1
 - pkg:nuget/Mapsui.Experimental.VectorTiles@5.1.0-beta.5
+- pkg:nuget/Mapsui.Experimental.VectorTiles@5.1.0-beta.6
