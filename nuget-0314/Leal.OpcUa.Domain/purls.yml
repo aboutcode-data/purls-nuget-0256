@@ -28,3 +28,4 @@
 - pkg:nuget/Leal.OpcUa.Domain@0.1.4.2
 - pkg:nuget/Leal.OpcUa.Domain@1.1.1.1
 - pkg:nuget/Leal.OpcUa.Domain@1.1.1.2
+- pkg:nuget/Leal.OpcUa.Domain@1.1.1.7
