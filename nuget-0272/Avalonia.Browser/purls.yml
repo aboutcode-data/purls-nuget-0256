@@ -56,3 +56,4 @@
 - pkg:nuget/Avalonia.Browser@11.3.5
 - pkg:nuget/Avalonia.Browser@11.3.6
 - pkg:nuget/Avalonia.Browser@12.0.0-rc2
+- pkg:nuget/Avalonia.Browser@12.0.2
