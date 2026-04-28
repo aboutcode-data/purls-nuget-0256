@@ -388,3 +388,4 @@
 - pkg:nuget/SQLHelper.DB@5.0.81
 - pkg:nuget/SQLHelper.DB@5.0.9
 - pkg:nuget/SQLHelper.DB@5.0.92
+- pkg:nuget/SQLHelper.DB@5.1.2
