@@ -256,3 +256,4 @@
 - pkg:nuget/Google.Apis.Slides.v1@1.68.0.3351
 - pkg:nuget/Google.Apis.Slides.v1@1.69.0.3701
 - pkg:nuget/Google.Apis.Slides.v1@1.69.0.3743
+- pkg:nuget/Google.Apis.Slides.v1@1.73.0.4115

@@ -25,6 +25,7 @@
 - pkg:nuget/pendo-sdk-android-xamarin-forms@2.22.6.6005
 - pkg:nuget/pendo-sdk-android-xamarin-forms@3.0.0.6101
 - pkg:nuget/pendo-sdk-android-xamarin-forms@3.1.0.6257
+- pkg:nuget/pendo-sdk-android-xamarin-forms@3.12.4.9337
 - pkg:nuget/pendo-sdk-android-xamarin-forms@3.2.0.6365
 - pkg:nuget/pendo-sdk-android-xamarin-forms@3.3.0.6597
 - pkg:nuget/pendo-sdk-android-xamarin-forms@3.4.0.6785

@@ -420,3 +420,4 @@
 - pkg:nuget/Atlas.Services.Customer.Library.Dto@5.1.8
 - pkg:nuget/Atlas.Services.Customer.Library.Dto@5.3.5
 - pkg:nuget/Atlas.Services.Customer.Library.Dto@5.4.0
+- pkg:nuget/Atlas.Services.Customer.Library.Dto@5.4.4
