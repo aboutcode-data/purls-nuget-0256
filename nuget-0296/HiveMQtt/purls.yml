@@ -51,6 +51,7 @@
 - pkg:nuget/HiveMQtt@0.4.0%2Bbuild.253
 - pkg:nuget/HiveMQtt@0.4.1%2Bbuild.256
 - pkg:nuget/HiveMQtt@0.4.3%2Bbuild.270
+- pkg:nuget/HiveMQtt@0.42.1%2Bbuild.981
 - pkg:nuget/HiveMQtt@0.5.0%2Bbuild.281
 - pkg:nuget/HiveMQtt@0.6.0%2Bbuild.292
 - pkg:nuget/HiveMQtt@0.7.0%2Bbuild.321
