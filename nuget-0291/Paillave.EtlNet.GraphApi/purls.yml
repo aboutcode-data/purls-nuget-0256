@@ -1,2 +1,3 @@
 - pkg:nuget/Paillave.EtlNet.GraphApi@2.1.8-beta
 - pkg:nuget/Paillave.EtlNet.GraphApi@2.1.9-beta
+- pkg:nuget/Paillave.EtlNet.GraphApi@2.2.0-beta.2
