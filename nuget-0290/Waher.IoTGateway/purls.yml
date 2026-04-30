@@ -187,3 +187,4 @@
 - pkg:nuget/Waher.IoTGateway@3.4.7
 - pkg:nuget/Waher.IoTGateway@3.5.0
 - pkg:nuget/Waher.IoTGateway@3.6.0
+- pkg:nuget/Waher.IoTGateway@3.7.2
