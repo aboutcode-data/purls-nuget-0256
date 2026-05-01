@@ -876,6 +876,7 @@
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@26.1.20250423.1
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@26.1.20250424.1
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@26.12.26086.3
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@26.13.26121.3
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@26.2.20250428.1
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@26.2.20250429.1
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@26.2.20250430.1
@@ -1052,6 +1053,7 @@
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@27.1.25275.4
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@27.6.26086.4
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@27.6.26092.1
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@27.7.26121.4
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@28.0.25240.1
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@28.0.25244.5
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@28.0.25247.1
@@ -1068,6 +1070,7 @@
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@28.0.26042.4
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@28.1.26082.7
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@28.1.26086.2
+- pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@28.1.26121.1
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@29.0.26071.5
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@29.0.26089.5
 - pkg:nuget/Microsoft.Dynamics.BusinessCentral.Translations@29.0.26090.5
