@@ -168,6 +168,7 @@
 - pkg:nuget/Sitko.Core.Swagger@11.8.0
 - pkg:nuget/Sitko.Core.Swagger@11.8.1
 - pkg:nuget/Sitko.Core.Swagger@11.83.0
+- pkg:nuget/Sitko.Core.Swagger@11.85.0
 - pkg:nuget/Sitko.Core.Swagger@11.9.0
 - pkg:nuget/Sitko.Core.Swagger@3.10.0
 - pkg:nuget/Sitko.Core.Swagger@3.11.0
