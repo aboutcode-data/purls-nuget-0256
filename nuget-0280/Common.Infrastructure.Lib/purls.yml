@@ -229,4 +229,5 @@
 - pkg:nuget/Common.Infrastructure.Lib@2.6.7
 - pkg:nuget/Common.Infrastructure.Lib@2.6.8
 - pkg:nuget/Common.Infrastructure.Lib@2.6.9
+- pkg:nuget/Common.Infrastructure.Lib@2.7.3
 - pkg:nuget/Common.Infrastructure.Lib@3.1.0
