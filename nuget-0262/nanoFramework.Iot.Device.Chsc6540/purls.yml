@@ -24,3 +24,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Chsc6540@1.1.822
 - pkg:nuget/nanoFramework.Iot.Device.Chsc6540@1.1.852
 - pkg:nuget/nanoFramework.Iot.Device.Chsc6540@1.1.864
+- pkg:nuget/nanoFramework.Iot.Device.Chsc6540@2.0.0-preview.49
