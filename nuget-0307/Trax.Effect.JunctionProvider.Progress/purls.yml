@@ -5,3 +5,4 @@
 - pkg:nuget/Trax.Effect.JunctionProvider.Progress@1.28.2
 - pkg:nuget/Trax.Effect.JunctionProvider.Progress@1.29.0
 - pkg:nuget/Trax.Effect.JunctionProvider.Progress@1.30.0
+- pkg:nuget/Trax.Effect.JunctionProvider.Progress@1.33.0
