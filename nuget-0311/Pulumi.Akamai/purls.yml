@@ -37,6 +37,7 @@
 - pkg:nuget/Pulumi.Akamai@11.1.0
 - pkg:nuget/Pulumi.Akamai@11.1.0-alpha.1775103238
 - pkg:nuget/Pulumi.Akamai@11.2.0-alpha.1776750538
+- pkg:nuget/Pulumi.Akamai@11.2.0-alpha.1777960640
 - pkg:nuget/Pulumi.Akamai@2.0.0
 - pkg:nuget/Pulumi.Akamai@2.0.0-alpha.1618412128%2Bffe297d8
 - pkg:nuget/Pulumi.Akamai@2.0.0-alpha.1618659504%2B7e2cd67a
