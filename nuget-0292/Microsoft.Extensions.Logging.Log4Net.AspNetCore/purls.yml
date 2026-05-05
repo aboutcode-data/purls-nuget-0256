@@ -1,6 +1,7 @@
 - pkg:nuget/Microsoft.Extensions.Logging.Log4Net.AspNetCore@1.0.0
 - pkg:nuget/Microsoft.Extensions.Logging.Log4Net.AspNetCore@1.0.1
 - pkg:nuget/Microsoft.Extensions.Logging.Log4Net.AspNetCore@1.1.0
+- pkg:nuget/Microsoft.Extensions.Logging.Log4Net.AspNetCore@10.0.0
 - pkg:nuget/Microsoft.Extensions.Logging.Log4Net.AspNetCore@2.0.0
 - pkg:nuget/Microsoft.Extensions.Logging.Log4Net.AspNetCore@2.0.1
 - pkg:nuget/Microsoft.Extensions.Logging.Log4Net.AspNetCore@2.0.2
