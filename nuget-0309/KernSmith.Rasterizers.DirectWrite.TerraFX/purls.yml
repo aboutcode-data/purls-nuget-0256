@@ -4,3 +4,4 @@
 - pkg:nuget/KernSmith.Rasterizers.DirectWrite.TerraFX@0.10.4
 - pkg:nuget/KernSmith.Rasterizers.DirectWrite.TerraFX@0.11.0
 - pkg:nuget/KernSmith.Rasterizers.DirectWrite.TerraFX@0.12.0
+- pkg:nuget/KernSmith.Rasterizers.DirectWrite.TerraFX@0.13.0
