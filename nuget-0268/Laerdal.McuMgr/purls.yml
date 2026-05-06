@@ -207,3 +207,5 @@
 - pkg:nuget/Laerdal.McuMgr@2.54.99-force-dud
 - pkg:nuget/Laerdal.McuMgr@3.55.0
 - pkg:nuget/Laerdal.McuMgr@3.55.0-force-dud
+- pkg:nuget/Laerdal.McuMgr@4.63.0
+- pkg:nuget/Laerdal.McuMgr@4.63.0-force-dud
