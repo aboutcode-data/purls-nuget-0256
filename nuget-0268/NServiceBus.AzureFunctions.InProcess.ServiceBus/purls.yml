@@ -21,4 +21,5 @@
 - pkg:nuget/NServiceBus.AzureFunctions.InProcess.ServiceBus@4.4.0
 - pkg:nuget/NServiceBus.AzureFunctions.InProcess.ServiceBus@4.4.1
 - pkg:nuget/NServiceBus.AzureFunctions.InProcess.ServiceBus@5.0.0
+- pkg:nuget/NServiceBus.AzureFunctions.InProcess.ServiceBus@5.0.2
 - pkg:nuget/NServiceBus.AzureFunctions.InProcess.ServiceBus@6.0.0
