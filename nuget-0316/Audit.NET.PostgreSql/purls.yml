@@ -242,6 +242,7 @@
 - pkg:nuget/Audit.NET.PostgreSql@30.1.3
 - pkg:nuget/Audit.NET.PostgreSql@31.0.0
 - pkg:nuget/Audit.NET.PostgreSql@31.0.1
+- pkg:nuget/Audit.NET.PostgreSql@32.1.0
 - pkg:nuget/Audit.NET.PostgreSql@8.4.0
 - pkg:nuget/Audit.NET.PostgreSql@8.5.0
 - pkg:nuget/Audit.NET.PostgreSql@8.6.0
