@@ -2,3 +2,4 @@
 - pkg:nuget/Microsoft.Agents.AI.Hosting.OpenAI@1.0.0-alpha.251110.1
 - pkg:nuget/Microsoft.Agents.AI.Hosting.OpenAI@1.0.0-alpha.260330.1
 - pkg:nuget/Microsoft.Agents.AI.Hosting.OpenAI@1.0.0-alpha.260402.1
+- pkg:nuget/Microsoft.Agents.AI.Hosting.OpenAI@1.5.0-alpha.260507.1
