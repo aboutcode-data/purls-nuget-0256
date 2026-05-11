@@ -10,3 +10,9 @@
 - pkg:nuget/Zongsoft.Data.SQLite@2.4.0
 - pkg:nuget/Zongsoft.Data.SQLite@2.5.0
 - pkg:nuget/Zongsoft.Data.SQLite@2.6.0
+- pkg:nuget/Zongsoft.Data.SQLite@3.0.0
+- pkg:nuget/Zongsoft.Data.SQLite@3.1.0
+- pkg:nuget/Zongsoft.Data.SQLite@3.2.0
+- pkg:nuget/Zongsoft.Data.SQLite@3.2.1
+- pkg:nuget/Zongsoft.Data.SQLite@3.2.2
+- pkg:nuget/Zongsoft.Data.SQLite@3.2.3
