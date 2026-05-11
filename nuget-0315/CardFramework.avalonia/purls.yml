@@ -40,3 +40,5 @@
 - pkg:nuget/CardFramework.avalonia@1.4.7
 - pkg:nuget/CardFramework.avalonia@1.4.9
 - pkg:nuget/CardFramework.avalonia@1.5.5
+- pkg:nuget/CardFramework.avalonia@1.5.5.1
+- pkg:nuget/CardFramework.avalonia@1.5.5.2
