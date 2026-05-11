@@ -22,6 +22,7 @@
 - pkg:nuget/ShadowWriter@0.8.0
 - pkg:nuget/ShadowWriter@0.9.0
 - pkg:nuget/ShadowWriter@0.9.1
+- pkg:nuget/ShadowWriter@0.9.13
 - pkg:nuget/ShadowWriter@0.9.3
 - pkg:nuget/ShadowWriter@0.9.4
 - pkg:nuget/ShadowWriter@0.9.5
