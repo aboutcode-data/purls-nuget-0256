@@ -45,3 +45,4 @@
 - pkg:nuget/Stardust.Aadb2c.AuthenticationFilter@2.4.0
 - pkg:nuget/Stardust.Aadb2c.AuthenticationFilter@2.5.0
 - pkg:nuget/Stardust.Aadb2c.AuthenticationFilter@2.5.1
+- pkg:nuget/Stardust.Aadb2c.AuthenticationFilter@2.5.3
