@@ -46,6 +46,7 @@
 - pkg:nuget/HUMANiT.Azure.Data@1.2.0-rc-3046
 - pkg:nuget/HUMANiT.Azure.Data@1.2.0-rc-3057
 - pkg:nuget/HUMANiT.Azure.Data@1.2.0-rc-3120
+- pkg:nuget/HUMANiT.Azure.Data@10.0.0-alpha-3320
 - pkg:nuget/HUMANiT.Azure.Data@2.0.0
 - pkg:nuget/HUMANiT.Azure.Data@2.0.0-alpha-3148
 - pkg:nuget/HUMANiT.Azure.Data@2.0.0-preview-3154
