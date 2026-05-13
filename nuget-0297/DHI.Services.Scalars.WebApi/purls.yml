@@ -1,3 +1,4 @@
+- pkg:nuget/DHI.Services.Scalars.WebApi@17.0.0
 - pkg:nuget/DHI.Services.Scalars.WebApi@3.0.0
 - pkg:nuget/DHI.Services.Scalars.WebApi@4.0.0
 - pkg:nuget/DHI.Services.Scalars.WebApi@4.0.0-rc1
