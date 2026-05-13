@@ -46,3 +46,5 @@
 - pkg:nuget/EnsyNet.DataAccess.EntityFramework@1.1.0-main.250710.212655
 - pkg:nuget/EnsyNet.DataAccess.EntityFramework@1.1.0-main.250715.201055
 - pkg:nuget/EnsyNet.DataAccess.EntityFramework@1.1.0-main.250715.211803
+- pkg:nuget/EnsyNet.DataAccess.EntityFramework@10.0.0-main.260513.143228
+- pkg:nuget/EnsyNet.DataAccess.EntityFramework@10.0.0-main.260513.145428
