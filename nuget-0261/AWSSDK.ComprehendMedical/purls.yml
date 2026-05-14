@@ -1124,6 +1124,7 @@
 - pkg:nuget/AWSSDK.ComprehendMedical@3.7.502.56
 - pkg:nuget/AWSSDK.ComprehendMedical@3.7.502.57
 - pkg:nuget/AWSSDK.ComprehendMedical@3.7.502.58
+- pkg:nuget/AWSSDK.ComprehendMedical@3.7.502.60
 - pkg:nuget/AWSSDK.ComprehendMedical@4.0.0
 - pkg:nuget/AWSSDK.ComprehendMedical@4.0.0-preview
 - pkg:nuget/AWSSDK.ComprehendMedical@4.0.0-preview.10
