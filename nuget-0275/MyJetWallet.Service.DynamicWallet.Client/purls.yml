@@ -1,2 +1,3 @@
+- pkg:nuget/MyJetWallet.Service.DynamicWallet.Client@2.19.0
 - pkg:nuget/MyJetWallet.Service.DynamicWallet.Client@2.2.0
 - pkg:nuget/MyJetWallet.Service.DynamicWallet.Client@2.3.0
