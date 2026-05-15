@@ -6,3 +6,4 @@
 - pkg:nuget/LaunchDarkly.ServerSdk.Telemetry@1.1.0-beta.2
 - pkg:nuget/LaunchDarkly.ServerSdk.Telemetry@1.2.0
 - pkg:nuget/LaunchDarkly.ServerSdk.Telemetry@1.3.0
+- pkg:nuget/LaunchDarkly.ServerSdk.Telemetry@1.5.0
