@@ -45,4 +45,5 @@
 - pkg:nuget/AWSSDK.BCMRecommendedActions@4.0.2.11
 - pkg:nuget/AWSSDK.BCMRecommendedActions@4.0.2.12
 - pkg:nuget/AWSSDK.BCMRecommendedActions@4.0.2.13
+- pkg:nuget/AWSSDK.BCMRecommendedActions@4.0.2.22
 - pkg:nuget/AWSSDK.BCMRecommendedActions@4.0.2.9
