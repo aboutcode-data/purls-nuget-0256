@@ -39,3 +39,5 @@
 - pkg:nuget/Yugen.Toolkit.Uwp@1.1.7
 - pkg:nuget/Yugen.Toolkit.Uwp@1.1.8
 - pkg:nuget/Yugen.Toolkit.Uwp@1.1.9
+- pkg:nuget/Yugen.Toolkit.Uwp@1.2.0
+- pkg:nuget/Yugen.Toolkit.Uwp@1.2.1
