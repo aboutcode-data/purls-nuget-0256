@@ -204,3 +204,4 @@
 - pkg:nuget/HIC.RDMP.Plugin.UI@8.4.5-rc1
 - pkg:nuget/HIC.RDMP.Plugin.UI@9.0.0
 - pkg:nuget/HIC.RDMP.Plugin.UI@9.0.1
+- pkg:nuget/HIC.RDMP.Plugin.UI@9.2.2
