@@ -11,3 +11,4 @@
 - pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.7.20250728.1
 - pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.7.20250806.1
 - pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.7.20250829.1
+- pkg:nuget/Microsoft.Windows.SDK.BuildTools.MSIX@1.7.260518100
