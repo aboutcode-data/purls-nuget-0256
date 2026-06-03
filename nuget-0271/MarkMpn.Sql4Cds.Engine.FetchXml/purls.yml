@@ -2,6 +2,8 @@
 - pkg:nuget/MarkMpn.Sql4Cds.Engine.FetchXml@10.0.0
 - pkg:nuget/MarkMpn.Sql4Cds.Engine.FetchXml@10.1.0
 - pkg:nuget/MarkMpn.Sql4Cds.Engine.FetchXml@10.2.0
+- pkg:nuget/MarkMpn.Sql4Cds.Engine.FetchXml@10.4.2
+- pkg:nuget/MarkMpn.Sql4Cds.Engine.FetchXml@10.4.3
 - pkg:nuget/MarkMpn.Sql4Cds.Engine.FetchXml@2.3.0
 - pkg:nuget/MarkMpn.Sql4Cds.Engine.FetchXml@3.1.0
 - pkg:nuget/MarkMpn.Sql4Cds.Engine.FetchXml@4.0.0
