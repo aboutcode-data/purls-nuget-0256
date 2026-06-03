@@ -45,3 +45,4 @@
 - pkg:nuget/JupiterScheduler.Core@1.0.7-prev
 - pkg:nuget/JupiterScheduler.Core@1.0.8-prev
 - pkg:nuget/JupiterScheduler.Core@1.0.9-prev
+- pkg:nuget/JupiterScheduler.Core@2.0.1
