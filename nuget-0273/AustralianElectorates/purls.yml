@@ -22,6 +22,7 @@
 - pkg:nuget/AustralianElectorates@11.0.0
 - pkg:nuget/AustralianElectorates@12.0.0
 - pkg:nuget/AustralianElectorates@12.1.0
+- pkg:nuget/AustralianElectorates@12.10.0
 - pkg:nuget/AustralianElectorates@12.2.0
 - pkg:nuget/AustralianElectorates@12.3.0
 - pkg:nuget/AustralianElectorates@12.4.0
