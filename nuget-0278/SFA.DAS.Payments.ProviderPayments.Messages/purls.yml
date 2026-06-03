@@ -19,3 +19,5 @@
 - pkg:nuget/SFA.DAS.Payments.ProviderPayments.Messages@0.2.1-prerelease-3
 - pkg:nuget/SFA.DAS.Payments.ProviderPayments.Messages@2.0.3-prerelease-2
 - pkg:nuget/SFA.DAS.Payments.ProviderPayments.Messages@2.0.3-prerelease-3
+- pkg:nuget/SFA.DAS.Payments.ProviderPayments.Messages@2.0.8
+- pkg:nuget/SFA.DAS.Payments.ProviderPayments.Messages@2.0.8-prerelease-10
