@@ -75,6 +75,7 @@
 - pkg:nuget/Neodynamic.SDK.ThermalLabel@14.0.25.511
 - pkg:nuget/Neodynamic.SDK.ThermalLabel@14.0.25.609
 - pkg:nuget/Neodynamic.SDK.ThermalLabel@14.0.25.701
+- pkg:nuget/Neodynamic.SDK.ThermalLabel@15.0.26.515
 - pkg:nuget/Neodynamic.SDK.ThermalLabel@5.0.3500.10
 - pkg:nuget/Neodynamic.SDK.ThermalLabel@5.0.3500.12
 - pkg:nuget/Neodynamic.SDK.ThermalLabel@5.0.3500.13
