@@ -179,3 +179,8 @@
 - pkg:nuget/Pulumi.DockerBuild@0.1.0-alpha.1778308111
 - pkg:nuget/Pulumi.DockerBuild@0.1.0-alpha.1778567737
 - pkg:nuget/Pulumi.DockerBuild@0.1.0-alpha.1778654353
+- pkg:nuget/Pulumi.DockerBuild@0.1.0-alpha.1779346390
+- pkg:nuget/Pulumi.DockerBuild@0.1.0-alpha.1779432791
+- pkg:nuget/Pulumi.DockerBuild@0.1.0-alpha.1779865278
+- pkg:nuget/Pulumi.DockerBuild@0.1.0-alpha.1779951427
+- pkg:nuget/Pulumi.DockerBuild@0.1.0-alpha.1780470420
