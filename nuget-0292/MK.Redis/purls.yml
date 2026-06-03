@@ -1,6 +1,10 @@
+- pkg:nuget/MK.Redis@10.0.2.13
+- pkg:nuget/MK.Redis@10.0.2.14
+- pkg:nuget/MK.Redis@10.0.2.15
 - pkg:nuget/MK.Redis@10.0.2.3
 - pkg:nuget/MK.Redis@10.0.2.4
 - pkg:nuget/MK.Redis@10.0.2.8
+- pkg:nuget/MK.Redis@10.0.3
 - pkg:nuget/MK.Redis@7.0.0
 - pkg:nuget/MK.Redis@7.0.1
 - pkg:nuget/MK.Redis@7.0.2
@@ -45,3 +49,4 @@
 - pkg:nuget/MK.Redis@9.0.3.1
 - pkg:nuget/MK.Redis@9.0.3.2
 - pkg:nuget/MK.Redis@9.0.3.3
+- pkg:nuget/MK.Redis@9.0.3.5
