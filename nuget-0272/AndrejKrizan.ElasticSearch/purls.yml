@@ -1,3 +1,5 @@
+- pkg:nuget/AndrejKrizan.ElasticSearch@10.2.3.1
+- pkg:nuget/AndrejKrizan.ElasticSearch@10.2.3.2
 - pkg:nuget/AndrejKrizan.ElasticSearch@7.0.0
 - pkg:nuget/AndrejKrizan.ElasticSearch@7.0.1
 - pkg:nuget/AndrejKrizan.ElasticSearch@7.1.0
