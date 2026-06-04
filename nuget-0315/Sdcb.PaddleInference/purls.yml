@@ -34,3 +34,4 @@
 - pkg:nuget/Sdcb.PaddleInference@2.5.0.1
 - pkg:nuget/Sdcb.PaddleInference@3.0.0
 - pkg:nuget/Sdcb.PaddleInference@3.0.1
+- pkg:nuget/Sdcb.PaddleInference@3.3.1
