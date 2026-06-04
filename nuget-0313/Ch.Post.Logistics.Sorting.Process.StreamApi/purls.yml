@@ -230,6 +230,8 @@
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.46.0-feature-add-dimensions-exceed-machine-limit-flag.2
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.46.0-feature-add-information-carrier-origin.2
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.46.0-feature-add-information-carrier-origin.3
+- pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.48.0
+- pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.48.0-feature-request-reasons.2
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.5.0
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.5.0-feature-discharge-reason.1
 - pkg:nuget/Ch.Post.Logistics.Sorting.Process.StreamApi@1.6.0
