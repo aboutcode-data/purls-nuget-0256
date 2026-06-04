@@ -200,3 +200,4 @@
 - pkg:nuget/SpawnDev.BlazorJS.WebWorkers@2.8.0
 - pkg:nuget/SpawnDev.BlazorJS.WebWorkers@2.9.0
 - pkg:nuget/SpawnDev.BlazorJS.WebWorkers@2.9.1
+- pkg:nuget/SpawnDev.BlazorJS.WebWorkers@3.2.2
