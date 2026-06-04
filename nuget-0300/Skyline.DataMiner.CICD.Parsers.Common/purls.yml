@@ -200,3 +200,4 @@
 - pkg:nuget/Skyline.DataMiner.CICD.Parsers.Common@6.0.0-delta
 - pkg:nuget/Skyline.DataMiner.CICD.Parsers.Common@6.0.0-echo
 - pkg:nuget/Skyline.DataMiner.CICD.Parsers.Common@6.0.0-foxtrot
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Common@6.1.0
