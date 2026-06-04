@@ -1501,6 +1501,7 @@
 - pkg:nuget/GreenDonut@16.1.0-p.1.9
 - pkg:nuget/GreenDonut@16.1.0-p.13
 - pkg:nuget/GreenDonut@16.1.0-p.14
+- pkg:nuget/GreenDonut@16.1.2
 - pkg:nuget/GreenDonut@2.0.0
 - pkg:nuget/GreenDonut@2.0.0-preview.1
 - pkg:nuget/GreenDonut@2.0.0-preview.2
