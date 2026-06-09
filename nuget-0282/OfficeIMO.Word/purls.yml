@@ -48,6 +48,8 @@
 - pkg:nuget/OfficeIMO.Word@1.0.5
 - pkg:nuget/OfficeIMO.Word@1.0.53
 - pkg:nuget/OfficeIMO.Word@1.0.6
+- pkg:nuget/OfficeIMO.Word@1.0.61
+- pkg:nuget/OfficeIMO.Word@1.0.62
 - pkg:nuget/OfficeIMO.Word@1.0.7
 - pkg:nuget/OfficeIMO.Word@1.0.8
 - pkg:nuget/OfficeIMO.Word@1.0.9
