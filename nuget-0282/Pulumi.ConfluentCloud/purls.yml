@@ -553,6 +553,7 @@
 - pkg:nuget/Pulumi.ConfluentCloud@2.70.0-alpha.1779432285
 - pkg:nuget/Pulumi.ConfluentCloud@2.71.0-alpha.1780469787
 - pkg:nuget/Pulumi.ConfluentCloud@2.71.0-alpha.1780901760
+- pkg:nuget/Pulumi.ConfluentCloud@2.72.0-alpha.1780987565
 - pkg:nuget/Pulumi.ConfluentCloud@2.8.0
 - pkg:nuget/Pulumi.ConfluentCloud@2.8.0-alpha.1730118765
 - pkg:nuget/Pulumi.ConfluentCloud@2.9.0
