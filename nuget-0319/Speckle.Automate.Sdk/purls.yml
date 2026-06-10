@@ -36,6 +36,7 @@
 - pkg:nuget/Speckle.Automate.Sdk@3.18.2
 - pkg:nuget/Speckle.Automate.Sdk@3.19.0-stj-experiment
 - pkg:nuget/Speckle.Automate.Sdk@3.20.2-stj-experiment
+- pkg:nuget/Speckle.Automate.Sdk@3.21.0
 - pkg:nuget/Speckle.Automate.Sdk@3.4.0
 - pkg:nuget/Speckle.Automate.Sdk@3.4.0-alpha.11
 - pkg:nuget/Speckle.Automate.Sdk@3.4.0-alpha.12

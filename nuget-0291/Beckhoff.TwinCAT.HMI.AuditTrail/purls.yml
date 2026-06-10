@@ -2,3 +2,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.AuditTrail@22.0.6955
 - pkg:nuget/Beckhoff.TwinCAT.HMI.AuditTrail@22.0.7066
 - pkg:nuget/Beckhoff.TwinCAT.HMI.AuditTrail@22.0.7983
+- pkg:nuget/Beckhoff.TwinCAT.HMI.AuditTrail@23.0.198

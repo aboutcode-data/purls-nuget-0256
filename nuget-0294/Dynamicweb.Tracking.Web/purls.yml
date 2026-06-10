@@ -154,5 +154,6 @@
 - pkg:nuget/Dynamicweb.Tracking.Web@10.24.7
 - pkg:nuget/Dynamicweb.Tracking.Web@10.25.2-PreRelease
 - pkg:nuget/Dynamicweb.Tracking.Web@10.26.0-PreRelease
+- pkg:nuget/Dynamicweb.Tracking.Web@10.26.7
 - pkg:nuget/Dynamicweb.Tracking.Web@2.0.0
 - pkg:nuget/Dynamicweb.Tracking.Web@2.0.1
