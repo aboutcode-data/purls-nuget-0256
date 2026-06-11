@@ -24,6 +24,8 @@
 - pkg:nuget/fAI@1.0.20
 - pkg:nuget/fAI@1.0.204
 - pkg:nuget/fAI@1.0.205
+- pkg:nuget/fAI@1.0.208
+- pkg:nuget/fAI@1.0.209
 - pkg:nuget/fAI@1.0.21
 - pkg:nuget/fAI@1.0.22
 - pkg:nuget/fAI@1.0.23
