@@ -6,4 +6,8 @@
 - pkg:nuget/PPWCode.Host.Core.WebApi@2.0.0
 - pkg:nuget/PPWCode.Host.Core.WebApi@2.1.0
 - pkg:nuget/PPWCode.Host.Core.WebApi@3.0.0
+- pkg:nuget/PPWCode.Host.Core.WebApi@4.1.0
 - pkg:nuget/PPWCode.Host.Core.WebApi@4.1.0-alpha.2
+- pkg:nuget/PPWCode.Host.Core.WebApi@4.1.0-alpha.3
+- pkg:nuget/PPWCode.Host.Core.WebApi@5.0.0
+- pkg:nuget/PPWCode.Host.Core.WebApi@5.0.0-alpha.5
