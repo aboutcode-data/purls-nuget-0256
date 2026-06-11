@@ -44,6 +44,7 @@
 - pkg:nuget/BitzArt.Flux@0.13.1-v1.0rc2
 - pkg:nuget/BitzArt.Flux@0.13.1-v1.0rc3
 - pkg:nuget/BitzArt.Flux@0.13.1-v1.0rc7
+- pkg:nuget/BitzArt.Flux@0.13.2-v1.0rc2
 - pkg:nuget/BitzArt.Flux@0.2.0-Prerelease
 - pkg:nuget/BitzArt.Flux@0.3.0-Prerelease
 - pkg:nuget/BitzArt.Flux@0.3.1-Prerelease
