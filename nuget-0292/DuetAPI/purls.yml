@@ -67,3 +67,4 @@
 - pkg:nuget/DuetAPI@3.6.0-rc.2
 - pkg:nuget/DuetAPI@3.6.0-rc.3
 - pkg:nuget/DuetAPI@3.6.1
+- pkg:nuget/DuetAPI@3.6.3
