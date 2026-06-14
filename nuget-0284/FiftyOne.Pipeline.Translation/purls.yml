@@ -1,2 +1,5 @@
 - pkg:nuget/FiftyOne.Pipeline.Translation@4.5.28
 - pkg:nuget/FiftyOne.Pipeline.Translation@4.5.29
+- pkg:nuget/FiftyOne.Pipeline.Translation@4.5.45
+- pkg:nuget/FiftyOne.Pipeline.Translation@4.5.49
+- pkg:nuget/FiftyOne.Pipeline.Translation@4.5.51
