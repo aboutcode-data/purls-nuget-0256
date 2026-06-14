@@ -129,3 +129,4 @@
 - pkg:nuget/Meshmakers.Octo.Runtime.Contracts.MongoDb@3.3.71
 - pkg:nuget/Meshmakers.Octo.Runtime.Contracts.MongoDb@3.3.81
 - pkg:nuget/Meshmakers.Octo.Runtime.Contracts.MongoDb@3.3.87
+- pkg:nuget/Meshmakers.Octo.Runtime.Contracts.MongoDb@3.4.10
