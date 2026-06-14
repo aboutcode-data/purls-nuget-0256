@@ -1,2 +1,4 @@
 - pkg:nuget/CommandTree@0.1.0-alpha.1
 - pkg:nuget/CommandTree@0.2.0
+- pkg:nuget/CommandTree@0.5.1
+- pkg:nuget/CommandTree@0.6.2
