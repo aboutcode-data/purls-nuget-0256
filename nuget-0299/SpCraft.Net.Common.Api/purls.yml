@@ -82,4 +82,5 @@
 - pkg:nuget/SpCraft.Net.Common.Api@1.2.8
 - pkg:nuget/SpCraft.Net.Common.Api@1.2.9
 - pkg:nuget/SpCraft.Net.Common.Api@2.0.24
+- pkg:nuget/SpCraft.Net.Common.Api@2.0.29
 - pkg:nuget/SpCraft.Net.Common.Api@2.0.8
