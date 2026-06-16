@@ -1,3 +1,4 @@
 - pkg:nuget/FGenerator@1.2.0
 - pkg:nuget/FGenerator@3.1.0
 - pkg:nuget/FGenerator@3.2.0
+- pkg:nuget/FGenerator@3.2.1
