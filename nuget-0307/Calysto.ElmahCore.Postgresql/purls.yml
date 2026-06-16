@@ -190,3 +190,4 @@
 - pkg:nuget/Calysto.ElmahCore.Postgresql@1.0.2186
 - pkg:nuget/Calysto.ElmahCore.Postgresql@1.0.2214
 - pkg:nuget/Calysto.ElmahCore.Postgresql@1.0.2257
+- pkg:nuget/Calysto.ElmahCore.Postgresql@1.0.2345
