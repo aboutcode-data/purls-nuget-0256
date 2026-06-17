@@ -35,3 +35,6 @@
 - pkg:nuget/AiDotNet.Native.MoltenVK@0.92.1
 - pkg:nuget/AiDotNet.Native.MoltenVK@0.92.3
 - pkg:nuget/AiDotNet.Native.MoltenVK@0.93.1
+- pkg:nuget/AiDotNet.Native.MoltenVK@0.96.1
+- pkg:nuget/AiDotNet.Native.MoltenVK@0.98.0
+- pkg:nuget/AiDotNet.Native.MoltenVK@0.98.1
