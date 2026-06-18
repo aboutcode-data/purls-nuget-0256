@@ -4,3 +4,5 @@
 - pkg:nuget/DevExpress.TreeMap.Core.es@25.1.9
 - pkg:nuget/DevExpress.TreeMap.Core.es@25.2.5
 - pkg:nuget/DevExpress.TreeMap.Core.es@25.2.7
+- pkg:nuget/DevExpress.TreeMap.Core.es@26.1.2-beta
+- pkg:nuget/DevExpress.TreeMap.Core.es@26.1.3
