@@ -109,3 +109,4 @@
 - pkg:nuget/Sarif.Multitool@4.5.4
 - pkg:nuget/Sarif.Multitool@4.6.3
 - pkg:nuget/Sarif.Multitool@4.6.5
+- pkg:nuget/Sarif.Multitool@5.1.1
