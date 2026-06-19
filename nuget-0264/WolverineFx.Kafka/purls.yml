@@ -135,5 +135,6 @@
 - pkg:nuget/WolverineFx.Kafka@5.36.2
 - pkg:nuget/WolverineFx.Kafka@5.39.1
 - pkg:nuget/WolverineFx.Kafka@5.4.3
+- pkg:nuget/WolverineFx.Kafka@6.13.0
 - pkg:nuget/WolverineFx.Kafka@6.3.1
 - pkg:nuget/WolverineFx.Kafka@6.7.0
