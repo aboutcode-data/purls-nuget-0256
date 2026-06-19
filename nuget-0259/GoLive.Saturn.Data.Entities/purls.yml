@@ -34,3 +34,4 @@
 - pkg:nuget/GoLive.Saturn.Data.Entities@3.3.3
 - pkg:nuget/GoLive.Saturn.Data.Entities@3.4.26
 - pkg:nuget/GoLive.Saturn.Data.Entities@3.4.27
+- pkg:nuget/GoLive.Saturn.Data.Entities@7.0.0-alpha.4
