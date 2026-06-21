@@ -85,6 +85,7 @@
 - pkg:nuget/SprightBlazor@4.13.2
 - pkg:nuget/SprightBlazor@4.14.1
 - pkg:nuget/SprightBlazor@4.15.2
+- pkg:nuget/SprightBlazor@4.16.3
 - pkg:nuget/SprightBlazor@4.2.0
 - pkg:nuget/SprightBlazor@4.2.1
 - pkg:nuget/SprightBlazor@4.2.2
