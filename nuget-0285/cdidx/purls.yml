@@ -10,7 +10,13 @@
 - pkg:nuget/cdidx@1.12.0
 - pkg:nuget/cdidx@1.13.0
 - pkg:nuget/cdidx@1.2.0
+- pkg:nuget/cdidx@1.26.2
+- pkg:nuget/cdidx@1.28.1
+- pkg:nuget/cdidx@1.28.5
 - pkg:nuget/cdidx@1.3.0
+- pkg:nuget/cdidx@1.30.1
+- pkg:nuget/cdidx@1.30.2
+- pkg:nuget/cdidx@1.33.2
 - pkg:nuget/cdidx@1.4.0
 - pkg:nuget/cdidx@1.4.1
 - pkg:nuget/cdidx@1.5.0
