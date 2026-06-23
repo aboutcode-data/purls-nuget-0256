@@ -384,4 +384,5 @@
 - pkg:nuget/AWSSDK.B2bi@4.0.4.22
 - pkg:nuget/AWSSDK.B2bi@4.0.4.23
 - pkg:nuget/AWSSDK.B2bi@4.0.4.32
+- pkg:nuget/AWSSDK.B2bi@4.0.5.10
 - pkg:nuget/AWSSDK.B2bi@4.0.5.5
