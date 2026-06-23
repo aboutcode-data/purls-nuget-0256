@@ -54,6 +54,7 @@
 - pkg:nuget/OCI.DotNetSDK.Streaming@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Streaming@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Streaming@14.2.0
+- pkg:nuget/OCI.DotNetSDK.Streaming@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Streaming@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Streaming@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Streaming@15.2.0
