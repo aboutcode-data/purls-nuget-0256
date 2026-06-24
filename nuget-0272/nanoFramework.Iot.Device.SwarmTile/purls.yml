@@ -30,6 +30,7 @@
 - pkg:nuget/nanoFramework.Iot.Device.SwarmTile@1.0.836
 - pkg:nuget/nanoFramework.Iot.Device.SwarmTile@1.0.848
 - pkg:nuget/nanoFramework.Iot.Device.SwarmTile@1.0.864
+- pkg:nuget/nanoFramework.Iot.Device.SwarmTile@1.0.978
 - pkg:nuget/nanoFramework.Iot.Device.SwarmTile@1.0.98
 - pkg:nuget/nanoFramework.Iot.Device.SwarmTile@2.0.0-preview.16
 - pkg:nuget/nanoFramework.Iot.Device.SwarmTile@2.0.0-preview.49
