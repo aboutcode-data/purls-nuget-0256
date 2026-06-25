@@ -263,6 +263,7 @@
 - pkg:nuget/TencentCloudSDK.Postgres@3.0.1301
 - pkg:nuget/TencentCloudSDK.Postgres@3.0.1303
 - pkg:nuget/TencentCloudSDK.Postgres@3.0.1328
+- pkg:nuget/TencentCloudSDK.Postgres@3.0.1452
 - pkg:nuget/TencentCloudSDK.Postgres@3.0.168
 - pkg:nuget/TencentCloudSDK.Postgres@3.0.169
 - pkg:nuget/TencentCloudSDK.Postgres@3.0.170
