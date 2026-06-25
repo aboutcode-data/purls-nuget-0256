@@ -1894,4 +1894,6 @@
 - pkg:nuget/Uno.WinUI.DevServer@6.7.0-dev.610
 - pkg:nuget/Uno.WinUI.DevServer@6.7.0-dev.614
 - pkg:nuget/Uno.WinUI.DevServer@6.7.0-dev.636
+- pkg:nuget/Uno.WinUI.DevServer@6.7.0-dev.641
+- pkg:nuget/Uno.WinUI.DevServer@6.7.0-dev.642
 - pkg:nuget/Uno.WinUI.DevServer@6.7.0-dev.80
