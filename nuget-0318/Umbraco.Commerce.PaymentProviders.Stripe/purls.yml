@@ -14,3 +14,4 @@
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.Stripe@15.1.0
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.Stripe@16.0.0
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.Stripe@16.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Stripe@18.0.0
