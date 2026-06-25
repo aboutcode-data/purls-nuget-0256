@@ -175,6 +175,7 @@
 - pkg:nuget/EasyDesk.CleanArchitecture.DependencyInjection@0.169.0
 - pkg:nuget/EasyDesk.CleanArchitecture.DependencyInjection@0.169.2
 - pkg:nuget/EasyDesk.CleanArchitecture.DependencyInjection@0.169.7
+- pkg:nuget/EasyDesk.CleanArchitecture.DependencyInjection@0.169.8
 - pkg:nuget/EasyDesk.CleanArchitecture.DependencyInjection@0.40.1
 - pkg:nuget/EasyDesk.CleanArchitecture.DependencyInjection@0.40.2
 - pkg:nuget/EasyDesk.CleanArchitecture.DependencyInjection@0.41.0
