@@ -110,6 +110,7 @@
 - pkg:nuget/Skender.Stock.Indicators@2.5.1
 - pkg:nuget/Skender.Stock.Indicators@2.6.0
 - pkg:nuget/Skender.Stock.Indicators@2.6.1
+- pkg:nuget/Skender.Stock.Indicators@2.7.3
 - pkg:nuget/Skender.Stock.Indicators@3.0.0-preview.1
 - pkg:nuget/Skender.Stock.Indicators@3.0.0-preview.2
 - pkg:nuget/Skender.Stock.Indicators@3.0.0-preview1014-0012
