@@ -29,3 +29,4 @@
 - pkg:nuget/Atc.Test@1.1.4
 - pkg:nuget/Atc.Test@1.1.9
 - pkg:nuget/Atc.Test@2.0.16
+- pkg:nuget/Atc.Test@3.0.0
