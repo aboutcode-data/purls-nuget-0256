@@ -1,2 +1,4 @@
 - pkg:nuget/LayeredCraft.DynamoMapper@1.0.0.31
 - pkg:nuget/LayeredCraft.DynamoMapper@1.6.1-preview.9
+- pkg:nuget/LayeredCraft.DynamoMapper@1.6.4
+- pkg:nuget/LayeredCraft.DynamoMapper@1.6.4-preview.12
