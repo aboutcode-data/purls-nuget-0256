@@ -23,6 +23,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Stats@117.0.3.9
 - pkg:nuget/Xamarin.GooglePlayServices.Stats@117.1.0
 - pkg:nuget/Xamarin.GooglePlayServices.Stats@117.1.0.1
+- pkg:nuget/Xamarin.GooglePlayServices.Stats@117.1.0.10
 - pkg:nuget/Xamarin.GooglePlayServices.Stats@117.1.0.2
 - pkg:nuget/Xamarin.GooglePlayServices.Stats@117.1.0.3
 - pkg:nuget/Xamarin.GooglePlayServices.Stats@117.1.0.4
