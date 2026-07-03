@@ -1,3 +1,4 @@
+- pkg:nuget/C1.WPF.Gauge@10.0.20261.89
 - pkg:nuget/C1.WPF.Gauge@6.0.20231.514-beta
 - pkg:nuget/C1.WPF.Gauge@6.0.20231.533-beta
 - pkg:nuget/C1.WPF.Gauge@6.0.20232.591
