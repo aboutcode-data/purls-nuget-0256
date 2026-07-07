@@ -25,6 +25,7 @@
 - pkg:nuget/RetailSolutions.Shared.Microservices@1.1.399
 - pkg:nuget/RetailSolutions.Shared.Microservices@1.1.7
 - pkg:nuget/RetailSolutions.Shared.Microservices@1.2.12
+- pkg:nuget/RetailSolutions.Shared.Microservices@1.2.123
 - pkg:nuget/RetailSolutions.Shared.Microservices@1.2.14
 - pkg:nuget/RetailSolutions.Shared.Microservices@1.2.17
 - pkg:nuget/RetailSolutions.Shared.Microservices@1.2.19
