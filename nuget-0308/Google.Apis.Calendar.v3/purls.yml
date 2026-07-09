@@ -348,6 +348,7 @@
 - pkg:nuget/Google.Apis.Calendar.v3@1.7.0.71-beta
 - pkg:nuget/Google.Apis.Calendar.v3@1.7.0.72-beta
 - pkg:nuget/Google.Apis.Calendar.v3@1.7.0.73-beta
+- pkg:nuget/Google.Apis.Calendar.v3@1.75.0.4200
 - pkg:nuget/Google.Apis.Calendar.v3@1.8.0.730-rc
 - pkg:nuget/Google.Apis.Calendar.v3@1.8.0.740-rc
 - pkg:nuget/Google.Apis.Calendar.v3@1.8.1.750
