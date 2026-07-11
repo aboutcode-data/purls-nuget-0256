@@ -1,1 +1,2 @@
 - pkg:nuget/Mqtt.Client@1.0.0
+- pkg:nuget/Mqtt.Client@1.1.1
