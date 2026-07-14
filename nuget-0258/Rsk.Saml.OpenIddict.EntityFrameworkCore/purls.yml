@@ -1,4 +1,5 @@
 - pkg:nuget/Rsk.Saml.OpenIddict.EntityFrameworkCore@10.0.0
+- pkg:nuget/Rsk.Saml.OpenIddict.EntityFrameworkCore@12.0.0
 - pkg:nuget/Rsk.Saml.OpenIddict.EntityFrameworkCore@8.0.0
 - pkg:nuget/Rsk.Saml.OpenIddict.EntityFrameworkCore@8.1.0
 - pkg:nuget/Rsk.Saml.OpenIddict.EntityFrameworkCore@9.0.0
