@@ -70,3 +70,5 @@
 - pkg:nuget/Krosoft.Extensions.Identity@2026.3.2.5803
 - pkg:nuget/Krosoft.Extensions.Identity@2026.4.7.6427
 - pkg:nuget/Krosoft.Extensions.Identity@2026.5.5.7086
+- pkg:nuget/Krosoft.Extensions.Identity@2026.6.25.7891
+- pkg:nuget/Krosoft.Extensions.Identity@2026.7.12.8108
