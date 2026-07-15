@@ -5,3 +5,4 @@
 - pkg:nuget/Nexudus.Cli@0.1.4
 - pkg:nuget/Nexudus.Cli@0.1.5
 - pkg:nuget/Nexudus.Cli@5.0.13
+- pkg:nuget/Nexudus.Cli@5.0.23
