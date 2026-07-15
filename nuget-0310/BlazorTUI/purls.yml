@@ -15,3 +15,7 @@
 - pkg:nuget/BlazorTUI@0.6.9.1
 - pkg:nuget/BlazorTUI@0.7.0
 - pkg:nuget/BlazorTUI@0.7.1
+- pkg:nuget/BlazorTUI@0.8.0
+- pkg:nuget/BlazorTUI@0.8.13
+- pkg:nuget/BlazorTUI@0.8.2
+- pkg:nuget/BlazorTUI@0.8.7
