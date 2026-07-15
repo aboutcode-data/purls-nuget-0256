@@ -78,6 +78,7 @@
 - pkg:nuget/Snet.Opc@26.166.3
 - pkg:nuget/Snet.Opc@26.168.1
 - pkg:nuget/Snet.Opc@26.181.1
+- pkg:nuget/Snet.Opc@26.196.1
 - pkg:nuget/Snet.Opc@26.77.1
 - pkg:nuget/Snet.Opc@26.78.1
 - pkg:nuget/Snet.Opc@26.86.1
