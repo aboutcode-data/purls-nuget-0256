@@ -104,3 +104,5 @@
 - pkg:nuget/GreatUtilities.SourceGenerators@0.1.493-beta
 - pkg:nuget/GreatUtilities.SourceGenerators@0.1.526-beta
 - pkg:nuget/GreatUtilities.SourceGenerators@0.1.528-beta
+- pkg:nuget/GreatUtilities.SourceGenerators@0.1.551-beta
+- pkg:nuget/GreatUtilities.SourceGenerators@0.1.559-beta
