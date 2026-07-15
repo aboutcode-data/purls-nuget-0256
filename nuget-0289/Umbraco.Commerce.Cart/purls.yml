@@ -1,3 +1,4 @@
 - pkg:nuget/Umbraco.Commerce.Cart@15.0.0
 - pkg:nuget/Umbraco.Commerce.Cart@16.0.0
 - pkg:nuget/Umbraco.Commerce.Cart@16.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.Cart@18.0.0
