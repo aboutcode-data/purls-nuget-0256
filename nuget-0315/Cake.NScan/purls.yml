@@ -21,6 +21,7 @@
 - pkg:nuget/Cake.NScan@0.50.1
 - pkg:nuget/Cake.NScan@0.50.2
 - pkg:nuget/Cake.NScan@0.50.3
+- pkg:nuget/Cake.NScan@0.500.0
 - pkg:nuget/Cake.NScan@0.6.0
 - pkg:nuget/Cake.NScan@0.6.1
 - pkg:nuget/Cake.NScan@0.60.0
