@@ -29,6 +29,7 @@
 - pkg:nuget/Spectre.IO@0.2.1-preview.0.1
 - pkg:nuget/Spectre.IO@0.2.1-preview.0.2
 - pkg:nuget/Spectre.IO@0.20.0
+- pkg:nuget/Spectre.IO@0.23.0
 - pkg:nuget/Spectre.IO@0.3.0
 - pkg:nuget/Spectre.IO@0.3.1-preview.0.1
 - pkg:nuget/Spectre.IO@0.3.1-preview.0.2
