@@ -5,6 +5,7 @@
 - pkg:nuget/OpenFga.Sdk@0.1.1
 - pkg:nuget/OpenFga.Sdk@0.1.2
 - pkg:nuget/OpenFga.Sdk@0.10.2
+- pkg:nuget/OpenFga.Sdk@0.10.3-beta.1
 - pkg:nuget/OpenFga.Sdk@0.2.0
 - pkg:nuget/OpenFga.Sdk@0.2.1
 - pkg:nuget/OpenFga.Sdk@0.2.2
