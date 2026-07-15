@@ -22,3 +22,4 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Formatters.Json@4.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Formatters.Json@5.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Formatters.Json@6.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Formatters.Json@7.0.0
