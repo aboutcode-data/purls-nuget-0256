@@ -30,6 +30,8 @@
 - pkg:nuget/Chrononuensis@0.23.8
 - pkg:nuget/Chrononuensis@0.23.9
 - pkg:nuget/Chrononuensis@0.24.0
+- pkg:nuget/Chrononuensis@0.24.30
+- pkg:nuget/Chrononuensis@0.24.31
 - pkg:nuget/Chrononuensis@0.3.0
 - pkg:nuget/Chrononuensis@0.4.0
 - pkg:nuget/Chrononuensis@0.5.0
