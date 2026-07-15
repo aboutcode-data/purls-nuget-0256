@@ -1,3 +1,4 @@
+- pkg:nuget/C1.Win.Input.MultiColumnCombo@10.0.20261.779
 - pkg:nuget/C1.Win.Input.MultiColumnCombo@6.0.20231.596-beta
 - pkg:nuget/C1.Win.Input.MultiColumnCombo@6.0.20231.603-beta
 - pkg:nuget/C1.Win.Input.MultiColumnCombo@6.0.20232.611-beta
