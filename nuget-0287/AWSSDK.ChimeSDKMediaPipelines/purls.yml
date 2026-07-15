@@ -688,4 +688,5 @@
 - pkg:nuget/AWSSDK.ChimeSDKMediaPipelines@4.0.1.21
 - pkg:nuget/AWSSDK.ChimeSDKMediaPipelines@4.0.1.22
 - pkg:nuget/AWSSDK.ChimeSDKMediaPipelines@4.0.1.30
+- pkg:nuget/AWSSDK.ChimeSDKMediaPipelines@4.0.100.4
 - pkg:nuget/AWSSDK.ChimeSDKMediaPipelines@4.0.2.5
