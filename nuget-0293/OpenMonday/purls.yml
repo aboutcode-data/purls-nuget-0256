@@ -25,3 +25,4 @@
 - pkg:nuget/OpenMonday@1.2.4
 - pkg:nuget/OpenMonday@1.2.5
 - pkg:nuget/OpenMonday@1.3.0
+- pkg:nuget/OpenMonday@1.6.0
