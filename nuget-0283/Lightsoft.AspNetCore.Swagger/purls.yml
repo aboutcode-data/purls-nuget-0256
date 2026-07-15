@@ -10,6 +10,7 @@
 - pkg:nuget/Lightsoft.AspNetCore.Swagger@0.0.0.7
 - pkg:nuget/Lightsoft.AspNetCore.Swagger@0.0.0.8
 - pkg:nuget/Lightsoft.AspNetCore.Swagger@0.0.0.9
+- pkg:nuget/Lightsoft.AspNetCore.Swagger@10.0.3
 - pkg:nuget/Lightsoft.AspNetCore.Swagger@9.0.6.1
 - pkg:nuget/Lightsoft.AspNetCore.Swagger@9.0.6.2
 - pkg:nuget/Lightsoft.AspNetCore.Swagger@9.0.6.3
