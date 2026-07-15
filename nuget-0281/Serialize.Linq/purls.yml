@@ -29,4 +29,7 @@
 - pkg:nuget/Serialize.Linq@3.0.148
 - pkg:nuget/Serialize.Linq@3.0.152
 - pkg:nuget/Serialize.Linq@3.1.160
+- pkg:nuget/Serialize.Linq@4.0.0
 - pkg:nuget/Serialize.Linq@4.0.167
+- pkg:nuget/Serialize.Linq@4.1.0
+- pkg:nuget/Serialize.Linq@4.4.1
