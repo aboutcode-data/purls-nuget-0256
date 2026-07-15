@@ -1,1 +1,2 @@
 - pkg:nuget/Snowberry.DependencyInjection.Abstractions@5.1.1
+- pkg:nuget/Snowberry.DependencyInjection.Abstractions@5.2.0

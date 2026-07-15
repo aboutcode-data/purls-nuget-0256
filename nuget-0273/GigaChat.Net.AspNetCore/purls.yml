@@ -1,0 +1,12 @@
+- pkg:nuget/GigaChat.Net.AspNetCore@0.1.0-preview.semantic-kernel.10.1
+- pkg:nuget/GigaChat.Net.AspNetCore@0.1.0-preview.semantic-kernel.11.1
+- pkg:nuget/GigaChat.Net.AspNetCore@1.0.2-preview.23.1
+- pkg:nuget/GigaChat.Net.AspNetCore@1.0.2-preview.24.1
+- pkg:nuget/GigaChat.Net.AspNetCore@1.0.2-preview.25.1
+- pkg:nuget/GigaChat.Net.AspNetCore@1.0.2-preview.26.1
+- pkg:nuget/GigaChat.Net.AspNetCore@1.0.2-preview.27.1
+- pkg:nuget/GigaChat.Net.AspNetCore@1.0.2-preview.28.1
+- pkg:nuget/GigaChat.Net.AspNetCore@1.0.2-preview.29.1
+- pkg:nuget/GigaChat.Net.AspNetCore@1.0.2-preview.30.1
+- pkg:nuget/GigaChat.Net.AspNetCore@1.0.2-preview.31.1
+- pkg:nuget/GigaChat.Net.AspNetCore@1.1.0
