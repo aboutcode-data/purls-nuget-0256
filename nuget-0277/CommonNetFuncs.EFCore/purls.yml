@@ -105,4 +105,5 @@
 - pkg:nuget/CommonNetFuncs.EFCore@4.0.23
 - pkg:nuget/CommonNetFuncs.EFCore@4.0.36
 - pkg:nuget/CommonNetFuncs.EFCore@4.0.56
+- pkg:nuget/CommonNetFuncs.EFCore@4.1.13
 - pkg:nuget/CommonNetFuncs.EFCore@4.1.3
