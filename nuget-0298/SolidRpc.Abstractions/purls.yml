@@ -167,3 +167,4 @@
 - pkg:nuget/SolidRpc.Abstractions@1.0.1-rc086
 - pkg:nuget/SolidRpc.Abstractions@1.0.1-rc087
 - pkg:nuget/SolidRpc.Abstractions@1.0.1-rc088
+- pkg:nuget/SolidRpc.Abstractions@1.0.1-rc097
