@@ -42,3 +42,5 @@
 - pkg:nuget/IndyCarTelemetrySchema@3.1.0-beta
 - pkg:nuget/IndyCarTelemetrySchema@3.1.1-beta
 - pkg:nuget/IndyCarTelemetrySchema@3.2.1
+- pkg:nuget/IndyCarTelemetrySchema@4.3.0
+- pkg:nuget/IndyCarTelemetrySchema@4.3.1
