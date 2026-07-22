@@ -65,4 +65,5 @@
 - pkg:nuget/ZPF_Basics@2.1.1.16%2B7e24557581525d7969b5c2c8a25db367de3db435
 - pkg:nuget/ZPF_Basics@2.1.1.17%2B4094b2cf337fc25cde99e91097f5332cb5aeb639
 - pkg:nuget/ZPF_Basics@2.1.1.2
+- pkg:nuget/ZPF_Basics@2.1.1.20
 - pkg:nuget/ZPF_Basics@2.1.1.5%2B36c8a8d300f8fe187a827cb673a71d40b2989d36
