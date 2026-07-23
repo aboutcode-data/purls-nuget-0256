@@ -20,6 +20,8 @@
 - pkg:nuget/ricaun.Nuke@1.10.0-alpha.2
 - pkg:nuget/ricaun.Nuke@1.11.2
 - pkg:nuget/ricaun.Nuke@1.11.2-rc
+- pkg:nuget/ricaun.Nuke@1.12.1
+- pkg:nuget/ricaun.Nuke@1.12.1-alpha
 - pkg:nuget/ricaun.Nuke@1.2.0
 - pkg:nuget/ricaun.Nuke@1.2.1
 - pkg:nuget/ricaun.Nuke@1.2.2
