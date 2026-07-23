@@ -7,3 +7,6 @@
 - pkg:nuget/Core.COM@5.2.8
 - pkg:nuget/Core.COM@5.3.4
 - pkg:nuget/Core.COM@5.4.3
+- pkg:nuget/Core.COM@5.4.7
+- pkg:nuget/Core.COM@5.6.2
+- pkg:nuget/Core.COM@5.6.5
