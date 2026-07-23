@@ -1,2 +1,6 @@
+- pkg:nuget/DevExpress.Win.Printing.es@25.1.12
 - pkg:nuget/DevExpress.Win.Printing.es@25.1.7
 - pkg:nuget/DevExpress.Win.Printing.es@25.1.9
+- pkg:nuget/DevExpress.Win.Printing.es@25.2.8
+- pkg:nuget/DevExpress.Win.Printing.es@26.1.2-beta
+- pkg:nuget/DevExpress.Win.Printing.es@26.1.3
