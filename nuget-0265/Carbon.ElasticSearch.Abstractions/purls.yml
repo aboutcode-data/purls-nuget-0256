@@ -1,4 +1,5 @@
 - pkg:nuget/Carbon.ElasticSearch.Abstractions@3.1.1
+- pkg:nuget/Carbon.ElasticSearch.Abstractions@3.10.0
 - pkg:nuget/Carbon.ElasticSearch.Abstractions@3.2.0
 - pkg:nuget/Carbon.ElasticSearch.Abstractions@3.3.0
 - pkg:nuget/Carbon.ElasticSearch.Abstractions@3.4.0
