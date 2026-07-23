@@ -14,3 +14,4 @@
 - pkg:nuget/Isaac.FileStorage@1.3.0
 - pkg:nuget/Isaac.FileStorage@1.5.0
 - pkg:nuget/Isaac.FileStorage@1.6.0
+- pkg:nuget/Isaac.FileStorage@2.2.0
