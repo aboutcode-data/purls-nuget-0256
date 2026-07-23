@@ -598,6 +598,7 @@
 - pkg:nuget/Ewl@85.0.0-pr00549
 - pkg:nuget/Ewl@85.0.0-pr00558
 - pkg:nuget/Ewl@85.0.0-pr00559
+- pkg:nuget/Ewl@86.0.0-pr00565
 - pkg:nuget/Ewl@9.0.0
 - pkg:nuget/Ewl@9.0.0-pr00033
 - pkg:nuget/Ewl@9.0.0-pr00034
