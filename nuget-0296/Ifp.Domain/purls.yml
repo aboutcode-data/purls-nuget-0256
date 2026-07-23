@@ -15,6 +15,7 @@
 - pkg:nuget/Ifp.Domain@1.0.32
 - pkg:nuget/Ifp.Domain@1.0.35
 - pkg:nuget/Ifp.Domain@1.0.4
+- pkg:nuget/Ifp.Domain@1.0.40
 - pkg:nuget/Ifp.Domain@1.0.5
 - pkg:nuget/Ifp.Domain@1.0.6
 - pkg:nuget/Ifp.Domain@1.0.7
