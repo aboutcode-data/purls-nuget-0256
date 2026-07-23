@@ -1,1 +1,2 @@
 - pkg:nuget/Gravity.Dsl.Emitter.JsonSchema@0.1.0-alpha4
+- pkg:nuget/Gravity.Dsl.Emitter.JsonSchema@0.4.0
