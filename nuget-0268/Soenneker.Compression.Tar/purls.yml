@@ -23,3 +23,4 @@
 - pkg:nuget/Soenneker.Compression.Tar@4.0.72
 - pkg:nuget/Soenneker.Compression.Tar@4.0.80
 - pkg:nuget/Soenneker.Compression.Tar@4.0.82
+- pkg:nuget/Soenneker.Compression.Tar@4.0.84
