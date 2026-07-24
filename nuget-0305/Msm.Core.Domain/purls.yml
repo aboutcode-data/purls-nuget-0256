@@ -1,1 +1,4 @@
+- pkg:nuget/Msm.Core.Domain@1.0.16
+- pkg:nuget/Msm.Core.Domain@1.0.20
+- pkg:nuget/Msm.Core.Domain@1.0.22
 - pkg:nuget/Msm.Core.Domain@1.0.8
