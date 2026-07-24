@@ -16,4 +16,5 @@
 - pkg:nuget/ZingPDF@1.0.26
 - pkg:nuget/ZingPDF@1.0.30
 - pkg:nuget/ZingPDF@1.0.31
+- pkg:nuget/ZingPDF@1.0.58
 - pkg:nuget/ZingPDF@1.0.9
