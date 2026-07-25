@@ -190,6 +190,7 @@
 - pkg:nuget/HttpAgent.AspNetCore@1.26.0
 - pkg:nuget/HttpAgent.AspNetCore@1.3.0
 - pkg:nuget/HttpAgent.AspNetCore@1.4.0
+- pkg:nuget/HttpAgent.AspNetCore@1.42.0
 - pkg:nuget/HttpAgent.AspNetCore@1.5.0
 - pkg:nuget/HttpAgent.AspNetCore@1.5.1
 - pkg:nuget/HttpAgent.AspNetCore@1.5.2
