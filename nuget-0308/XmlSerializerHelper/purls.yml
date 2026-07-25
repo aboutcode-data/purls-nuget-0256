@@ -30,3 +30,5 @@
 - pkg:nuget/XmlSerializerHelper@4.0.19095.3-pre
 - pkg:nuget/XmlSerializerHelper@4.0.19095.5-pre
 - pkg:nuget/XmlSerializerHelper@4.0.19096.1
+- pkg:nuget/XmlSerializerHelper@5.0.2-pre
+- pkg:nuget/XmlSerializerHelper@5.0.4-pre
