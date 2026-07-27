@@ -1,4 +1,5 @@
 - pkg:nuget/Codeed.Framework.Email@0.0.0
+- pkg:nuget/Codeed.Framework.Email@10.0.0-beta.1
 - pkg:nuget/Codeed.Framework.Email@6.0.6-beta.1
 - pkg:nuget/Codeed.Framework.Email@6.0.6-beta.2
 - pkg:nuget/Codeed.Framework.Email@6.0.7
