@@ -145,6 +145,7 @@
 - pkg:nuget/Google.Apis.Admin.Reports.reports_v1@1.70.0.3840
 - pkg:nuget/Google.Apis.Admin.Reports.reports_v1@1.70.0.3877
 - pkg:nuget/Google.Apis.Admin.Reports.reports_v1@1.70.0.3882
+- pkg:nuget/Google.Apis.Admin.Reports.reports_v1@1.75.0.4220
 - pkg:nuget/Google.Apis.Admin.Reports.reports_v1@1.8.0.250-rc
 - pkg:nuget/Google.Apis.Admin.Reports.reports_v1@1.8.1.260
 - pkg:nuget/Google.Apis.Admin.Reports.reports_v1@1.8.1.270
