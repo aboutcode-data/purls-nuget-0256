@@ -128,6 +128,7 @@
 - pkg:nuget/StockSharp.Licensing@5.0.212
 - pkg:nuget/StockSharp.Licensing@5.0.213
 - pkg:nuget/StockSharp.Licensing@5.0.214
+- pkg:nuget/StockSharp.Licensing@5.0.215
 - pkg:nuget/StockSharp.Licensing@5.0.22
 - pkg:nuget/StockSharp.Licensing@5.0.23
 - pkg:nuget/StockSharp.Licensing@5.0.24
