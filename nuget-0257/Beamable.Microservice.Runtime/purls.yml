@@ -1039,6 +1039,7 @@
 - pkg:nuget/Beamable.Microservice.Runtime@0.0.0-PREVIEW.NIGHTLY-202507162005
 - pkg:nuget/Beamable.Microservice.Runtime@0.0.0-PREVIEW.NIGHTLY-202508062000
 - pkg:nuget/Beamable.Microservice.Runtime@0.0.0-PREVIEW.NIGHTLY-202510010001
+- pkg:nuget/Beamable.Microservice.Runtime@0.0.0-PREVIEW.NIGHTLY-202607301355
 - pkg:nuget/Beamable.Microservice.Runtime@0.0.1
 - pkg:nuget/Beamable.Microservice.Runtime@1.10.0
 - pkg:nuget/Beamable.Microservice.Runtime@1.10.0-PREVIEW.RC1
