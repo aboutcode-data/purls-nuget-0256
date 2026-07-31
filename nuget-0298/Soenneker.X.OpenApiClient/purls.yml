@@ -57,6 +57,8 @@
 - pkg:nuget/Soenneker.X.OpenApiClient@4.0.159
 - pkg:nuget/Soenneker.X.OpenApiClient@4.0.161
 - pkg:nuget/Soenneker.X.OpenApiClient@4.0.169
+- pkg:nuget/Soenneker.X.OpenApiClient@4.0.177
+- pkg:nuget/Soenneker.X.OpenApiClient@4.0.178
 - pkg:nuget/Soenneker.X.OpenApiClient@4.0.72
 - pkg:nuget/Soenneker.X.OpenApiClient@4.0.78
 - pkg:nuget/Soenneker.X.OpenApiClient@4.0.79
