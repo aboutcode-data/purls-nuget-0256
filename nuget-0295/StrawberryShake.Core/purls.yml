@@ -1191,4 +1191,5 @@
 - pkg:nuget/StrawberryShake.Core@16.4.0-p.11
 - pkg:nuget/StrawberryShake.Core@16.4.0-p.8
 - pkg:nuget/StrawberryShake.Core@16.4.0-p.9
+- pkg:nuget/StrawberryShake.Core@16.6.0-p.11
 - pkg:nuget/StrawberryShake.Core@16.6.0-p.3
