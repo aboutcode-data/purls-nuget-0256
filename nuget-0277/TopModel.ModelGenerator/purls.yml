@@ -48,3 +48,4 @@
 - pkg:nuget/TopModel.ModelGenerator@1.9.0
 - pkg:nuget/TopModel.ModelGenerator@1.9.1
 - pkg:nuget/TopModel.ModelGenerator@1.9.2
+- pkg:nuget/TopModel.ModelGenerator@4.2.0
