@@ -22,3 +22,4 @@
 - pkg:nuget/Esri.ArcGISRuntime.runtimes.win@200.6.0
 - pkg:nuget/Esri.ArcGISRuntime.runtimes.win@200.7.0
 - pkg:nuget/Esri.ArcGISRuntime.runtimes.win@200.8.0
+- pkg:nuget/Esri.ArcGISRuntime.runtimes.win@300.1.0
