@@ -201,3 +201,4 @@
 - pkg:nuget/Google.Apis.CloudTrace.v1@1.68.0.3515
 - pkg:nuget/Google.Apis.CloudTrace.v1@1.69.0.3753
 - pkg:nuget/Google.Apis.CloudTrace.v1@1.69.0.3802
+- pkg:nuget/Google.Apis.CloudTrace.v1@1.75.0.4222
