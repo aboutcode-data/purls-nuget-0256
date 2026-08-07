@@ -22,3 +22,6 @@
 - pkg:nuget/PromptPlus@4.1.0
 - pkg:nuget/PromptPlus@4.2.0
 - pkg:nuget/PromptPlus@5.0.7
+- pkg:nuget/PromptPlus@6.0.0-Beta1
+- pkg:nuget/PromptPlus@6.0.0-Beta2
+- pkg:nuget/PromptPlus@6.0.1-Beta
