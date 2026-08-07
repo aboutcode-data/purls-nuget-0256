@@ -13,3 +13,8 @@
 - pkg:nuget/GovUK.Dfe.CoreLibs.Contracts@1.0.63-prerelease.2
 - pkg:nuget/GovUK.Dfe.CoreLibs.Contracts@1.0.65
 - pkg:nuget/GovUK.Dfe.CoreLibs.Contracts@1.0.66
+- pkg:nuget/GovUK.Dfe.CoreLibs.Contracts@1.0.81
+- pkg:nuget/GovUK.Dfe.CoreLibs.Contracts@1.0.84
+- pkg:nuget/GovUK.Dfe.CoreLibs.Contracts@1.0.86
+- pkg:nuget/GovUK.Dfe.CoreLibs.Contracts@1.0.91
+- pkg:nuget/GovUK.Dfe.CoreLibs.Contracts@1.0.92
