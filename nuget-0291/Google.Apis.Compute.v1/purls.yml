@@ -350,6 +350,7 @@
 - pkg:nuget/Google.Apis.Compute.v1@1.75.0.4197
 - pkg:nuget/Google.Apis.Compute.v1@1.75.0.4207
 - pkg:nuget/Google.Apis.Compute.v1@1.75.0.4220
+- pkg:nuget/Google.Apis.Compute.v1@1.75.0.4227
 - pkg:nuget/Google.Apis.Compute.v1@1.8.0.110-rc
 - pkg:nuget/Google.Apis.Compute.v1@1.8.0.120-rc
 - pkg:nuget/Google.Apis.Compute.v1@1.8.0.90-rc
