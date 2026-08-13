@@ -1,0 +1,10 @@
+- pkg:nuget/CDCavell.AsiBackbone.Storage.InMemory@0.2.0-alpha.1
+- pkg:nuget/CDCavell.AsiBackbone.Storage.InMemory@0.3.0-alpha.1
+- pkg:nuget/CDCavell.AsiBackbone.Storage.InMemory@0.4.0-alpha.1
+- pkg:nuget/CDCavell.AsiBackbone.Storage.InMemory@0.4.0-alpha.2
+- pkg:nuget/CDCavell.AsiBackbone.Storage.InMemory@0.4.0-alpha.3
+- pkg:nuget/CDCavell.AsiBackbone.Storage.InMemory@1.0.0
+- pkg:nuget/CDCavell.AsiBackbone.Storage.InMemory@1.1.0
+- pkg:nuget/CDCavell.AsiBackbone.Storage.InMemory@1.1.1
+- pkg:nuget/CDCavell.AsiBackbone.Storage.InMemory@1.2.0
+- pkg:nuget/CDCavell.AsiBackbone.Storage.InMemory@1.2.1
