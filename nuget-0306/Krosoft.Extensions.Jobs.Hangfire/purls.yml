@@ -18,3 +18,5 @@
 - pkg:nuget/Krosoft.Extensions.Jobs.Hangfire@2026.4.27.7045
 - pkg:nuget/Krosoft.Extensions.Jobs.Hangfire@2026.4.27.7047
 - pkg:nuget/Krosoft.Extensions.Jobs.Hangfire@2026.4.9.6520
+- pkg:nuget/Krosoft.Extensions.Jobs.Hangfire@2026.7.13.8174
+- pkg:nuget/Krosoft.Extensions.Jobs.Hangfire@2026.7.19.8461
