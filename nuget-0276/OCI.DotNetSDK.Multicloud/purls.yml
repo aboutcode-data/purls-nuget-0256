@@ -14,3 +14,4 @@
 - pkg:nuget/OCI.DotNetSDK.Multicloud@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Multicloud@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Multicloud@140.0.0
+- pkg:nuget/OCI.DotNetSDK.Multicloud@144.1.0
