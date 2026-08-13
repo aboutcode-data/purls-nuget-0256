@@ -1,4 +1,5 @@
 - pkg:nuget/Juice.MediatR.Contracts@10.1.1
+- pkg:nuget/Juice.MediatR.Contracts@10.2.3
 - pkg:nuget/Juice.MediatR.Contracts@9.0.0-beta.11
 - pkg:nuget/Juice.MediatR.Contracts@9.0.1
 - pkg:nuget/Juice.MediatR.Contracts@9.3.2
