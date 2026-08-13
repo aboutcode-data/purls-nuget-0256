@@ -2,3 +2,5 @@
 - pkg:nuget/1nception.Projections.Cassandra@12.0.1
 - pkg:nuget/1nception.Projections.Cassandra@12.0.2
 - pkg:nuget/1nception.Projections.Cassandra@12.0.3
+- pkg:nuget/1nception.Projections.Cassandra@12.0.5
+- pkg:nuget/1nception.Projections.Cassandra@12.0.6
