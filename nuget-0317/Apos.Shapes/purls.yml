@@ -24,3 +24,6 @@
 - pkg:nuget/Apos.Shapes@0.4.4-alpha
 - pkg:nuget/Apos.Shapes@0.5.2
 - pkg:nuget/Apos.Shapes@0.6.8
+- pkg:nuget/Apos.Shapes@0.7.12
+- pkg:nuget/Apos.Shapes@0.7.13
+- pkg:nuget/Apos.Shapes@0.7.14
