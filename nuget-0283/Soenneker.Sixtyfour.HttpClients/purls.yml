@@ -1,5 +1,13 @@
 - pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.15
 - pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.18
 - pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.2
+- pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.20
+- pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.21
+- pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.26
+- pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.29
 - pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.3
+- pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.30
+- pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.60
+- pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.66
+- pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.69
 - pkg:nuget/Soenneker.Sixtyfour.HttpClients@4.0.8
