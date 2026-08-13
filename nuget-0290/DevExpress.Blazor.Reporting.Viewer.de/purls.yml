@@ -1,3 +1,5 @@
 - pkg:nuget/DevExpress.Blazor.Reporting.Viewer.de@25.1.11
 - pkg:nuget/DevExpress.Blazor.Reporting.Viewer.de@25.1.12
 - pkg:nuget/DevExpress.Blazor.Reporting.Viewer.de@25.2.7
+- pkg:nuget/DevExpress.Blazor.Reporting.Viewer.de@25.2.9
+- pkg:nuget/DevExpress.Blazor.Reporting.Viewer.de@26.1.4
