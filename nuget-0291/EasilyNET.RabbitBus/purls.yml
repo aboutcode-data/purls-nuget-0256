@@ -48,3 +48,4 @@
 - pkg:nuget/EasilyNET.RabbitBus@1.5.8
 - pkg:nuget/EasilyNET.RabbitBus@1.5.9
 - pkg:nuget/EasilyNET.RabbitBus@1.6.0
+- pkg:nuget/EasilyNET.RabbitBus@6.26.813.102
