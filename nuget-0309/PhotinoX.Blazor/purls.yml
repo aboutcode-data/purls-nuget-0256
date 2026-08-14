@@ -1,5 +1,6 @@
 - pkg:nuget/PhotinoX.Blazor@4.1.0
 - pkg:nuget/PhotinoX.Blazor@4.2.0
 - pkg:nuget/PhotinoX.Blazor@4.3.0
+- pkg:nuget/PhotinoX.Blazor@5.0.0-preview.11
 - pkg:nuget/PhotinoX.Blazor@5.0.0-preview.8
 - pkg:nuget/PhotinoX.Blazor@5.0.0-preview.9
