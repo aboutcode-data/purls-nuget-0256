@@ -47,3 +47,5 @@
 - pkg:nuget/Itmo.Dev.Platform.BackgroundTasks.Postgres@2.2.286
 - pkg:nuget/Itmo.Dev.Platform.BackgroundTasks.Postgres@2.2.288
 - pkg:nuget/Itmo.Dev.Platform.BackgroundTasks.Postgres@2.2.308
+- pkg:nuget/Itmo.Dev.Platform.BackgroundTasks.Postgres@2.2.466
+- pkg:nuget/Itmo.Dev.Platform.BackgroundTasks.Postgres@2.2.468
