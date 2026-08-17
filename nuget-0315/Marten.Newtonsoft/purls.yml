@@ -4,6 +4,7 @@
 - pkg:nuget/Marten.Newtonsoft@9.17.1
 - pkg:nuget/Marten.Newtonsoft@9.22.1
 - pkg:nuget/Marten.Newtonsoft@9.23.0
+- pkg:nuget/Marten.Newtonsoft@9.25.0
 - pkg:nuget/Marten.Newtonsoft@9.4.0
 - pkg:nuget/Marten.Newtonsoft@9.5.0
 - pkg:nuget/Marten.Newtonsoft@9.6.0
