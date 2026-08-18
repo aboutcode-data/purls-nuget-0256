@@ -25,3 +25,4 @@
 - pkg:nuget/Cdklabs.CdkVerifiedPermissions@0.2.0
 - pkg:nuget/Cdklabs.CdkVerifiedPermissions@0.2.1
 - pkg:nuget/Cdklabs.CdkVerifiedPermissions@0.3.0
+- pkg:nuget/Cdklabs.CdkVerifiedPermissions@0.3.5
