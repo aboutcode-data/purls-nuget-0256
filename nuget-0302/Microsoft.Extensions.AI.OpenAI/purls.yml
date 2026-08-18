@@ -2,6 +2,7 @@
 - pkg:nuget/Microsoft.Extensions.AI.OpenAI@10.5.1
 - pkg:nuget/Microsoft.Extensions.AI.OpenAI@10.6.0
 - pkg:nuget/Microsoft.Extensions.AI.OpenAI@10.7.0
+- pkg:nuget/Microsoft.Extensions.AI.OpenAI@10.8.3
 - pkg:nuget/Microsoft.Extensions.AI.OpenAI@9.0.0-preview.9.24507.7
 - pkg:nuget/Microsoft.Extensions.AI.OpenAI@9.0.0-preview.9.24525.1
 - pkg:nuget/Microsoft.Extensions.AI.OpenAI@9.0.0-preview.9.24556.5
