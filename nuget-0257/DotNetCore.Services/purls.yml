@@ -145,3 +145,5 @@
 - pkg:nuget/DotNetCore.Services@19.6.0
 - pkg:nuget/DotNetCore.Services@19.7.0
 - pkg:nuget/DotNetCore.Services@19.8.0
+- pkg:nuget/DotNetCore.Services@20.22.0
+- pkg:nuget/DotNetCore.Services@20.23.0
