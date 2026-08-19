@@ -58,6 +58,7 @@
 - pkg:nuget/Google.Ads.GoogleAds@23.0.0
 - pkg:nuget/Google.Ads.GoogleAds@24.0.0
 - pkg:nuget/Google.Ads.GoogleAds@24.0.1
+- pkg:nuget/Google.Ads.GoogleAds@27.1.0
 - pkg:nuget/Google.Ads.GoogleAds@3.0.0
 - pkg:nuget/Google.Ads.GoogleAds@4.0.0
 - pkg:nuget/Google.Ads.GoogleAds@5.0.0
