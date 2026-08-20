@@ -46,3 +46,4 @@
 - pkg:nuget/PepperDash.Essentials.Plugin.LgDisplay@2.5.0-ir-control.8
 - pkg:nuget/PepperDash.Essentials.Plugin.LgDisplay@2.5.0-ir-control.9
 - pkg:nuget/PepperDash.Essentials.Plugin.LgDisplay@2.7.0-add-activeInputs.4
+- pkg:nuget/PepperDash.Essentials.Plugin.LgDisplay@2.8.0-feature-add-remote-control-support.5
