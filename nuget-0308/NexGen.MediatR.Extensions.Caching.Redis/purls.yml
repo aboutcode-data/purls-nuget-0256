@@ -7,3 +7,4 @@
 - pkg:nuget/NexGen.MediatR.Extensions.Caching.Redis@1.0.7
 - pkg:nuget/NexGen.MediatR.Extensions.Caching.Redis@1.4.2
 - pkg:nuget/NexGen.MediatR.Extensions.Caching.Redis@1.4.3
+- pkg:nuget/NexGen.MediatR.Extensions.Caching.Redis@2.3.2
