@@ -27,6 +27,7 @@
 - pkg:nuget/OnBarcode.Ocr@10.2.0.45
 - pkg:nuget/OnBarcode.Ocr@10.2.0.5
 - pkg:nuget/OnBarcode.Ocr@10.2.0.6
+- pkg:nuget/OnBarcode.Ocr@10.2.0.63
 - pkg:nuget/OnBarcode.Ocr@10.2.0.7
 - pkg:nuget/OnBarcode.Ocr@10.2.0.8
 - pkg:nuget/OnBarcode.Ocr@10.2.0.9
