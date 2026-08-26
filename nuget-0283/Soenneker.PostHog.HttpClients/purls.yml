@@ -11,4 +11,5 @@
 - pkg:nuget/Soenneker.PostHog.HttpClients@4.0.52
 - pkg:nuget/Soenneker.PostHog.HttpClients@4.0.57
 - pkg:nuget/Soenneker.PostHog.HttpClients@4.0.65
+- pkg:nuget/Soenneker.PostHog.HttpClients@4.0.73
 - pkg:nuget/Soenneker.PostHog.HttpClients@4.0.9
