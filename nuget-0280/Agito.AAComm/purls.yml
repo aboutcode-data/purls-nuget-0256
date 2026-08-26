@@ -1,4 +1,5 @@
 - pkg:nuget/Agito.AAComm@13.0.0
+- pkg:nuget/Agito.AAComm@14.0.0
 - pkg:nuget/Agito.AAComm@3.0.2.8
 - pkg:nuget/Agito.AAComm@3.0.2.801
 - pkg:nuget/Agito.AAComm@3.0.2.802
