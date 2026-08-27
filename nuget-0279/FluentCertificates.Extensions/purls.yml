@@ -16,6 +16,7 @@
 - pkg:nuget/FluentCertificates.Extensions@0.13.0
 - pkg:nuget/FluentCertificates.Extensions@0.16.1-ci.13
 - pkg:nuget/FluentCertificates.Extensions@0.18.0
+- pkg:nuget/FluentCertificates.Extensions@0.20.1
 - pkg:nuget/FluentCertificates.Extensions@0.5.5-ci0002
 - pkg:nuget/FluentCertificates.Extensions@0.5.5-ci0004
 - pkg:nuget/FluentCertificates.Extensions@0.5.5-ci0005
