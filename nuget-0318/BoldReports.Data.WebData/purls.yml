@@ -19,6 +19,7 @@
 - pkg:nuget/BoldReports.Data.WebData@13.1.37
 - pkg:nuget/BoldReports.Data.WebData@13.1.40
 - pkg:nuget/BoldReports.Data.WebData@14.1.12
+- pkg:nuget/BoldReports.Data.WebData@14.1.18
 - pkg:nuget/BoldReports.Data.WebData@2.3.39
 - pkg:nuget/BoldReports.Data.WebData@2.4.10
 - pkg:nuget/BoldReports.Data.WebData@2.4.19
