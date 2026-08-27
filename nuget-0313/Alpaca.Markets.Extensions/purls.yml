@@ -145,3 +145,4 @@
 - pkg:nuget/Alpaca.Markets.Extensions@8.0.0-alpha1
 - pkg:nuget/Alpaca.Markets.Extensions@8.0.0-beta1
 - pkg:nuget/Alpaca.Markets.Extensions@8.0.0-beta2
+- pkg:nuget/Alpaca.Markets.Extensions@8.0.0-beta3
