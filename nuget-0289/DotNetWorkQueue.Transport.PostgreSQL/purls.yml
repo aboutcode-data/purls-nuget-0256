@@ -2,6 +2,7 @@
 - pkg:nuget/DotNetWorkQueue.Transport.PostgreSQL@0.1.6
 - pkg:nuget/DotNetWorkQueue.Transport.PostgreSQL@0.1.7
 - pkg:nuget/DotNetWorkQueue.Transport.PostgreSQL@0.1.9
+- pkg:nuget/DotNetWorkQueue.Transport.PostgreSQL@0.10.0
 - pkg:nuget/DotNetWorkQueue.Transport.PostgreSQL@0.2.1
 - pkg:nuget/DotNetWorkQueue.Transport.PostgreSQL@0.3.0
 - pkg:nuget/DotNetWorkQueue.Transport.PostgreSQL@0.3.1
