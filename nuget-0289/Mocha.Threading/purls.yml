@@ -11,6 +11,10 @@
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.23
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.24
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.25
+- pkg:nuget/Mocha.Threading@16.0.0-rc.1.29
+- pkg:nuget/Mocha.Threading@16.0.0-rc.1.30
+- pkg:nuget/Mocha.Threading@16.0.0-rc.1.31
+- pkg:nuget/Mocha.Threading@16.0.0-rc.1.32
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.33
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.34
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.35
@@ -18,9 +22,12 @@
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.37
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.38
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.39
+- pkg:nuget/Mocha.Threading@16.0.0-rc.1.40
+- pkg:nuget/Mocha.Threading@16.0.0-rc.1.41
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.42
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.43
 - pkg:nuget/Mocha.Threading@16.0.0-rc.1.44
+- pkg:nuget/Mocha.Threading@16.0.1-p.1
 - pkg:nuget/Mocha.Threading@16.0.1-p.2
 - pkg:nuget/Mocha.Threading@16.0.1-p.3
 - pkg:nuget/Mocha.Threading@16.0.1-p.4
@@ -133,4 +140,6 @@
 - pkg:nuget/Mocha.Threading@16.6.1-p.3
 - pkg:nuget/Mocha.Threading@16.6.2-p.1
 - pkg:nuget/Mocha.Threading@16.6.2-p.4
+- pkg:nuget/Mocha.Threading@16.6.2-p.5
+- pkg:nuget/Mocha.Threading@16.6.2-p.6
 - pkg:nuget/Mocha.Threading@16.6.2-p.8
