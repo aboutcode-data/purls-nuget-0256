@@ -1,3 +1,5 @@
+- pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.XAi@10.5.1
+- pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.XAi@10.7.0
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.XAi@8.7.1
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.XAi@8.8.0
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.XAi@9.0.2
