@@ -34,3 +34,5 @@
 - pkg:nuget/Alga.wwwcore@4.1.0
 - pkg:nuget/Alga.wwwcore@5.0.6
 - pkg:nuget/Alga.wwwcore@6.0.0
+- pkg:nuget/Alga.wwwcore@6.0.6
+- pkg:nuget/Alga.wwwcore@6.0.8
