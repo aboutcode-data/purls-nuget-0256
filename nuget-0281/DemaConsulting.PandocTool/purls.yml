@@ -4,6 +4,8 @@
 - pkg:nuget/DemaConsulting.PandocTool@3.1.12.2-alpha.3
 - pkg:nuget/DemaConsulting.PandocTool@3.1.12.3
 - pkg:nuget/DemaConsulting.PandocTool@3.1.13
+- pkg:nuget/DemaConsulting.PandocTool@3.10.1
+- pkg:nuget/DemaConsulting.PandocTool@3.10.2
 - pkg:nuget/DemaConsulting.PandocTool@3.2.0
 - pkg:nuget/DemaConsulting.PandocTool@3.2.1
 - pkg:nuget/DemaConsulting.PandocTool@3.3.0
