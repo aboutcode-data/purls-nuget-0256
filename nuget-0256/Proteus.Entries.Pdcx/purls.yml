@@ -1,4 +1,5 @@
 - pkg:nuget/Proteus.Entries.Pdcx@12.0.14
+- pkg:nuget/Proteus.Entries.Pdcx@13.0.5
 - pkg:nuget/Proteus.Entries.Pdcx@2.0.10
 - pkg:nuget/Proteus.Entries.Pdcx@2.0.11
 - pkg:nuget/Proteus.Entries.Pdcx@2.0.12
