@@ -61,3 +61,4 @@
 - pkg:nuget/Fluid.ViewEngine@2.7.0
 - pkg:nuget/Fluid.ViewEngine@2.8.0
 - pkg:nuget/Fluid.ViewEngine@2.9.0
+- pkg:nuget/Fluid.ViewEngine@3.0.0-beta.6
