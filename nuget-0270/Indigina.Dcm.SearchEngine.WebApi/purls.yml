@@ -3,6 +3,7 @@
 - pkg:nuget/Indigina.Dcm.SearchEngine.WebApi@1.0.10
 - pkg:nuget/Indigina.Dcm.SearchEngine.WebApi@1.0.102
 - pkg:nuget/Indigina.Dcm.SearchEngine.WebApi@1.0.11
+- pkg:nuget/Indigina.Dcm.SearchEngine.WebApi@1.0.110
 - pkg:nuget/Indigina.Dcm.SearchEngine.WebApi@1.0.12
 - pkg:nuget/Indigina.Dcm.SearchEngine.WebApi@1.0.13
 - pkg:nuget/Indigina.Dcm.SearchEngine.WebApi@1.0.14
