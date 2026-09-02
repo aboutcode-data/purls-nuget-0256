@@ -1,1 +1,2 @@
 - pkg:nuget/Linn.Cloud.Common.Logging.AmazonLambda@1.0.0
+- pkg:nuget/Linn.Cloud.Common.Logging.AmazonLambda@2.0.0
