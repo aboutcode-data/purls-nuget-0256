@@ -10,6 +10,8 @@
 - pkg:nuget/Soenneker.Playwrights.TestEnvironment@4.0.17
 - pkg:nuget/Soenneker.Playwrights.TestEnvironment@4.0.187
 - pkg:nuget/Soenneker.Playwrights.TestEnvironment@4.0.190
+- pkg:nuget/Soenneker.Playwrights.TestEnvironment@4.0.213
+- pkg:nuget/Soenneker.Playwrights.TestEnvironment@4.0.215
 - pkg:nuget/Soenneker.Playwrights.TestEnvironment@4.0.23
 - pkg:nuget/Soenneker.Playwrights.TestEnvironment@4.0.36
 - pkg:nuget/Soenneker.Playwrights.TestEnvironment@4.0.4
