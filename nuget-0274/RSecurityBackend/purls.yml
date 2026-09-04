@@ -58,3 +58,4 @@
 - pkg:nuget/RSecurityBackend@1.5.7
 - pkg:nuget/RSecurityBackend@1.5.8
 - pkg:nuget/RSecurityBackend@1.5.9
+- pkg:nuget/RSecurityBackend@1.7.6
