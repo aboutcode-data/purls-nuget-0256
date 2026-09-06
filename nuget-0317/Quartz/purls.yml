@@ -65,5 +65,10 @@
 - pkg:nuget/Quartz@3.8.1
 - pkg:nuget/Quartz@3.9.0
 - pkg:nuget/Quartz@4.0.0-alpha.1
+- pkg:nuget/Quartz@4.0.0-alpha.2
 - pkg:nuget/Quartz@4.0.0-alpha.3
+- pkg:nuget/Quartz@4.0.0-alpha.4
+- pkg:nuget/Quartz@4.0.0-alpha.5
 - pkg:nuget/Quartz@4.0.0-beta.1
+- pkg:nuget/Quartz@4.0.0-rc.1
+- pkg:nuget/Quartz@4.0.0-rc.2
