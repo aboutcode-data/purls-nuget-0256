@@ -1,2 +1,3 @@
 - pkg:nuget/dms3.cache.DmsCSRedis@1.5.0
 - pkg:nuget/dms3.cache.DmsCSRedis@1.6.0
+- pkg:nuget/dms3.cache.DmsCSRedis@2.0.0
