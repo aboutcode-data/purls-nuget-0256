@@ -13,6 +13,7 @@
 - pkg:nuget/Microsoft.CodeAnalysis.NetAnalyzers@10.0.302
 - pkg:nuget/Microsoft.CodeAnalysis.NetAnalyzers@10.0.400
 - pkg:nuget/Microsoft.CodeAnalysis.NetAnalyzers@11.0.100-preview.4.26230.115
+- pkg:nuget/Microsoft.CodeAnalysis.NetAnalyzers@11.0.100-rc.1.26425.128
 - pkg:nuget/Microsoft.CodeAnalysis.NetAnalyzers@5.0.0
 - pkg:nuget/Microsoft.CodeAnalysis.NetAnalyzers@5.0.1
 - pkg:nuget/Microsoft.CodeAnalysis.NetAnalyzers@5.0.2
