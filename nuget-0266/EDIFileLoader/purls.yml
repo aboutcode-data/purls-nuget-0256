@@ -166,3 +166,4 @@
 - pkg:nuget/EDIFileLoader@2.1.4
 - pkg:nuget/EDIFileLoader@2.8.0
 - pkg:nuget/EDIFileLoader@3.1.0
+- pkg:nuget/EDIFileLoader@3.1.1
