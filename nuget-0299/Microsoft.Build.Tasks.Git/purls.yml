@@ -21,5 +21,7 @@
 - pkg:nuget/Microsoft.Build.Tasks.Git@10.0.203
 - pkg:nuget/Microsoft.Build.Tasks.Git@10.0.301
 - pkg:nuget/Microsoft.Build.Tasks.Git@10.0.400
+- pkg:nuget/Microsoft.Build.Tasks.Git@10.0.401
 - pkg:nuget/Microsoft.Build.Tasks.Git@11.0.100-preview.4.26230.115
+- pkg:nuget/Microsoft.Build.Tasks.Git@11.0.100-rc.1.26425.128
 - pkg:nuget/Microsoft.Build.Tasks.Git@8.0.0
