@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.Text@10.0.0
+- pkg:nuget/ServiceStack.Text@10.2.0
 - pkg:nuget/ServiceStack.Text@2.20.0
 - pkg:nuget/ServiceStack.Text@2.26.0
 - pkg:nuget/ServiceStack.Text@2.27.0
