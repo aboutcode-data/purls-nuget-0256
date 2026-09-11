@@ -6,3 +6,6 @@
 - pkg:nuget/SharperHacks.CoreLibs.Math.Interfaces@3.0.2%2Bbuilt.by.JwD.a744100
 - pkg:nuget/SharperHacks.CoreLibs.Math.Interfaces@4.0.0%2B744e2c5.2025.07.18.built.by.JwD
 - pkg:nuget/SharperHacks.CoreLibs.Math.Interfaces@4.0.2%2B2025.10.13.JwD.c22050f
+- pkg:nuget/SharperHacks.CoreLibs.Math.Interfaces@4.1.0%2B2025.10.27.JwD.27bd933
+- pkg:nuget/SharperHacks.CoreLibs.Math.Interfaces@4.1.1%2B2025.11.02.JwD.7dfc81c
+- pkg:nuget/SharperHacks.CoreLibs.Math.Interfaces@4.1.2%2B2025.11.10.JwD.cd4ce7f
