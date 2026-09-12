@@ -206,6 +206,7 @@
 - pkg:nuget/TUnit.Templates@1.64.13
 - pkg:nuget/TUnit.Templates@1.66.0
 - pkg:nuget/TUnit.Templates@1.66.27
+- pkg:nuget/TUnit.Templates@1.67.0
 - pkg:nuget/TUnit.Templates@1.9.42
 - pkg:nuget/TUnit.Templates@1.9.81
 - pkg:nuget/TUnit.Templates@1.9.85
