@@ -71,6 +71,7 @@
 - pkg:nuget/Soenneker.Compression.Tar.XZ@4.0.379
 - pkg:nuget/Soenneker.Compression.Tar.XZ@4.0.382
 - pkg:nuget/Soenneker.Compression.Tar.XZ@4.0.383
+- pkg:nuget/Soenneker.Compression.Tar.XZ@4.0.393
 - pkg:nuget/Soenneker.Compression.Tar.XZ@4.0.65
 - pkg:nuget/Soenneker.Compression.Tar.XZ@4.0.66
 - pkg:nuget/Soenneker.Compression.Tar.XZ@4.0.84
