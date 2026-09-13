@@ -1,1 +1,2 @@
 - pkg:nuget/Concierge.Auth.Client.PeerSignature@1.0.0
+- pkg:nuget/Concierge.Auth.Client.PeerSignature@1.1.0
