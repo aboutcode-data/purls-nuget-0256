@@ -5,3 +5,4 @@
 - pkg:nuget/Rask.Postgres@0.20.1-alpha.0.68
 - pkg:nuget/Rask.Postgres@0.21.1-alpha.0.22
 - pkg:nuget/Rask.Postgres@0.21.1-alpha.0.39
+- pkg:nuget/Rask.Postgres@0.21.1-alpha.0.66
