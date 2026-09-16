@@ -37,6 +37,7 @@
 - pkg:nuget/LaunchDarkly.InternalSdk@3.1.0-alpha.2
 - pkg:nuget/LaunchDarkly.InternalSdk@3.1.1
 - pkg:nuget/LaunchDarkly.InternalSdk@3.1.2
+- pkg:nuget/LaunchDarkly.InternalSdk@3.11.0
 - pkg:nuget/LaunchDarkly.InternalSdk@3.2.0
 - pkg:nuget/LaunchDarkly.InternalSdk@3.2.0-alpha.1
 - pkg:nuget/LaunchDarkly.InternalSdk@3.2.0-alpha.2
