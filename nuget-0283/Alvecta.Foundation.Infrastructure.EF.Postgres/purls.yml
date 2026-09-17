@@ -2,3 +2,5 @@
 - pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@1.0.18
 - pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@1.0.3
 - pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@2.4.31
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@5.0.48
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@5.0.49
