@@ -61,3 +61,4 @@
 - pkg:nuget/Rask.SQLite.Snapshots@0.22.1-alpha.0.2
 - pkg:nuget/Rask.SQLite.Snapshots@0.22.1-alpha.0.23
 - pkg:nuget/Rask.SQLite.Snapshots@0.23.0
+- pkg:nuget/Rask.SQLite.Snapshots@0.23.1-alpha.0.3
