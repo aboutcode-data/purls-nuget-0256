@@ -1,6 +1,7 @@
 - pkg:nuget/Geex.Common@10.0.5
 - pkg:nuget/Geex.Common@10.0.6
 - pkg:nuget/Geex.Common@10.0.7
+- pkg:nuget/Geex.Common@10.0.9
 - pkg:nuget/Geex.Common@7.0.1
 - pkg:nuget/Geex.Common@7.0.2
 - pkg:nuget/Geex.Common@7.0.2.1427
