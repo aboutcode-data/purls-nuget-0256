@@ -5,3 +5,6 @@
 - pkg:nuget/TerseSharp@0.50.0
 - pkg:nuget/TerseSharp@0.51.0
 - pkg:nuget/TerseSharp@0.52.0
+- pkg:nuget/TerseSharp@0.61.0
+- pkg:nuget/TerseSharp@0.63.0
+- pkg:nuget/TerseSharp@0.66.0
