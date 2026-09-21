@@ -27,3 +27,4 @@
 - pkg:nuget/Quartz.Extensions.Hosting@3.8.0
 - pkg:nuget/Quartz.Extensions.Hosting@3.8.1
 - pkg:nuget/Quartz.Extensions.Hosting@3.9.0
+- pkg:nuget/Quartz.Extensions.Hosting@4.1.1
