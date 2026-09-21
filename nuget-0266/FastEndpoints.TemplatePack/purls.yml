@@ -4,6 +4,7 @@
 - pkg:nuget/FastEndpoints.TemplatePack@1.1.0
 - pkg:nuget/FastEndpoints.TemplatePack@1.1.1
 - pkg:nuget/FastEndpoints.TemplatePack@1.1.1.1
+- pkg:nuget/FastEndpoints.TemplatePack@1.14.0-beta.2
 - pkg:nuget/FastEndpoints.TemplatePack@1.2.0
 - pkg:nuget/FastEndpoints.TemplatePack@1.3.0
 - pkg:nuget/FastEndpoints.TemplatePack@1.3.1
