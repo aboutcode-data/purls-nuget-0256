@@ -9,3 +9,4 @@
 - pkg:nuget/DotNetCore.Collections.Paginable.FreeSql@3.2.1
 - pkg:nuget/DotNetCore.Collections.Paginable.FreeSql@3.3.0
 - pkg:nuget/DotNetCore.Collections.Paginable.FreeSql@5.0.0
+- pkg:nuget/DotNetCore.Collections.Paginable.FreeSql@6.4.0
