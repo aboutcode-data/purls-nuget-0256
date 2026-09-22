@@ -48,3 +48,4 @@
 - pkg:nuget/datatables.net-dt@2.3.4
 - pkg:nuget/datatables.net-dt@2.3.6
 - pkg:nuget/datatables.net-dt@2.3.7
+- pkg:nuget/datatables.net-dt@3.1.0
