@@ -18,6 +18,8 @@
 - pkg:nuget/Hex1b@0.169.1-beta.1619.1.ce890db
 - pkg:nuget/Hex1b@0.170.0-alpha.1616.1.6221fe4
 - pkg:nuget/Hex1b@0.170.0-alpha.1620.1.85e091a
+- pkg:nuget/Hex1b@0.171.0
+- pkg:nuget/Hex1b@0.172.0-alpha.1652.1.6a01c54
 - pkg:nuget/Hex1b@0.29.0
 - pkg:nuget/Hex1b@0.5.0
 - pkg:nuget/Hex1b@0.66.0
