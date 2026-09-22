@@ -12,3 +12,5 @@
 - pkg:nuget/ConductorSharp.Toolkit@3.0.1-beta2
 - pkg:nuget/ConductorSharp.Toolkit@3.0.1-beta3
 - pkg:nuget/ConductorSharp.Toolkit@4.1.0
+- pkg:nuget/ConductorSharp.Toolkit@4.3.0
+- pkg:nuget/ConductorSharp.Toolkit@4.4.0
