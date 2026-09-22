@@ -1,3 +1,8 @@
+- pkg:nuget/Soenneker.WorkOs.HttpClients@4.0.100
+- pkg:nuget/Soenneker.WorkOs.HttpClients@4.0.109
+- pkg:nuget/Soenneker.WorkOs.HttpClients@4.0.112
+- pkg:nuget/Soenneker.WorkOs.HttpClients@4.0.125
+- pkg:nuget/Soenneker.WorkOs.HttpClients@4.0.128
 - pkg:nuget/Soenneker.WorkOs.HttpClients@4.0.2
 - pkg:nuget/Soenneker.WorkOs.HttpClients@4.0.20
 - pkg:nuget/Soenneker.WorkOs.HttpClients@4.0.22
