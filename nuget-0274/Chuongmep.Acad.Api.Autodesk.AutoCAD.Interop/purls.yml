@@ -1,5 +1,7 @@
+- pkg:nuget/Chuongmep.Acad.Api.Autodesk.AutoCAD.Interop@2019.0.1
 - pkg:nuget/Chuongmep.Acad.Api.Autodesk.AutoCAD.Interop@2020.0.0
 - pkg:nuget/Chuongmep.Acad.Api.Autodesk.AutoCAD.Interop@2020.0.1
+- pkg:nuget/Chuongmep.Acad.Api.Autodesk.AutoCAD.Interop@2021.0.1
 - pkg:nuget/Chuongmep.Acad.Api.Autodesk.AutoCAD.Interop@2022.0.0
 - pkg:nuget/Chuongmep.Acad.Api.Autodesk.AutoCAD.Interop@2022.0.1
 - pkg:nuget/Chuongmep.Acad.Api.Autodesk.AutoCAD.Interop@2022.0.2
