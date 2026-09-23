@@ -1,0 +1,3 @@
+- pkg:nuget/RustPdf@0.4.2
+- pkg:nuget/RustPdf@0.4.8
+- pkg:nuget/RustPdf@0.5.0
