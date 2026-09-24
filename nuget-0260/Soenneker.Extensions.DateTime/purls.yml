@@ -1695,3 +1695,5 @@
 - pkg:nuget/Soenneker.Extensions.DateTime@4.0.1769
 - pkg:nuget/Soenneker.Extensions.DateTime@4.0.1783
 - pkg:nuget/Soenneker.Extensions.DateTime@4.0.1791
+- pkg:nuget/Soenneker.Extensions.DateTime@4.0.1810
+- pkg:nuget/Soenneker.Extensions.DateTime@4.0.1811
