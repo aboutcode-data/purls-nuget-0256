@@ -28,6 +28,11 @@
 - pkg:nuget/Soenneker.HighLevel.Contacts@4.0.199
 - pkg:nuget/Soenneker.HighLevel.Contacts@4.0.213
 - pkg:nuget/Soenneker.HighLevel.Contacts@4.0.217
+- pkg:nuget/Soenneker.HighLevel.Contacts@4.0.243
+- pkg:nuget/Soenneker.HighLevel.Contacts@4.0.244
+- pkg:nuget/Soenneker.HighLevel.Contacts@4.0.247
+- pkg:nuget/Soenneker.HighLevel.Contacts@4.0.249
+- pkg:nuget/Soenneker.HighLevel.Contacts@4.0.254
 - pkg:nuget/Soenneker.HighLevel.Contacts@4.0.50
 - pkg:nuget/Soenneker.HighLevel.Contacts@4.0.55
 - pkg:nuget/Soenneker.HighLevel.Contacts@4.0.78
