@@ -746,3 +746,5 @@
 - pkg:nuget/mmx.MikroModels@1.0.63
 - pkg:nuget/mmx.MikroModels@1.0.70
 - pkg:nuget/mmx.MikroModels@1.0.70-alpha.0.1
+- pkg:nuget/mmx.MikroModels@1.0.73
+- pkg:nuget/mmx.MikroModels@1.0.73-alpha.0.1
