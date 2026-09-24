@@ -5,6 +5,7 @@
 - pkg:nuget/Fast.Runtime@3.5.24
 - pkg:nuget/Fast.Runtime@3.5.26
 - pkg:nuget/Fast.Runtime@3.5.3
+- pkg:nuget/Fast.Runtime@3.5.31
 - pkg:nuget/Fast.Runtime@3.5.4
 - pkg:nuget/Fast.Runtime@3.5.5
 - pkg:nuget/Fast.Runtime@3.5.6
