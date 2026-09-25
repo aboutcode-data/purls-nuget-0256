@@ -1,0 +1,2 @@
+- pkg:nuget/MongoDbRepository.Extensions.Migration.Fluent@6.3.0
+- pkg:nuget/MongoDbRepository.Extensions.Migration.Fluent@6.4.2
