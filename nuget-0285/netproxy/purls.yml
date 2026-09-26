@@ -14,6 +14,7 @@
 - pkg:nuget/netproxy@1.1.8
 - pkg:nuget/netproxy@10.0.6
 - pkg:nuget/netproxy@10.0.7
+- pkg:nuget/netproxy@10.0.8
 - pkg:nuget/netproxy@2.0.1
 - pkg:nuget/netproxy@2.0.2
 - pkg:nuget/netproxy@2.0.3
