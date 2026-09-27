@@ -18,3 +18,5 @@
 - pkg:nuget/uSync.Expansions.Client@16.0.5
 - pkg:nuget/uSync.Expansions.Client@16.0.6
 - pkg:nuget/uSync.Expansions.Client@17.0.0-rc1
+- pkg:nuget/uSync.Expansions.Client@17.4.3
+- pkg:nuget/uSync.Expansions.Client@18.1.1
