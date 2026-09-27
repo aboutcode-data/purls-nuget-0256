@@ -1,0 +1,2 @@
+- pkg:nuget/GreyEagleSoftware.EventBus.Outbox.EntityFrameworkCore@10.0.3
+- pkg:nuget/GreyEagleSoftware.EventBus.Outbox.EntityFrameworkCore@10.0.4
