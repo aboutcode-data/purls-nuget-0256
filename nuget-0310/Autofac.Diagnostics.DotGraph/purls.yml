@@ -1,2 +1,3 @@
 - pkg:nuget/Autofac.Diagnostics.DotGraph@1.0.0
 - pkg:nuget/Autofac.Diagnostics.DotGraph@2.0.0
+- pkg:nuget/Autofac.Diagnostics.DotGraph@3.0.1
