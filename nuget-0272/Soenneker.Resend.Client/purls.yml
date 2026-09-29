@@ -64,6 +64,7 @@
 - pkg:nuget/Soenneker.Resend.Client@4.0.284
 - pkg:nuget/Soenneker.Resend.Client@4.0.287
 - pkg:nuget/Soenneker.Resend.Client@4.0.303
+- pkg:nuget/Soenneker.Resend.Client@4.0.309
 - pkg:nuget/Soenneker.Resend.Client@4.0.57
 - pkg:nuget/Soenneker.Resend.Client@4.0.62
 - pkg:nuget/Soenneker.Resend.Client@4.0.80
