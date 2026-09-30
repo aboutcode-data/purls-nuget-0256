@@ -4,3 +4,4 @@
 - pkg:nuget/Msm.Core.AspNetCore@1.0.20
 - pkg:nuget/Msm.Core.AspNetCore@1.0.22
 - pkg:nuget/Msm.Core.AspNetCore@1.0.33
+- pkg:nuget/Msm.Core.AspNetCore@1.0.35
