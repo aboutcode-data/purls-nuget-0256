@@ -1,1 +1,3 @@
 - pkg:nuget/Trax.Api.GraphQL.PersistedOperations@1.28.2
+- pkg:nuget/Trax.Api.GraphQL.PersistedOperations@1.37.0
+- pkg:nuget/Trax.Api.GraphQL.PersistedOperations@1.44.2
