@@ -947,6 +947,9 @@
 - pkg:nuget/Uno.WinUI.Graphics3DGL@6.8.0-dev.3
 - pkg:nuget/Uno.WinUI.Graphics3DGL@7.0.0-dev.1447
 - pkg:nuget/Uno.WinUI.Graphics3DGL@7.0.0-dev.1455
+- pkg:nuget/Uno.WinUI.Graphics3DGL@7.0.0-dev.1464
+- pkg:nuget/Uno.WinUI.Graphics3DGL@7.0.0-dev.1466
+- pkg:nuget/Uno.WinUI.Graphics3DGL@7.0.0-dev.1468
 - pkg:nuget/Uno.WinUI.Graphics3DGL@7.0.0-dev.680
 - pkg:nuget/Uno.WinUI.Graphics3DGL@7.0.0-dev.713
 - pkg:nuget/Uno.WinUI.Graphics3DGL@7.0.0-dev.722
