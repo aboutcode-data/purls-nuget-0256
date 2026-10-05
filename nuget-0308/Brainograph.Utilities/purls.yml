@@ -80,3 +80,5 @@
 - pkg:nuget/Brainograph.Utilities@6.28.0
 - pkg:nuget/Brainograph.Utilities@6.29.0
 - pkg:nuget/Brainograph.Utilities@6.31.0
+- pkg:nuget/Brainograph.Utilities@6.35.0
+- pkg:nuget/Brainograph.Utilities@6.37.0
