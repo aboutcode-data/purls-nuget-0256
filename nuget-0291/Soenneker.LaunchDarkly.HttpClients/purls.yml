@@ -7,4 +7,6 @@
 - pkg:nuget/Soenneker.LaunchDarkly.HttpClients@4.0.49
 - pkg:nuget/Soenneker.LaunchDarkly.HttpClients@4.0.53
 - pkg:nuget/Soenneker.LaunchDarkly.HttpClients@4.0.56
+- pkg:nuget/Soenneker.LaunchDarkly.HttpClients@4.0.58
+- pkg:nuget/Soenneker.LaunchDarkly.HttpClients@4.0.59
 - pkg:nuget/Soenneker.LaunchDarkly.HttpClients@4.0.7
