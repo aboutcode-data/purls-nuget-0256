@@ -1930,6 +1930,10 @@
 - pkg:nuget/Uno.WinUI.DevServer@7.0.0-dev.1471
 - pkg:nuget/Uno.WinUI.DevServer@7.0.0-dev.1472
 - pkg:nuget/Uno.WinUI.DevServer@7.0.0-dev.1495
+- pkg:nuget/Uno.WinUI.DevServer@7.0.0-dev.1570
+- pkg:nuget/Uno.WinUI.DevServer@7.0.0-dev.1571
+- pkg:nuget/Uno.WinUI.DevServer@7.0.0-dev.1572
+- pkg:nuget/Uno.WinUI.DevServer@7.0.0-dev.1573
 - pkg:nuget/Uno.WinUI.DevServer@7.0.0-dev.680
 - pkg:nuget/Uno.WinUI.DevServer@7.0.0-dev.722
 - pkg:nuget/Uno.WinUI.DevServer@7.0.0-dev.966
