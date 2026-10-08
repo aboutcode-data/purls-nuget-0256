@@ -361,6 +361,9 @@
 - pkg:nuget/Telerik.Sitefinity.SitemapGenerator@15.4.8627
 - pkg:nuget/Telerik.Sitefinity.SitemapGenerator@15.4.8628
 - pkg:nuget/Telerik.Sitefinity.SitemapGenerator@15.4.8629
+- pkg:nuget/Telerik.Sitefinity.SitemapGenerator@15.4.8634
+- pkg:nuget/Telerik.Sitefinity.SitemapGenerator@15.4.8635
+- pkg:nuget/Telerik.Sitefinity.SitemapGenerator@15.4.8637
 - pkg:nuget/Telerik.Sitefinity.SitemapGenerator@7.1.5200
 - pkg:nuget/Telerik.Sitefinity.SitemapGenerator@7.1.5201
 - pkg:nuget/Telerik.Sitefinity.SitemapGenerator@7.1.5202
