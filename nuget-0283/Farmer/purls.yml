@@ -158,6 +158,7 @@
 - pkg:nuget/Farmer@1.9.21
 - pkg:nuget/Farmer@1.9.25
 - pkg:nuget/Farmer@1.9.3
+- pkg:nuget/Farmer@1.9.33
 - pkg:nuget/Farmer@1.9.4
 - pkg:nuget/Farmer@1.9.5
 - pkg:nuget/Farmer@1.9.6
