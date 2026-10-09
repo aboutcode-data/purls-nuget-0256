@@ -148,4 +148,5 @@
 - pkg:nuget/Mocha.Threading@16.6.8
 - pkg:nuget/Mocha.Threading@16.7.0-p.12
 - pkg:nuget/Mocha.Threading@16.7.0-p.14
+- pkg:nuget/Mocha.Threading@16.7.0-p.22
 - pkg:nuget/Mocha.Threading@16.7.0-p.8
