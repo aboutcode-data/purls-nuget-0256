@@ -1,3 +1,4 @@
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.Dotnet@0.10.0-snapshot.20261010010245
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.Dotnet@0.2.0-snapshot.20260326192312
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.Dotnet@0.2.0-snapshot.20260326193157
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.Dotnet@0.2.0-snapshot.20260326205829
