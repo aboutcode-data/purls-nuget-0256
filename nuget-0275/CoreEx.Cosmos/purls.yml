@@ -81,3 +81,4 @@
 - pkg:nuget/CoreEx.Cosmos@3.8.0
 - pkg:nuget/CoreEx.Cosmos@3.8.1
 - pkg:nuget/CoreEx.Cosmos@3.9.0
+- pkg:nuget/CoreEx.Cosmos@4.1.0
