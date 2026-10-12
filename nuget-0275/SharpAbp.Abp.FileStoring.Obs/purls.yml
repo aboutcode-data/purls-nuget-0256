@@ -150,3 +150,5 @@
 - pkg:nuget/SharpAbp.Abp.FileStoring.Obs@4.5.6
 - pkg:nuget/SharpAbp.Abp.FileStoring.Obs@4.6.8
 - pkg:nuget/SharpAbp.Abp.FileStoring.Obs@4.6.9
+- pkg:nuget/SharpAbp.Abp.FileStoring.Obs@4.7.5
+- pkg:nuget/SharpAbp.Abp.FileStoring.Obs@6.0.1
