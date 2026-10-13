@@ -477,6 +477,7 @@
 - pkg:nuget/SDI.API.Servicios.Base.Repo@4.8.1
 - pkg:nuget/SDI.API.Servicios.Base.Repo@4.9.1
 - pkg:nuget/SDI.API.Servicios.Base.Repo@4.9.2
+- pkg:nuget/SDI.API.Servicios.Base.Repo@41.0.1
 - pkg:nuget/SDI.API.Servicios.Base.Repo@5.10.2
 - pkg:nuget/SDI.API.Servicios.Base.Repo@5.7.1
 - pkg:nuget/SDI.API.Servicios.Base.Repo@5.8.1
