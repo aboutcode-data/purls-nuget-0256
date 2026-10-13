@@ -248,6 +248,14 @@
 - pkg:nuget/Cratis.Chronicle@19.43.0
 - pkg:nuget/Cratis.Chronicle@19.45.0
 - pkg:nuget/Cratis.Chronicle@19.51.1
+- pkg:nuget/Cratis.Chronicle@19.55.2
+- pkg:nuget/Cratis.Chronicle@19.56.0
+- pkg:nuget/Cratis.Chronicle@19.56.1
+- pkg:nuget/Cratis.Chronicle@19.58.0
+- pkg:nuget/Cratis.Chronicle@19.59.1
+- pkg:nuget/Cratis.Chronicle@19.59.2
+- pkg:nuget/Cratis.Chronicle@19.59.3
+- pkg:nuget/Cratis.Chronicle@19.59.4
 - pkg:nuget/Cratis.Chronicle@19.6.1
 - pkg:nuget/Cratis.Chronicle@9.15.4
 - pkg:nuget/Cratis.Chronicle@9.15.5
