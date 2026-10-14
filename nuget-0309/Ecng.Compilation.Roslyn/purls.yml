@@ -134,6 +134,7 @@
 - pkg:nuget/Ecng.Compilation.Roslyn@1.0.312
 - pkg:nuget/Ecng.Compilation.Roslyn@1.0.32
 - pkg:nuget/Ecng.Compilation.Roslyn@1.0.33
+- pkg:nuget/Ecng.Compilation.Roslyn@1.0.339
 - pkg:nuget/Ecng.Compilation.Roslyn@1.0.34
 - pkg:nuget/Ecng.Compilation.Roslyn@1.0.35
 - pkg:nuget/Ecng.Compilation.Roslyn@1.0.36
