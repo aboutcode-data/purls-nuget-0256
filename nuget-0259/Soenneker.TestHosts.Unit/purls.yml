@@ -11,6 +11,7 @@
 - pkg:nuget/Soenneker.TestHosts.Unit@4.0.178
 - pkg:nuget/Soenneker.TestHosts.Unit@4.0.19
 - pkg:nuget/Soenneker.TestHosts.Unit@4.0.191
+- pkg:nuget/Soenneker.TestHosts.Unit@4.0.198
 - pkg:nuget/Soenneker.TestHosts.Unit@4.0.20
 - pkg:nuget/Soenneker.TestHosts.Unit@4.0.29
 - pkg:nuget/Soenneker.TestHosts.Unit@4.0.48
