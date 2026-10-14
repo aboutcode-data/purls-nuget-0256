@@ -15,6 +15,8 @@
 - pkg:nuget/Onsight.DeviceApi.Client@0.0.6-beta.124
 - pkg:nuget/Onsight.DeviceApi.Client@0.0.6-beta.125
 - pkg:nuget/Onsight.DeviceApi.Client@0.0.6-beta.127
+- pkg:nuget/Onsight.DeviceApi.Client@0.0.6-beta.135
+- pkg:nuget/Onsight.DeviceApi.Client@0.0.6-beta.148
 - pkg:nuget/Onsight.DeviceApi.Client@0.0.6-beta.27
 - pkg:nuget/Onsight.DeviceApi.Client@0.0.6-beta.31
 - pkg:nuget/Onsight.DeviceApi.Client@0.0.6-beta.44
