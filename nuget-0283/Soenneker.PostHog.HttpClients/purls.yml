@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.PostHog.HttpClients@4.0.101
 - pkg:nuget/Soenneker.PostHog.HttpClients@4.0.104
 - pkg:nuget/Soenneker.PostHog.HttpClients@4.0.13
+- pkg:nuget/Soenneker.PostHog.HttpClients@4.0.140
 - pkg:nuget/Soenneker.PostHog.HttpClients@4.0.16
 - pkg:nuget/Soenneker.PostHog.HttpClients@4.0.17
 - pkg:nuget/Soenneker.PostHog.HttpClients@4.0.3
