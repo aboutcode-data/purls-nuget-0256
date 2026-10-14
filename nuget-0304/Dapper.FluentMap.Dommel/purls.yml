@@ -18,3 +18,4 @@
 - pkg:nuget/Dapper.FluentMap.Dommel@1.7.1
 - pkg:nuget/Dapper.FluentMap.Dommel@2.0.0
 - pkg:nuget/Dapper.FluentMap.Dommel@2.0.0-beta1
+- pkg:nuget/Dapper.FluentMap.Dommel@3.6.0
