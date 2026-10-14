@@ -1,2 +1,5 @@
 - pkg:nuget/Aiursoft.NugetNinja.GitServerBase@10.0.24
 - pkg:nuget/Aiursoft.NugetNinja.GitServerBase@10.0.31
+- pkg:nuget/Aiursoft.NugetNinja.GitServerBase@10.0.45
+- pkg:nuget/Aiursoft.NugetNinja.GitServerBase@10.0.48
+- pkg:nuget/Aiursoft.NugetNinja.GitServerBase@10.0.49
