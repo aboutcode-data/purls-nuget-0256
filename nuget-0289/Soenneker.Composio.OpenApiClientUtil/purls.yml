@@ -16,6 +16,7 @@
 - pkg:nuget/Soenneker.Composio.OpenApiClientUtil@4.0.218
 - pkg:nuget/Soenneker.Composio.OpenApiClientUtil@4.0.231
 - pkg:nuget/Soenneker.Composio.OpenApiClientUtil@4.0.235
+- pkg:nuget/Soenneker.Composio.OpenApiClientUtil@4.0.256
 - pkg:nuget/Soenneker.Composio.OpenApiClientUtil@4.0.27
 - pkg:nuget/Soenneker.Composio.OpenApiClientUtil@4.0.53
 - pkg:nuget/Soenneker.Composio.OpenApiClientUtil@4.0.59
