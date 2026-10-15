@@ -8,4 +8,6 @@
 - pkg:nuget/Soenneker.Webflow.HttpClients@4.0.62
 - pkg:nuget/Soenneker.Webflow.HttpClients@4.0.74
 - pkg:nuget/Soenneker.Webflow.HttpClients@4.0.75
+- pkg:nuget/Soenneker.Webflow.HttpClients@4.0.77
+- pkg:nuget/Soenneker.Webflow.HttpClients@4.0.78
 - pkg:nuget/Soenneker.Webflow.HttpClients@4.0.9
