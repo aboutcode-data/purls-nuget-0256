@@ -27,6 +27,7 @@
 - pkg:nuget/Cratis.Arc.Testing@21.8.1
 - pkg:nuget/Cratis.Arc.Testing@22.1.1
 - pkg:nuget/Cratis.Arc.Testing@22.100.0
+- pkg:nuget/Cratis.Arc.Testing@22.101.0
 - pkg:nuget/Cratis.Arc.Testing@22.11.0
 - pkg:nuget/Cratis.Arc.Testing@22.15.0
 - pkg:nuget/Cratis.Arc.Testing@22.16.1
