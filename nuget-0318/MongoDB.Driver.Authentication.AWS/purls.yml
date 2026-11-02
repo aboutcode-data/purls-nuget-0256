@@ -1,5 +1,8 @@
 - pkg:nuget/MongoDB.Driver.Authentication.AWS@3.0.0
 - pkg:nuget/MongoDB.Driver.Authentication.AWS@3.1.0
+- pkg:nuget/MongoDB.Driver.Authentication.AWS@3.11.0
+- pkg:nuget/MongoDB.Driver.Authentication.AWS@3.11.2
+- pkg:nuget/MongoDB.Driver.Authentication.AWS@3.13.0
 - pkg:nuget/MongoDB.Driver.Authentication.AWS@3.2.0
 - pkg:nuget/MongoDB.Driver.Authentication.AWS@3.2.1
 - pkg:nuget/MongoDB.Driver.Authentication.AWS@3.3.0
