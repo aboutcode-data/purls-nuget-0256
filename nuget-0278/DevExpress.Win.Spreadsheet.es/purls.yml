@@ -1,5 +1,7 @@
 - pkg:nuget/DevExpress.Win.Spreadsheet.es@25.1.11
 - pkg:nuget/DevExpress.Win.Spreadsheet.es@25.1.12
+- pkg:nuget/DevExpress.Win.Spreadsheet.es@25.1.15
+- pkg:nuget/DevExpress.Win.Spreadsheet.es@25.2.11
 - pkg:nuget/DevExpress.Win.Spreadsheet.es@25.2.7
 - pkg:nuget/DevExpress.Win.Spreadsheet.es@26.1.2-beta
 - pkg:nuget/DevExpress.Win.Spreadsheet.es@26.1.4
