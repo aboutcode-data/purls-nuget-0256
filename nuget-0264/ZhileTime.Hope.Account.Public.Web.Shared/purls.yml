@@ -1,3 +1,5 @@
+- pkg:nuget/ZhileTime.Hope.Account.Public.Web.Shared@10.0.0
+- pkg:nuget/ZhileTime.Hope.Account.Public.Web.Shared@11.4.0
 - pkg:nuget/ZhileTime.Hope.Account.Public.Web.Shared@4.0.1
 - pkg:nuget/ZhileTime.Hope.Account.Public.Web.Shared@4.1.0
 - pkg:nuget/ZhileTime.Hope.Account.Public.Web.Shared@4.1.2
