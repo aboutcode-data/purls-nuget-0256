@@ -13,3 +13,5 @@
 - pkg:nuget/Celerity.Collections@2.7.1-beta.2
 - pkg:nuget/Celerity.Collections@2.7.1-beta.6
 - pkg:nuget/Celerity.Collections@3.3.1-beta.2
+- pkg:nuget/Celerity.Collections@3.4.1-beta.25
+- pkg:nuget/Celerity.Collections@3.4.1-beta.27
