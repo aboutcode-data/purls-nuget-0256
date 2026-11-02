@@ -229,6 +229,12 @@
 - pkg:nuget/Cratis.Chronicle.AspNetCore@16.6.1
 - pkg:nuget/Cratis.Chronicle.AspNetCore@18.0.0
 - pkg:nuget/Cratis.Chronicle.AspNetCore@18.5.0
+- pkg:nuget/Cratis.Chronicle.AspNetCore@19.102.0
+- pkg:nuget/Cratis.Chronicle.AspNetCore@19.106.0
+- pkg:nuget/Cratis.Chronicle.AspNetCore@19.106.7
+- pkg:nuget/Cratis.Chronicle.AspNetCore@19.108.1
+- pkg:nuget/Cratis.Chronicle.AspNetCore@19.115.0
+- pkg:nuget/Cratis.Chronicle.AspNetCore@19.115.2
 - pkg:nuget/Cratis.Chronicle.AspNetCore@19.15.0
 - pkg:nuget/Cratis.Chronicle.AspNetCore@19.16.0
 - pkg:nuget/Cratis.Chronicle.AspNetCore@19.17.0
@@ -257,6 +263,11 @@
 - pkg:nuget/Cratis.Chronicle.AspNetCore@19.59.5
 - pkg:nuget/Cratis.Chronicle.AspNetCore@19.6.1
 - pkg:nuget/Cratis.Chronicle.AspNetCore@19.65.2
+- pkg:nuget/Cratis.Chronicle.AspNetCore@19.75.0
+- pkg:nuget/Cratis.Chronicle.AspNetCore@19.76.0
+- pkg:nuget/Cratis.Chronicle.AspNetCore@19.79.0
+- pkg:nuget/Cratis.Chronicle.AspNetCore@19.89.0
+- pkg:nuget/Cratis.Chronicle.AspNetCore@19.92.0
 - pkg:nuget/Cratis.Chronicle.AspNetCore@9.15.4
 - pkg:nuget/Cratis.Chronicle.AspNetCore@9.15.5
 - pkg:nuget/Cratis.Chronicle.AspNetCore@9.15.6
