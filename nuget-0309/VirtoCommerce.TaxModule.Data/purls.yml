@@ -9,6 +9,8 @@
 - pkg:nuget/VirtoCommerce.TaxModule.Data@3.1.0-alpha.3d9b85b
 - pkg:nuget/VirtoCommerce.TaxModule.Data@3.1.0-alpha.7fdc490
 - pkg:nuget/VirtoCommerce.TaxModule.Data@3.10.0-alpha.95
+- pkg:nuget/VirtoCommerce.TaxModule.Data@3.1003.1
+- pkg:nuget/VirtoCommerce.TaxModule.Data@3.1009.0
 - pkg:nuget/VirtoCommerce.TaxModule.Data@3.2.0
 - pkg:nuget/VirtoCommerce.TaxModule.Data@3.2.0-alpha.35
 - pkg:nuget/VirtoCommerce.TaxModule.Data@3.200.0

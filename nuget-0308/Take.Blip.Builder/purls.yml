@@ -486,6 +486,8 @@
 - pkg:nuget/Take.Blip.Builder@0.7.600
 - pkg:nuget/Take.Blip.Builder@0.7.61-beta
 - pkg:nuget/Take.Blip.Builder@0.7.646
+- pkg:nuget/Take.Blip.Builder@0.7.671
+- pkg:nuget/Take.Blip.Builder@0.7.672
 - pkg:nuget/Take.Blip.Builder@0.7.71
 - pkg:nuget/Take.Blip.Builder@0.7.73-beta
 - pkg:nuget/Take.Blip.Builder@0.7.75-beta
