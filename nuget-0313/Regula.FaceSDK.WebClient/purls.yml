@@ -483,3 +483,9 @@
 - pkg:nuget/Regula.FaceSDK.WebClient@8.5.858-nightly
 - pkg:nuget/Regula.FaceSDK.WebClient@8.5.860-nightly
 - pkg:nuget/Regula.FaceSDK.WebClient@8.5.861-rc
+- pkg:nuget/Regula.FaceSDK.WebClient@8.5.862-nightly
+- pkg:nuget/Regula.FaceSDK.WebClient@8.5.863-nightly
+- pkg:nuget/Regula.FaceSDK.WebClient@8.5.873-nightly
+- pkg:nuget/Regula.FaceSDK.WebClient@8.5.875-nightly
+- pkg:nuget/Regula.FaceSDK.WebClient@8.5.876-rc
+- pkg:nuget/Regula.FaceSDK.WebClient@8.5.882-nightly
