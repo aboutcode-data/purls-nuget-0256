@@ -21,4 +21,9 @@
 - pkg:nuget/ktsu.ImGui.Color@3.65.0
 - pkg:nuget/ktsu.ImGui.Color@3.7.0
 - pkg:nuget/ktsu.ImGui.Color@3.75.1
+- pkg:nuget/ktsu.ImGui.Color@3.75.2-pre.1
+- pkg:nuget/ktsu.ImGui.Color@3.75.4
+- pkg:nuget/ktsu.ImGui.Color@3.77.2
+- pkg:nuget/ktsu.ImGui.Color@3.78.0
+- pkg:nuget/ktsu.ImGui.Color@3.79.0
 - pkg:nuget/ktsu.ImGui.Color@3.9.0
