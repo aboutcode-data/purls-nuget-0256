@@ -121,6 +121,7 @@
 - pkg:nuget/Umbraco.Cms@13.14.0-rc3
 - pkg:nuget/Umbraco.Cms@13.15.0
 - pkg:nuget/Umbraco.Cms@13.15.0-rc
+- pkg:nuget/Umbraco.Cms@13.16.4
 - pkg:nuget/Umbraco.Cms@13.2.0
 - pkg:nuget/Umbraco.Cms@13.2.0-rc
 - pkg:nuget/Umbraco.Cms@13.2.1
@@ -264,8 +265,11 @@
 - pkg:nuget/Umbraco.Cms@17.5.0-rc2
 - pkg:nuget/Umbraco.Cms@17.5.1
 - pkg:nuget/Umbraco.Cms@17.5.2
+- pkg:nuget/Umbraco.Cms@17.8.0
 - pkg:nuget/Umbraco.Cms@18.0.0
 - pkg:nuget/Umbraco.Cms@18.0.1
+- pkg:nuget/Umbraco.Cms@18.3.0
+- pkg:nuget/Umbraco.Cms@19.0.0-beta1
 - pkg:nuget/Umbraco.Cms@9.0.0
 - pkg:nuget/Umbraco.Cms@9.0.0-rc001
 - pkg:nuget/Umbraco.Cms@9.0.0-rc002
