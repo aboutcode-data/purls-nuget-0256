@@ -9,3 +9,5 @@
 - pkg:nuget/WeAutoCommon@1.2.81
 - pkg:nuget/WeAutoCommon@1.2.99
 - pkg:nuget/WeAutoCommon@2.0.1
+- pkg:nuget/WeAutoCommon@2.0.5
+- pkg:nuget/WeAutoCommon@2.1.2
