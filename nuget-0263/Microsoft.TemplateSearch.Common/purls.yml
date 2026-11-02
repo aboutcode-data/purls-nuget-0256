@@ -13,6 +13,7 @@
 - pkg:nuget/Microsoft.TemplateSearch.Common@10.0.302
 - pkg:nuget/Microsoft.TemplateSearch.Common@10.0.400
 - pkg:nuget/Microsoft.TemplateSearch.Common@10.0.402
+- pkg:nuget/Microsoft.TemplateSearch.Common@10.0.403
 - pkg:nuget/Microsoft.TemplateSearch.Common@11.0.100-preview.1.26104.118
 - pkg:nuget/Microsoft.TemplateSearch.Common@11.0.100-preview.2.26159.112
 - pkg:nuget/Microsoft.TemplateSearch.Common@5.0.0
@@ -215,6 +216,7 @@
 - pkg:nuget/Microsoft.TemplateSearch.Common@8.0.120
 - pkg:nuget/Microsoft.TemplateSearch.Common@8.0.123
 - pkg:nuget/Microsoft.TemplateSearch.Common@8.0.131
+- pkg:nuget/Microsoft.TemplateSearch.Common@8.0.133
 - pkg:nuget/Microsoft.TemplateSearch.Common@8.0.200-preview.24060.12
 - pkg:nuget/Microsoft.TemplateSearch.Common@8.0.202
 - pkg:nuget/Microsoft.TemplateSearch.Common@8.0.204
