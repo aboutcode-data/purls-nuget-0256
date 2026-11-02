@@ -6,3 +6,4 @@
 - pkg:nuget/Azure.ResourceManager.LoadTesting@1.1.0-beta.1
 - pkg:nuget/Azure.ResourceManager.LoadTesting@1.1.1
 - pkg:nuget/Azure.ResourceManager.LoadTesting@1.1.2
+- pkg:nuget/Azure.ResourceManager.LoadTesting@1.2.0-beta.1
