@@ -47,6 +47,9 @@
 - pkg:nuget/Parlem.Crm.Cdm@1.0.7
 - pkg:nuget/Parlem.Crm.Cdm@1.0.8
 - pkg:nuget/Parlem.Crm.Cdm@1.0.9
+- pkg:nuget/Parlem.Crm.Cdm@10.0.11
+- pkg:nuget/Parlem.Crm.Cdm@10.0.12
+- pkg:nuget/Parlem.Crm.Cdm@10.0.15
 - pkg:nuget/Parlem.Crm.Cdm@7.0.0
 - pkg:nuget/Parlem.Crm.Cdm@7.0.1
 - pkg:nuget/Parlem.Crm.Cdm@7.0.10
