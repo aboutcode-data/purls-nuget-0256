@@ -84,3 +84,5 @@
 - pkg:nuget/Tanka.GraphQL.Extensions.Experimental@3.5.1-beta.5
 - pkg:nuget/Tanka.GraphQL.Extensions.Experimental@3.5.1-beta.6
 - pkg:nuget/Tanka.GraphQL.Extensions.Experimental@3.6.0
+- pkg:nuget/Tanka.GraphQL.Extensions.Experimental@4.0.1
+- pkg:nuget/Tanka.GraphQL.Extensions.Experimental@4.0.1-beta.2
