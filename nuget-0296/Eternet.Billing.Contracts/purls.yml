@@ -14,3 +14,5 @@
 - pkg:nuget/Eternet.Billing.Contracts@1.0.56
 - pkg:nuget/Eternet.Billing.Contracts@1.0.7
 - pkg:nuget/Eternet.Billing.Contracts@1.0.9
+- pkg:nuget/Eternet.Billing.Contracts@1.1.1
+- pkg:nuget/Eternet.Billing.Contracts@1.5.0
