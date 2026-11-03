@@ -18,3 +18,5 @@
 - pkg:nuget/Eternet.Web.UI.Abstractions@1.0.9
 - pkg:nuget/Eternet.Web.UI.Abstractions@2.0.12
 - pkg:nuget/Eternet.Web.UI.Abstractions@2.0.18
+- pkg:nuget/Eternet.Web.UI.Abstractions@2.0.22
+- pkg:nuget/Eternet.Web.UI.Abstractions@2.0.24
