@@ -3338,6 +3338,8 @@
 - pkg:nuget/Uno.WinUI.Foldable@7.0.0-dev.2516
 - pkg:nuget/Uno.WinUI.Foldable@7.0.0-dev.2520
 - pkg:nuget/Uno.WinUI.Foldable@7.0.0-dev.2523
+- pkg:nuget/Uno.WinUI.Foldable@7.0.0-dev.2539
+- pkg:nuget/Uno.WinUI.Foldable@7.0.0-dev.2549
 - pkg:nuget/Uno.WinUI.Foldable@7.0.0-dev.680
 - pkg:nuget/Uno.WinUI.Foldable@7.0.0-dev.713
 - pkg:nuget/Uno.WinUI.Foldable@7.0.0-dev.722
