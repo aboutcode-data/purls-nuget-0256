@@ -91,3 +91,6 @@
 - pkg:nuget/MethodBoundaryAspect.Fody@2.0.150
 - pkg:nuget/MethodBoundaryAspect.Fody@2.1.0
 - pkg:nuget/MethodBoundaryAspect.Fody@3.1.0
+- pkg:nuget/MethodBoundaryAspect.Fody@3.5.0
+- pkg:nuget/MethodBoundaryAspect.Fody@3.5.3
+- pkg:nuget/MethodBoundaryAspect.Fody@3.6.0
