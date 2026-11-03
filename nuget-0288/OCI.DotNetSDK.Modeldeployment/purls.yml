@@ -27,3 +27,5 @@
 - pkg:nuget/OCI.DotNetSDK.Modeldeployment@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Modeldeployment@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Modeldeployment@144.1.0
+- pkg:nuget/OCI.DotNetSDK.Modeldeployment@149.0.0
+- pkg:nuget/OCI.DotNetSDK.Modeldeployment@150.0.0
