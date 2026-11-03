@@ -210,3 +210,5 @@
 - pkg:nuget/WireMock.Net.Abstractions@2.11.0
 - pkg:nuget/WireMock.Net.Abstractions@2.15.0
 - pkg:nuget/WireMock.Net.Abstractions@2.2.0
+- pkg:nuget/WireMock.Net.Abstractions@2.20.0
+- pkg:nuget/WireMock.Net.Abstractions@2.21.0
