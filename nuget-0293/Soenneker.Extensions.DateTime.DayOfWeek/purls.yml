@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Extensions.DateTime.DayOfWeek@11.0.1508
+- pkg:nuget/Soenneker.Extensions.DateTime.DayOfWeek@11.0.1514
 - pkg:nuget/Soenneker.Extensions.DateTime.DayOfWeek@2.1.1
 - pkg:nuget/Soenneker.Extensions.DateTime.DayOfWeek@2.1.10
 - pkg:nuget/Soenneker.Extensions.DateTime.DayOfWeek@2.1.100
