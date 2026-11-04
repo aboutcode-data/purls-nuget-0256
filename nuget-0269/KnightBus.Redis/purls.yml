@@ -17,6 +17,8 @@
 - pkg:nuget/KnightBus.Redis@13.1.0
 - pkg:nuget/KnightBus.Redis@14.1.0
 - pkg:nuget/KnightBus.Redis@15.0.0-alpha-ff7a73ac
+- pkg:nuget/KnightBus.Redis@18.0.0-alpha-1a363ac4
+- pkg:nuget/KnightBus.Redis@18.0.0-alpha-e126c67a
 - pkg:nuget/KnightBus.Redis@2.0.0
 - pkg:nuget/KnightBus.Redis@2.1.0
 - pkg:nuget/KnightBus.Redis@2.1.1
