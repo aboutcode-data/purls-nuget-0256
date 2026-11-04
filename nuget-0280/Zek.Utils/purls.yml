@@ -1,3 +1,5 @@
+- pkg:nuget/Zek.Utils@10.0.17
+- pkg:nuget/Zek.Utils@10.0.18
 - pkg:nuget/Zek.Utils@10.0.5
 - pkg:nuget/Zek.Utils@6.0.0
 - pkg:nuget/Zek.Utils@7.0.0
