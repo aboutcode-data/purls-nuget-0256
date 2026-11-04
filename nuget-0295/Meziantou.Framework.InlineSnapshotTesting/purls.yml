@@ -68,3 +68,4 @@
 - pkg:nuget/Meziantou.Framework.InlineSnapshotTesting@3.3.8
 - pkg:nuget/Meziantou.Framework.InlineSnapshotTesting@3.3.9
 - pkg:nuget/Meziantou.Framework.InlineSnapshotTesting@6.0.0
+- pkg:nuget/Meziantou.Framework.InlineSnapshotTesting@6.0.19
