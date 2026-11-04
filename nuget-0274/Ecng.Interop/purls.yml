@@ -198,6 +198,7 @@
 - pkg:nuget/Ecng.Interop@1.0.33
 - pkg:nuget/Ecng.Interop@1.0.333
 - pkg:nuget/Ecng.Interop@1.0.34
+- pkg:nuget/Ecng.Interop@1.0.349
 - pkg:nuget/Ecng.Interop@1.0.35
 - pkg:nuget/Ecng.Interop@1.0.36
 - pkg:nuget/Ecng.Interop@1.0.37
