@@ -44,3 +44,5 @@
 - pkg:nuget/STS2.RitsuLib@0.5.18
 - pkg:nuget/STS2.RitsuLib@0.6.0
 - pkg:nuget/STS2.RitsuLib@0.6.1
+- pkg:nuget/STS2.RitsuLib@0.6.8
+- pkg:nuget/STS2.RitsuLib@0.6.9
