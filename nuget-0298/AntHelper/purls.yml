@@ -38,3 +38,5 @@
 - pkg:nuget/AntHelper@1.6.108
 - pkg:nuget/AntHelper@1.6.109
 - pkg:nuget/AntHelper@1.6.110
+- pkg:nuget/AntHelper@1.6.111
+- pkg:nuget/AntHelper@1.6.113
