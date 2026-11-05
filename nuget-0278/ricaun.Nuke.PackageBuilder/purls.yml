@@ -30,6 +30,7 @@
 - pkg:nuget/ricaun.Nuke.PackageBuilder@1.13.3-alpha
 - pkg:nuget/ricaun.Nuke.PackageBuilder@1.13.4-alpha
 - pkg:nuget/ricaun.Nuke.PackageBuilder@1.13.4-rc
+- pkg:nuget/ricaun.Nuke.PackageBuilder@1.13.6
 - pkg:nuget/ricaun.Nuke.PackageBuilder@1.2.0
 - pkg:nuget/ricaun.Nuke.PackageBuilder@1.2.1
 - pkg:nuget/ricaun.Nuke.PackageBuilder@1.2.2
