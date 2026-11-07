@@ -394,6 +394,7 @@
 - pkg:nuget/Xamarin.RegulaCommon.iOS@9.10.2932-nightly
 - pkg:nuget/Xamarin.RegulaCommon.iOS@9.10.2938-rc
 - pkg:nuget/Xamarin.RegulaCommon.iOS@9.10.2969-rc
+- pkg:nuget/Xamarin.RegulaCommon.iOS@9.10.3011-beta
 - pkg:nuget/Xamarin.RegulaCommon.iOS@9.2.1941-nightly
 - pkg:nuget/Xamarin.RegulaCommon.iOS@9.2.2028-rc
 - pkg:nuget/Xamarin.RegulaCommon.iOS@9.2.2049-rc
