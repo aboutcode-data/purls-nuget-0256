@@ -1990,6 +1990,8 @@
 - pkg:nuget/Uno.WinUI.DevServer@7.1.0-dev.108
 - pkg:nuget/Uno.WinUI.DevServer@7.1.0-dev.109
 - pkg:nuget/Uno.WinUI.DevServer@7.1.0-dev.110
+- pkg:nuget/Uno.WinUI.DevServer@7.1.0-dev.112
+- pkg:nuget/Uno.WinUI.DevServer@7.1.0-dev.115
 - pkg:nuget/Uno.WinUI.DevServer@7.1.0-dev.16
 - pkg:nuget/Uno.WinUI.DevServer@7.1.0-dev.18
 - pkg:nuget/Uno.WinUI.DevServer@7.1.0-dev.19
