@@ -1,2 +1,5 @@
 - pkg:nuget/Teknosol.Rest.Mappers@1.1.0
 - pkg:nuget/Teknosol.Rest.Mappers@1.1.6
+- pkg:nuget/Teknosol.Rest.Mappers@1.2.0
+- pkg:nuget/Teknosol.Rest.Mappers@1.2.27
+- pkg:nuget/Teknosol.Rest.Mappers@1.2.5
