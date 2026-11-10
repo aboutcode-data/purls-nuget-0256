@@ -270,6 +270,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Edge@9.0.110
 - pkg:nuget/Microsoft.TemplateEngine.Edge@9.0.113
 - pkg:nuget/Microsoft.TemplateEngine.Edge@9.0.122
+- pkg:nuget/Microsoft.TemplateEngine.Edge@9.0.124
 - pkg:nuget/Microsoft.TemplateEngine.Edge@9.0.200
 - pkg:nuget/Microsoft.TemplateEngine.Edge@9.0.201
 - pkg:nuget/Microsoft.TemplateEngine.Edge@9.0.203
