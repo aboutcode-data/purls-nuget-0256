@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Flywheel.Redis@11.0.447
 - pkg:nuget/Soenneker.Flywheel.Redis@11.0.463
 - pkg:nuget/Soenneker.Flywheel.Redis@11.0.465
+- pkg:nuget/Soenneker.Flywheel.Redis@11.0.472
 - pkg:nuget/Soenneker.Flywheel.Redis@4.0.10
 - pkg:nuget/Soenneker.Flywheel.Redis@5.0.103
 - pkg:nuget/Soenneker.Flywheel.Redis@5.0.106
