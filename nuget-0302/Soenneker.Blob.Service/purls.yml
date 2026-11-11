@@ -141,6 +141,8 @@
 - pkg:nuget/Soenneker.Blob.Service@11.0.2647
 - pkg:nuget/Soenneker.Blob.Service@11.0.2654
 - pkg:nuget/Soenneker.Blob.Service@11.0.2657
+- pkg:nuget/Soenneker.Blob.Service@11.0.2660
+- pkg:nuget/Soenneker.Blob.Service@11.0.2661
 - pkg:nuget/Soenneker.Blob.Service@2.0.1
 - pkg:nuget/Soenneker.Blob.Service@2.0.141
 - pkg:nuget/Soenneker.Blob.Service@2.0.142
