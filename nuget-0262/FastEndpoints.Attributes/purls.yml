@@ -600,3 +600,4 @@
 - pkg:nuget/FastEndpoints.Attributes@8.4.0-beta.7
 - pkg:nuget/FastEndpoints.Attributes@8.4.0-beta.8
 - pkg:nuget/FastEndpoints.Attributes@9.0.0-beta.10
+- pkg:nuget/FastEndpoints.Attributes@9.0.0-beta.11
