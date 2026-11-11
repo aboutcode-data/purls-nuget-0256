@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Google.SearchIndex@11.0.2605
 - pkg:nuget/Soenneker.Google.SearchIndex@11.0.2610
 - pkg:nuget/Soenneker.Google.SearchIndex@11.0.2616
+- pkg:nuget/Soenneker.Google.SearchIndex@11.0.2618
 - pkg:nuget/Soenneker.Google.SearchIndex@2.1.1
 - pkg:nuget/Soenneker.Google.SearchIndex@2.1.10
 - pkg:nuget/Soenneker.Google.SearchIndex@2.1.100
