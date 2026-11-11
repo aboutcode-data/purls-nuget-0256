@@ -214,6 +214,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Edge@8.0.120
 - pkg:nuget/Microsoft.TemplateEngine.Edge@8.0.131
 - pkg:nuget/Microsoft.TemplateEngine.Edge@8.0.132
+- pkg:nuget/Microsoft.TemplateEngine.Edge@8.0.134
 - pkg:nuget/Microsoft.TemplateEngine.Edge@8.0.200-preview.24060.12
 - pkg:nuget/Microsoft.TemplateEngine.Edge@8.0.202
 - pkg:nuget/Microsoft.TemplateEngine.Edge@8.0.204
