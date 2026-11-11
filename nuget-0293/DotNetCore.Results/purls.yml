@@ -334,3 +334,5 @@
 - pkg:nuget/DotNetCore.Results@19.8.0
 - pkg:nuget/DotNetCore.Results@20.22.0
 - pkg:nuget/DotNetCore.Results@20.23.0
+- pkg:nuget/DotNetCore.Results@20.26.0
+- pkg:nuget/DotNetCore.Results@20.27.0
