@@ -113,4 +113,5 @@
 - pkg:nuget/Udap.Smart.Metadata@0.9.15
 - pkg:nuget/Udap.Smart.Metadata@0.9.16
 - pkg:nuget/Udap.Smart.Metadata@0.9.18-preview001
+- pkg:nuget/Udap.Smart.Metadata@0.9.21
 - pkg:nuget/Udap.Smart.Metadata@0.9.4
