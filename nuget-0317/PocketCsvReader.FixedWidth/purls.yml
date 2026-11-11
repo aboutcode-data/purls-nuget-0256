@@ -5,3 +5,5 @@
 - pkg:nuget/PocketCsvReader.FixedWidth@2.65.0
 - pkg:nuget/PocketCsvReader.FixedWidth@2.66.0
 - pkg:nuget/PocketCsvReader.FixedWidth@2.69.0
+- pkg:nuget/PocketCsvReader.FixedWidth@2.70.0
+- pkg:nuget/PocketCsvReader.FixedWidth@2.71.0
