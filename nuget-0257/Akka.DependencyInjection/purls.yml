@@ -106,3 +106,4 @@
 - pkg:nuget/Akka.DependencyInjection@1.5.7
 - pkg:nuget/Akka.DependencyInjection@1.5.8
 - pkg:nuget/Akka.DependencyInjection@1.5.9
+- pkg:nuget/Akka.DependencyInjection@1.6.0-beta7
