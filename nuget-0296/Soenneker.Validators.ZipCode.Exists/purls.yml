@@ -4,6 +4,8 @@
 - pkg:nuget/Soenneker.Validators.ZipCode.Exists@11.0.2709
 - pkg:nuget/Soenneker.Validators.ZipCode.Exists@11.0.2713
 - pkg:nuget/Soenneker.Validators.ZipCode.Exists@11.0.2714
+- pkg:nuget/Soenneker.Validators.ZipCode.Exists@11.0.2720
+- pkg:nuget/Soenneker.Validators.ZipCode.Exists@11.0.2722
 - pkg:nuget/Soenneker.Validators.ZipCode.Exists@2.1.1
 - pkg:nuget/Soenneker.Validators.ZipCode.Exists@2.1.10
 - pkg:nuget/Soenneker.Validators.ZipCode.Exists@2.1.100
