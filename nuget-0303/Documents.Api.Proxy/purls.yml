@@ -36,3 +36,6 @@
 - pkg:nuget/Documents.Api.Proxy@1.0.9
 - pkg:nuget/Documents.Api.Proxy@1.20.0
 - pkg:nuget/Documents.Api.Proxy@1.29.0
+- pkg:nuget/Documents.Api.Proxy@1.35.3-unstable.567
+- pkg:nuget/Documents.Api.Proxy@1.36.1-unstable.575
+- pkg:nuget/Documents.Api.Proxy@1.37.0
