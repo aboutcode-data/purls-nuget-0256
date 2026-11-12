@@ -5,3 +5,6 @@
 - pkg:nuget/UJMW.CommandLineFacade@5.1.0
 - pkg:nuget/UJMW.CommandLineFacade@5.4.0
 - pkg:nuget/UJMW.CommandLineFacade@5.6.1-develop
+- pkg:nuget/UJMW.CommandLineFacade@5.7.1-develop
+- pkg:nuget/UJMW.CommandLineFacade@5.7.3-develop
+- pkg:nuget/UJMW.CommandLineFacade@5.7.4
