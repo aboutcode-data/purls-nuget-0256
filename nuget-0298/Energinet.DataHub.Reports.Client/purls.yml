@@ -16,3 +16,6 @@
 - pkg:nuget/Energinet.DataHub.Reports.Client@4.2.0
 - pkg:nuget/Energinet.DataHub.Reports.Client@5.0.0
 - pkg:nuget/Energinet.DataHub.Reports.Client@5.1.12
+- pkg:nuget/Energinet.DataHub.Reports.Client@5.1.17
+- pkg:nuget/Energinet.DataHub.Reports.Client@5.5.0
+- pkg:nuget/Energinet.DataHub.Reports.Client@5.5.1
