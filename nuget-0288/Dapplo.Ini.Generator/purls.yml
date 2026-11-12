@@ -2,3 +2,7 @@
 - pkg:nuget/Dapplo.Ini.Generator@1.0.77
 - pkg:nuget/Dapplo.Ini.Generator@1.0.80
 - pkg:nuget/Dapplo.Ini.Generator@1.0.83
+- pkg:nuget/Dapplo.Ini.Generator@1.1.15
+- pkg:nuget/Dapplo.Ini.Generator@1.1.6
+- pkg:nuget/Dapplo.Ini.Generator@2.0.12
+- pkg:nuget/Dapplo.Ini.Generator@2.0.13
