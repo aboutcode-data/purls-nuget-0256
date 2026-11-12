@@ -1,1 +1,8 @@
+- pkg:nuget/Soenneker.PayPal.OpenApiClient@11.0.51
+- pkg:nuget/Soenneker.PayPal.OpenApiClient@11.0.52
+- pkg:nuget/Soenneker.PayPal.OpenApiClient@11.0.60
+- pkg:nuget/Soenneker.PayPal.OpenApiClient@4.0.16
+- pkg:nuget/Soenneker.PayPal.OpenApiClient@4.0.22
+- pkg:nuget/Soenneker.PayPal.OpenApiClient@4.0.31
+- pkg:nuget/Soenneker.PayPal.OpenApiClient@4.0.48
 - pkg:nuget/Soenneker.PayPal.OpenApiClient@4.0.8
