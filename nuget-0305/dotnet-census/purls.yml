@@ -32,6 +32,7 @@
 - pkg:nuget/dotnet-census@1.11.1
 - pkg:nuget/dotnet-census@1.11.2
 - pkg:nuget/dotnet-census@1.11.3
+- pkg:nuget/dotnet-census@1.15.2
 - pkg:nuget/dotnet-census@1.2.0
 - pkg:nuget/dotnet-census@1.2.1
 - pkg:nuget/dotnet-census@1.2.2
