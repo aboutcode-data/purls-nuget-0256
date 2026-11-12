@@ -1,1 +1,6 @@
+- pkg:nuget/SimplyWorks.Bus.RabbitMqViewer@10.1.3
+- pkg:nuget/SimplyWorks.Bus.RabbitMqViewer@10.1.5
+- pkg:nuget/SimplyWorks.Bus.RabbitMqViewer@8.1.12
+- pkg:nuget/SimplyWorks.Bus.RabbitMqViewer@8.1.14
+- pkg:nuget/SimplyWorks.Bus.RabbitMqViewer@8.1.18
 - pkg:nuget/SimplyWorks.Bus.RabbitMqViewer@8.1.9
