@@ -4,6 +4,8 @@
 - pkg:nuget/VIEApps.Services.Base@10.10.2604.1
 - pkg:nuget/VIEApps.Services.Base@10.10.2604.2
 - pkg:nuget/VIEApps.Services.Base@10.10.2606.2
+- pkg:nuget/VIEApps.Services.Base@10.10.2610.3
+- pkg:nuget/VIEApps.Services.Base@10.11.2611.1
 - pkg:nuget/VIEApps.Services.Base@10.2.1905.2
 - pkg:nuget/VIEApps.Services.Base@10.2.1906.1
 - pkg:nuget/VIEApps.Services.Base@10.2.1906.2
