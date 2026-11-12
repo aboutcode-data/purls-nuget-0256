@@ -17,3 +17,6 @@
 - pkg:nuget/ABnet.WarehouseSimulator.Client@1.0.7
 - pkg:nuget/ABnet.WarehouseSimulator.Client@1.0.8
 - pkg:nuget/ABnet.WarehouseSimulator.Client@1.0.9
+- pkg:nuget/ABnet.WarehouseSimulator.Client@2.0.0
+- pkg:nuget/ABnet.WarehouseSimulator.Client@2.0.2
+- pkg:nuget/ABnet.WarehouseSimulator.Client@2.3.0
