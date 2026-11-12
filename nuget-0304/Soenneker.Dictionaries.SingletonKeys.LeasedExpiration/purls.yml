@@ -1,3 +1,6 @@
+- pkg:nuget/Soenneker.Dictionaries.SingletonKeys.LeasedExpiration@11.0.75
+- pkg:nuget/Soenneker.Dictionaries.SingletonKeys.LeasedExpiration@11.0.78
+- pkg:nuget/Soenneker.Dictionaries.SingletonKeys.LeasedExpiration@11.0.80
 - pkg:nuget/Soenneker.Dictionaries.SingletonKeys.LeasedExpiration@4.0.12
 - pkg:nuget/Soenneker.Dictionaries.SingletonKeys.LeasedExpiration@4.0.27
 - pkg:nuget/Soenneker.Dictionaries.SingletonKeys.LeasedExpiration@4.0.38

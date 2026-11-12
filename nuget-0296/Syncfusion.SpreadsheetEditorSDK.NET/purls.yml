@@ -8,3 +8,5 @@
 - pkg:nuget/Syncfusion.SpreadsheetEditorSDK.NET@33.2.7
 - pkg:nuget/Syncfusion.SpreadsheetEditorSDK.NET@34.1.33
 - pkg:nuget/Syncfusion.SpreadsheetEditorSDK.NET@34.2.3
+- pkg:nuget/Syncfusion.SpreadsheetEditorSDK.NET@34.2.8
+- pkg:nuget/Syncfusion.SpreadsheetEditorSDK.NET@35.1.46
