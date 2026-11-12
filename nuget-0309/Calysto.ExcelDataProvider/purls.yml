@@ -87,6 +87,8 @@
 - pkg:nuget/Calysto.ExcelDataProvider@1.0.1502
 - pkg:nuget/Calysto.ExcelDataProvider@1.0.1711
 - pkg:nuget/Calysto.ExcelDataProvider@1.0.1815
+- pkg:nuget/Calysto.ExcelDataProvider@1.0.1819
+- pkg:nuget/Calysto.ExcelDataProvider@1.0.1826
 - pkg:nuget/Calysto.ExcelDataProvider@1.0.599
 - pkg:nuget/Calysto.ExcelDataProvider@1.0.600
 - pkg:nuget/Calysto.ExcelDataProvider@1.0.601
