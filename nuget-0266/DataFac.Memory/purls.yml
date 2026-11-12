@@ -37,4 +37,5 @@
 - pkg:nuget/DataFac.Memory@0.9.8
 - pkg:nuget/DataFac.Memory@1.0.3-dev
 - pkg:nuget/DataFac.Memory@2.0.11
+- pkg:nuget/DataFac.Memory@2.0.28
 - pkg:nuget/DataFac.Memory@2.0.9
