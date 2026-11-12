@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.GitLab.OpenApiClient@11.0.179
+- pkg:nuget/Soenneker.GitLab.OpenApiClient@11.0.180
+- pkg:nuget/Soenneker.GitLab.OpenApiClient@11.0.183
+- pkg:nuget/Soenneker.GitLab.OpenApiClient@11.0.184
 - pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.10
 - pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.113
 - pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.119
@@ -5,7 +9,11 @@
 - pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.125
 - pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.132
 - pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.15
+- pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.166
+- pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.167
+- pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.168
 - pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.17
+- pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.176
 - pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.27
 - pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.4
 - pkg:nuget/Soenneker.GitLab.OpenApiClient@4.0.49
