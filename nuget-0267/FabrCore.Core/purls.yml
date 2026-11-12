@@ -18,3 +18,4 @@
 - pkg:nuget/FabrCore.Core@1.7.3-local.20260830194629
 - pkg:nuget/FabrCore.Core@1.7.3-local.20260831041744
 - pkg:nuget/FabrCore.Core@2.0.0
+- pkg:nuget/FabrCore.Core@2.1.4
