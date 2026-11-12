@@ -1,7 +1,15 @@
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@21.14.2
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.100.0
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.101.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.103.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.106.0
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.11.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.110.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.111.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.126.1
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.127.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.128.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.130.0
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.14.2
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.15.0
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.CommandResponseHandlerDependency@22.16.1
