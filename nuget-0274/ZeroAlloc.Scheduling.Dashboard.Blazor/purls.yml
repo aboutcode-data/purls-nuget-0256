@@ -12,3 +12,4 @@
 - pkg:nuget/ZeroAlloc.Scheduling.Dashboard.Blazor@2.2.2
 - pkg:nuget/ZeroAlloc.Scheduling.Dashboard.Blazor@2.2.3
 - pkg:nuget/ZeroAlloc.Scheduling.Dashboard.Blazor@2.2.9
+- pkg:nuget/ZeroAlloc.Scheduling.Dashboard.Blazor@2.3.0
