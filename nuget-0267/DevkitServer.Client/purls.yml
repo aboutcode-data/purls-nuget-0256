@@ -36,6 +36,7 @@
 - pkg:nuget/DevkitServer.Client@0.0.41-client
 - pkg:nuget/DevkitServer.Client@0.0.42-client
 - pkg:nuget/DevkitServer.Client@0.0.43-client
+- pkg:nuget/DevkitServer.Client@0.0.47-client
 - pkg:nuget/DevkitServer.Client@0.0.5-client
 - pkg:nuget/DevkitServer.Client@0.0.6-client
 - pkg:nuget/DevkitServer.Client@0.0.7-client
