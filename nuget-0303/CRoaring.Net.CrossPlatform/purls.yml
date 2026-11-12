@@ -1,3 +1,4 @@
 - pkg:nuget/CRoaring.Net.CrossPlatform@0.0.1-dev
 - pkg:nuget/CRoaring.Net.CrossPlatform@0.0.2-dev
 - pkg:nuget/CRoaring.Net.CrossPlatform@0.0.3-dev
+- pkg:nuget/CRoaring.Net.CrossPlatform@0.1.1-dev
