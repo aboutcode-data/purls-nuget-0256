@@ -36,5 +36,8 @@
 - pkg:nuget/Dapplo.Windows.Devices@3.11.2
 - pkg:nuget/Dapplo.Windows.Devices@3.17.3
 - pkg:nuget/Dapplo.Windows.Devices@3.19.3
+- pkg:nuget/Dapplo.Windows.Devices@3.20.3
+- pkg:nuget/Dapplo.Windows.Devices@3.22.2
+- pkg:nuget/Dapplo.Windows.Devices@3.23.3
 - pkg:nuget/Dapplo.Windows.Devices@3.8.2
 - pkg:nuget/Dapplo.Windows.Devices@3.9.2
