@@ -7,3 +7,5 @@
 - pkg:nuget/NPipeline.Connectors.Azure@0.40.3
 - pkg:nuget/NPipeline.Connectors.Azure@0.48.3
 - pkg:nuget/NPipeline.Connectors.Azure@0.55.0
+- pkg:nuget/NPipeline.Connectors.Azure@0.66.0
+- pkg:nuget/NPipeline.Connectors.Azure@0.70.0
