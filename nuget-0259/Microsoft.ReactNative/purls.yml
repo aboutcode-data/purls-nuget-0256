@@ -548,3 +548,4 @@
 - pkg:nuget/Microsoft.ReactNative@0.83.0-preview.2
 - pkg:nuget/Microsoft.ReactNative@0.84.0-preview.4
 - pkg:nuget/Microsoft.ReactNative@0.84.0-preview.9
+- pkg:nuget/Microsoft.ReactNative@0.85.2
