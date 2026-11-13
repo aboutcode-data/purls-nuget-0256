@@ -11,6 +11,7 @@
 - pkg:nuget/WebsocketClientLite.PCL@1.6.2
 - pkg:nuget/WebsocketClientLite.PCL@10.1.0
 - pkg:nuget/WebsocketClientLite.PCL@10.2.0
+- pkg:nuget/WebsocketClientLite.PCL@10.3.0
 - pkg:nuget/WebsocketClientLite.PCL@2.0.0
 - pkg:nuget/WebsocketClientLite.PCL@2.0.1
 - pkg:nuget/WebsocketClientLite.PCL@2.0.10
