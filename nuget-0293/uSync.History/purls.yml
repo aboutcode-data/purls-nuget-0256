@@ -27,6 +27,7 @@
 - pkg:nuget/uSync.History@17.6.2
 - pkg:nuget/uSync.History@18.2.0
 - pkg:nuget/uSync.History@19.0.0-beta01
+- pkg:nuget/uSync.History@19.0.0-rc1
 - pkg:nuget/uSync.History@8.10.0
 - pkg:nuget/uSync.History@8.10.1
 - pkg:nuget/uSync.History@8.10.2
