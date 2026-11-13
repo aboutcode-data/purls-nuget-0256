@@ -1,4 +1,5 @@
 - pkg:nuget/ZhileTime.Hope.BlobStoring.Bunny@11.5.1
+- pkg:nuget/ZhileTime.Hope.BlobStoring.Bunny@12.0.0
 - pkg:nuget/ZhileTime.Hope.BlobStoring.Bunny@4.1.8
 - pkg:nuget/ZhileTime.Hope.BlobStoring.Bunny@4.1.9
 - pkg:nuget/ZhileTime.Hope.BlobStoring.Bunny@4.2.0
