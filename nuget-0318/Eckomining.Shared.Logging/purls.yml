@@ -4,4 +4,8 @@
 - pkg:nuget/Eckomining.Shared.Logging@2.0.16
 - pkg:nuget/Eckomining.Shared.Logging@2.0.22
 - pkg:nuget/Eckomining.Shared.Logging@2.0.27
+- pkg:nuget/Eckomining.Shared.Logging@2.0.31
+- pkg:nuget/Eckomining.Shared.Logging@2.0.32
+- pkg:nuget/Eckomining.Shared.Logging@2.0.40
+- pkg:nuget/Eckomining.Shared.Logging@2.0.42
 - pkg:nuget/Eckomining.Shared.Logging@2.0.5
