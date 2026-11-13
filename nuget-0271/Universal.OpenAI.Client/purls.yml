@@ -7,3 +7,4 @@
 - pkg:nuget/Universal.OpenAI.Client@2.4.0
 - pkg:nuget/Universal.OpenAI.Client@3.0.0
 - pkg:nuget/Universal.OpenAI.Client@4.0.0
+- pkg:nuget/Universal.OpenAI.Client@4.4.1
