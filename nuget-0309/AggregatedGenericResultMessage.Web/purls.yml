@@ -6,3 +6,5 @@
 - pkg:nuget/AggregatedGenericResultMessage.Web@1.0.5.5444
 - pkg:nuget/AggregatedGenericResultMessage.Web@1.1.0
 - pkg:nuget/AggregatedGenericResultMessage.Web@1.2.0.8001
+- pkg:nuget/AggregatedGenericResultMessage.Web@1.2.1.8615
+- pkg:nuget/AggregatedGenericResultMessage.Web@2.0.0.7588
