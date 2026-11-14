@@ -10,3 +10,5 @@
 - pkg:nuget/OpenFTTH.Work.API@0.8.0
 - pkg:nuget/OpenFTTH.Work.API@1.0.0
 - pkg:nuget/OpenFTTH.Work.API@1.1.0
+- pkg:nuget/OpenFTTH.Work.API@11.0.0
+- pkg:nuget/OpenFTTH.Work.API@11.1.0
