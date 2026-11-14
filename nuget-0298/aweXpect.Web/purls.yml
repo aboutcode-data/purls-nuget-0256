@@ -10,3 +10,6 @@
 - pkg:nuget/aweXpect.Web@1.2.0
 - pkg:nuget/aweXpect.Web@1.3.0
 - pkg:nuget/aweXpect.Web@1.4.0
+- pkg:nuget/aweXpect.Web@2.0.0
+- pkg:nuget/aweXpect.Web@2.1.0
+- pkg:nuget/aweXpect.Web@4.0.0
