@@ -1,2 +1,9 @@
+- pkg:nuget/Soenneker.Netlify.OpenApiClient@11.0.67
+- pkg:nuget/Soenneker.Netlify.OpenApiClient@11.0.68
+- pkg:nuget/Soenneker.Netlify.OpenApiClient@11.0.71
+- pkg:nuget/Soenneker.Netlify.OpenApiClient@11.0.72
 - pkg:nuget/Soenneker.Netlify.OpenApiClient@4.0.15
+- pkg:nuget/Soenneker.Netlify.OpenApiClient@4.0.21
+- pkg:nuget/Soenneker.Netlify.OpenApiClient@4.0.23
+- pkg:nuget/Soenneker.Netlify.OpenApiClient@4.0.45
 - pkg:nuget/Soenneker.Netlify.OpenApiClient@4.0.6

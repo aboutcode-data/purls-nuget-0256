@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.OpenAq.OpenApiClientUtil@11.0.176
+- pkg:nuget/Soenneker.OpenAq.OpenApiClientUtil@11.0.178
+- pkg:nuget/Soenneker.OpenAq.OpenApiClientUtil@11.0.184
+- pkg:nuget/Soenneker.OpenAq.OpenApiClientUtil@11.0.194
 - pkg:nuget/Soenneker.OpenAq.OpenApiClientUtil@4.0.1
 - pkg:nuget/Soenneker.OpenAq.OpenApiClientUtil@4.0.100
 - pkg:nuget/Soenneker.OpenAq.OpenApiClientUtil@4.0.116

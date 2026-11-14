@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@11.0.197
+- pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@11.0.212
+- pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@11.0.215
+- pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@11.0.218
 - pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@4.0.115
 - pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@4.0.123
 - pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@4.0.125
@@ -12,6 +16,7 @@
 - pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@4.0.179
 - pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@4.0.187
 - pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@4.0.19
+- pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@4.0.195
 - pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@4.0.2
 - pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@4.0.22
 - pkg:nuget/Soenneker.GeoNames.Cities500.Lookup@4.0.27
