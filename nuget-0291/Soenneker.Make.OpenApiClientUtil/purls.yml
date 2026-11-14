@@ -1,3 +1,12 @@
+- pkg:nuget/Soenneker.Make.OpenApiClientUtil@11.0.247
+- pkg:nuget/Soenneker.Make.OpenApiClientUtil@11.0.248
+- pkg:nuget/Soenneker.Make.OpenApiClientUtil@11.0.252
+- pkg:nuget/Soenneker.Make.OpenApiClientUtil@11.0.261
+- pkg:nuget/Soenneker.Make.OpenApiClientUtil@11.0.268
+- pkg:nuget/Soenneker.Make.OpenApiClientUtil@11.0.269
+- pkg:nuget/Soenneker.Make.OpenApiClientUtil@11.0.276
+- pkg:nuget/Soenneker.Make.OpenApiClientUtil@11.0.278
+- pkg:nuget/Soenneker.Make.OpenApiClientUtil@11.0.282
 - pkg:nuget/Soenneker.Make.OpenApiClientUtil@4.0.106
 - pkg:nuget/Soenneker.Make.OpenApiClientUtil@4.0.123
 - pkg:nuget/Soenneker.Make.OpenApiClientUtil@4.0.14
@@ -13,6 +22,7 @@
 - pkg:nuget/Soenneker.Make.OpenApiClientUtil@4.0.204
 - pkg:nuget/Soenneker.Make.OpenApiClientUtil@4.0.217
 - pkg:nuget/Soenneker.Make.OpenApiClientUtil@4.0.235
+- pkg:nuget/Soenneker.Make.OpenApiClientUtil@4.0.242
 - pkg:nuget/Soenneker.Make.OpenApiClientUtil@4.0.25
 - pkg:nuget/Soenneker.Make.OpenApiClientUtil@4.0.26
 - pkg:nuget/Soenneker.Make.OpenApiClientUtil@4.0.4
