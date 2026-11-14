@@ -44,3 +44,5 @@
 - pkg:nuget/Ubiq.Extensions.Market@4.0.7
 - pkg:nuget/Ubiq.Extensions.Market@4.0.8
 - pkg:nuget/Ubiq.Extensions.Market@4.0.9
+- pkg:nuget/Ubiq.Extensions.Market@6.0.0
+- pkg:nuget/Ubiq.Extensions.Market@6.0.1
