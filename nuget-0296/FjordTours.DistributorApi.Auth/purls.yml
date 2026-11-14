@@ -41,3 +41,4 @@
 - pkg:nuget/FjordTours.DistributorApi.Auth@4.5.0
 - pkg:nuget/FjordTours.DistributorApi.Auth@4.5.2
 - pkg:nuget/FjordTours.DistributorApi.Auth@4.6.0
+- pkg:nuget/FjordTours.DistributorApi.Auth@4.7.3
