@@ -1,3 +1,5 @@
+- pkg:nuget/Vion.Dale.Sdk.Modbus.Tcp.TestKit@0.10.9
+- pkg:nuget/Vion.Dale.Sdk.Modbus.Tcp.TestKit@0.16.0
 - pkg:nuget/Vion.Dale.Sdk.Modbus.Tcp.TestKit@0.6.1
 - pkg:nuget/Vion.Dale.Sdk.Modbus.Tcp.TestKit@0.6.2
 - pkg:nuget/Vion.Dale.Sdk.Modbus.Tcp.TestKit@0.6.3
