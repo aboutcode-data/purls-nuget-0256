@@ -180,4 +180,5 @@
 - pkg:nuget/StackExchange.Redis@3.2.0
 - pkg:nuget/StackExchange.Redis@3.4.0
 - pkg:nuget/StackExchange.Redis@4.0.127-alpha
+- pkg:nuget/StackExchange.Redis@4.0.165-alpha
 - pkg:nuget/StackExchange.Redis@4.0.99-alpha
