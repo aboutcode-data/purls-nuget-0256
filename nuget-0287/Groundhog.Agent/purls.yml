@@ -1,0 +1,4 @@
+- pkg:nuget/Groundhog.Agent@0.4.0-preview.4
+- pkg:nuget/Groundhog.Agent@0.4.0-preview.5
+- pkg:nuget/Groundhog.Agent@1.1.0
+- pkg:nuget/Groundhog.Agent@1.3.0
