@@ -77,3 +77,5 @@
 - pkg:nuget/JOS.Enumeration@6.1.8-beta-g9e94e798e5
 - pkg:nuget/JOS.Enumeration@6.2.15-beta-g168a81707c
 - pkg:nuget/JOS.Enumeration@6.2.17-beta-ga696d663f2
+- pkg:nuget/JOS.Enumeration@6.2.18-beta-g2c42e38e6e
+- pkg:nuget/JOS.Enumeration@6.2.19-beta-g7747da842e
