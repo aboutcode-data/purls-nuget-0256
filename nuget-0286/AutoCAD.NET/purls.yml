@@ -13,4 +13,5 @@
 - pkg:nuget/AutoCAD.NET@24.3.0
 - pkg:nuget/AutoCAD.NET@25.0.0
 - pkg:nuget/AutoCAD.NET@25.0.1
+- pkg:nuget/AutoCAD.NET@25.0.2
 - pkg:nuget/AutoCAD.NET@25.1.0
