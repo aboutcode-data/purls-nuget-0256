@@ -1,6 +1,8 @@
 - pkg:nuget/RuoVea.ExSugar@10.0.0.1
 - pkg:nuget/RuoVea.ExSugar@10.0.0.3
 - pkg:nuget/RuoVea.ExSugar@10.0.1.4
+- pkg:nuget/RuoVea.ExSugar@2.0.0.1
+- pkg:nuget/RuoVea.ExSugar@2.1.0.1
 - pkg:nuget/RuoVea.ExSugar@5.0.0
 - pkg:nuget/RuoVea.ExSugar@5.0.1
 - pkg:nuget/RuoVea.ExSugar@5.0.1.1
