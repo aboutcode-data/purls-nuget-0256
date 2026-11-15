@@ -10,3 +10,4 @@
 - pkg:nuget/OpenMicroFiscal@3.0.0
 - pkg:nuget/OpenMicroFiscal@3.1.0
 - pkg:nuget/OpenMicroFiscal@3.2.0
+- pkg:nuget/OpenMicroFiscal@4.0.6

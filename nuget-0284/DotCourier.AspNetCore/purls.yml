@@ -1,0 +1,5 @@
+- pkg:nuget/DotCourier.AspNetCore@0.11.0
+- pkg:nuget/DotCourier.AspNetCore@0.2.0
+- pkg:nuget/DotCourier.AspNetCore@0.2.1
+- pkg:nuget/DotCourier.AspNetCore@0.5.1
+- pkg:nuget/DotCourier.AspNetCore@0.9.0
