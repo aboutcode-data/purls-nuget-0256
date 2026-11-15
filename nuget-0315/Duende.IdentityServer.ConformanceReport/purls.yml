@@ -1,0 +1,5 @@
+- pkg:nuget/Duende.IdentityServer.ConformanceReport@8.0.0
+- pkg:nuget/Duende.IdentityServer.ConformanceReport@8.0.0-preview.6
+- pkg:nuget/Duende.IdentityServer.ConformanceReport@8.0.3
+- pkg:nuget/Duende.IdentityServer.ConformanceReport@8.0.9
+- pkg:nuget/Duende.IdentityServer.ConformanceReport@8.1.0-preview.1
