@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Mistral.HttpClients@11.0.165
 - pkg:nuget/Soenneker.Mistral.HttpClients@11.0.166
+- pkg:nuget/Soenneker.Mistral.HttpClients@11.0.170
 - pkg:nuget/Soenneker.Mistral.HttpClients@4.0.102
 - pkg:nuget/Soenneker.Mistral.HttpClients@4.0.109
 - pkg:nuget/Soenneker.Mistral.HttpClients@4.0.12
