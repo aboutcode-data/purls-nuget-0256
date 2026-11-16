@@ -28,3 +28,4 @@
 - pkg:nuget/Eternet.TestPlanner.Build@2.6.8
 - pkg:nuget/Eternet.TestPlanner.Build@2.6.9
 - pkg:nuget/Eternet.TestPlanner.Build@2.7.0
+- pkg:nuget/Eternet.TestPlanner.Build@2.7.7
