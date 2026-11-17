@@ -46,6 +46,7 @@
 - pkg:nuget/Trivial@1.1.0
 - pkg:nuget/Trivial@1.2.0
 - pkg:nuget/Trivial@1.2.0-preview
+- pkg:nuget/Trivial@10.0.0
 - pkg:nuget/Trivial@2.0.0
 - pkg:nuget/Trivial@2.0.0-beta
 - pkg:nuget/Trivial@2.0.0-rc
