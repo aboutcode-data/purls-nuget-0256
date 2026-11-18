@@ -61,6 +61,9 @@
 - pkg:nuget/CrispyWaffle.ElasticSearch@10.4.5
 - pkg:nuget/CrispyWaffle.ElasticSearch@10.4.8
 - pkg:nuget/CrispyWaffle.ElasticSearch@10.4.9
+- pkg:nuget/CrispyWaffle.ElasticSearch@10.5.10
+- pkg:nuget/CrispyWaffle.ElasticSearch@10.5.11
+- pkg:nuget/CrispyWaffle.ElasticSearch@10.5.12
 - pkg:nuget/CrispyWaffle.ElasticSearch@3.1.23
 - pkg:nuget/CrispyWaffle.ElasticSearch@3.1.26
 - pkg:nuget/CrispyWaffle.ElasticSearch@3.1.35
