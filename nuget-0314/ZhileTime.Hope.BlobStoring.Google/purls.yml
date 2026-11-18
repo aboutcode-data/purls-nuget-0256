@@ -1,5 +1,6 @@
 - pkg:nuget/ZhileTime.Hope.BlobStoring.Google@11.4.0
 - pkg:nuget/ZhileTime.Hope.BlobStoring.Google@12.0.0
+- pkg:nuget/ZhileTime.Hope.BlobStoring.Google@12.1.0
 - pkg:nuget/ZhileTime.Hope.BlobStoring.Google@4.0.1
 - pkg:nuget/ZhileTime.Hope.BlobStoring.Google@4.1.0
 - pkg:nuget/ZhileTime.Hope.BlobStoring.Google@4.1.2
