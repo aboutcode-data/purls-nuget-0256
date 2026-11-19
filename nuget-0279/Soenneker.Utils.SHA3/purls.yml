@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Utils.SHA3@11.0.1575
 - pkg:nuget/Soenneker.Utils.SHA3@11.0.1584
+- pkg:nuget/Soenneker.Utils.SHA3@11.0.1586
 - pkg:nuget/Soenneker.Utils.SHA3@2.1.1
 - pkg:nuget/Soenneker.Utils.SHA3@2.1.10
 - pkg:nuget/Soenneker.Utils.SHA3@2.1.100
