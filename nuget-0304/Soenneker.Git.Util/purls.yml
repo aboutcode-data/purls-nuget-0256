@@ -13,6 +13,8 @@
 - pkg:nuget/Soenneker.Git.Util@11.0.3903
 - pkg:nuget/Soenneker.Git.Util@11.0.3906
 - pkg:nuget/Soenneker.Git.Util@11.0.3909
+- pkg:nuget/Soenneker.Git.Util@11.0.3912
+- pkg:nuget/Soenneker.Git.Util@11.0.3913
 - pkg:nuget/Soenneker.Git.Util@2.1.1
 - pkg:nuget/Soenneker.Git.Util@2.1.10
 - pkg:nuget/Soenneker.Git.Util@2.1.100
