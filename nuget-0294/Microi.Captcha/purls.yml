@@ -73,5 +73,8 @@
 - pkg:nuget/Microi.Captcha@8.9.4
 - pkg:nuget/Microi.Captcha@9.0.1
 - pkg:nuget/Microi.Captcha@9.1.12
+- pkg:nuget/Microi.Captcha@9.1.16
+- pkg:nuget/Microi.Captcha@9.1.18
+- pkg:nuget/Microi.Captcha@9.1.21
 - pkg:nuget/Microi.Captcha@9.1.4
 - pkg:nuget/Microi.Captcha@9.1.8
