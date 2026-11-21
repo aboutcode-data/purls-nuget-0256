@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Telnyx.OpenApiClient@11.0.467
 - pkg:nuget/Soenneker.Telnyx.OpenApiClient@11.0.469
 - pkg:nuget/Soenneker.Telnyx.OpenApiClient@11.0.473
+- pkg:nuget/Soenneker.Telnyx.OpenApiClient@11.0.494
 - pkg:nuget/Soenneker.Telnyx.OpenApiClient@3.0.1
 - pkg:nuget/Soenneker.Telnyx.OpenApiClient@3.0.10
 - pkg:nuget/Soenneker.Telnyx.OpenApiClient@3.0.100
