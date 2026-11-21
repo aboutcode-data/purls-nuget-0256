@@ -275,6 +275,7 @@
 - pkg:nuget/TencentCloudSDK.Mongodb@3.0.1349
 - pkg:nuget/TencentCloudSDK.Mongodb@3.0.1394
 - pkg:nuget/TencentCloudSDK.Mongodb@3.0.1502
+- pkg:nuget/TencentCloudSDK.Mongodb@3.0.1540
 - pkg:nuget/TencentCloudSDK.Mongodb@3.0.168
 - pkg:nuget/TencentCloudSDK.Mongodb@3.0.169
 - pkg:nuget/TencentCloudSDK.Mongodb@3.0.170
