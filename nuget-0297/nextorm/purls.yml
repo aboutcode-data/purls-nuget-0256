@@ -1,4 +1,5 @@
 - pkg:nuget/nextorm@1.0.1-alpha
 - pkg:nuget/nextorm@1.0.1-alpha.140
 - pkg:nuget/nextorm@1.0.1-alpha.141
+- pkg:nuget/nextorm@1.0.10.2
 - pkg:nuget/nextorm@1.0.9-b
