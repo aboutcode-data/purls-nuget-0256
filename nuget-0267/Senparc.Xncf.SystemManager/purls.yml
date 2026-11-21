@@ -33,6 +33,7 @@
 - pkg:nuget/Senparc.Xncf.SystemManager@0.13.8.2-preview1
 - pkg:nuget/Senparc.Xncf.SystemManager@0.13.8.4-preview1
 - pkg:nuget/Senparc.Xncf.SystemManager@0.13.9-preview1
+- pkg:nuget/Senparc.Xncf.SystemManager@0.15.14
 - pkg:nuget/Senparc.Xncf.SystemManager@0.2.0-beta7
 - pkg:nuget/Senparc.Xncf.SystemManager@0.3.0-beta7
 - pkg:nuget/Senparc.Xncf.SystemManager@0.3.0.1-beta7
