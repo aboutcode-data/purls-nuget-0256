@@ -1,1 +1,2 @@
 - pkg:nuget/Quartz.Dashboard.Agent@4.5.0
+- pkg:nuget/Quartz.Dashboard.Agent@4.8.1

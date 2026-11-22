@@ -13,6 +13,7 @@
 - pkg:nuget/Quartz.Extensions.Hosting@3.2.3
 - pkg:nuget/Quartz.Extensions.Hosting@3.2.4
 - pkg:nuget/Quartz.Extensions.Hosting@3.22.1
+- pkg:nuget/Quartz.Extensions.Hosting@3.22.11
 - pkg:nuget/Quartz.Extensions.Hosting@3.22.4
 - pkg:nuget/Quartz.Extensions.Hosting@3.3.0
 - pkg:nuget/Quartz.Extensions.Hosting@3.3.1
@@ -34,3 +35,4 @@
 - pkg:nuget/Quartz.Extensions.Hosting@4.3.0
 - pkg:nuget/Quartz.Extensions.Hosting@4.5.0
 - pkg:nuget/Quartz.Extensions.Hosting@4.5.1
+- pkg:nuget/Quartz.Extensions.Hosting@4.8.1
