@@ -368,4 +368,5 @@
 - pkg:nuget/Spectre.Console.Testing@0.57.3-alpha.0.50
 - pkg:nuget/Spectre.Console.Testing@0.57.3-alpha.0.51
 - pkg:nuget/Spectre.Console.Testing@0.57.3-alpha.0.52
+- pkg:nuget/Spectre.Console.Testing@0.57.3-alpha.0.58
 - pkg:nuget/Spectre.Console.Testing@0.57.3-alpha.0.8
