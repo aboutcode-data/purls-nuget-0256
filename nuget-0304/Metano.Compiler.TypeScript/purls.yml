@@ -4,3 +4,4 @@
 - pkg:nuget/Metano.Compiler.TypeScript@2.1.0
 - pkg:nuget/Metano.Compiler.TypeScript@2.4.0
 - pkg:nuget/Metano.Compiler.TypeScript@2.6.0
+- pkg:nuget/Metano.Compiler.TypeScript@3.0.1
