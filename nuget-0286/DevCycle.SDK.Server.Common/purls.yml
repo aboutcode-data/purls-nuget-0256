@@ -39,6 +39,7 @@
 - pkg:nuget/DevCycle.SDK.Server.Common@3.0.8
 - pkg:nuget/DevCycle.SDK.Server.Common@3.0.9
 - pkg:nuget/DevCycle.SDK.Server.Common@3.1.0
+- pkg:nuget/DevCycle.SDK.Server.Common@3.10.1
 - pkg:nuget/DevCycle.SDK.Server.Common@3.2.0
 - pkg:nuget/DevCycle.SDK.Server.Common@3.2.1
 - pkg:nuget/DevCycle.SDK.Server.Common@3.3.0
