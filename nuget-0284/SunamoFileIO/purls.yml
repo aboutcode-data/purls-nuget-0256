@@ -48,4 +48,6 @@
 - pkg:nuget/SunamoFileIO@25.3.29.1
 - pkg:nuget/SunamoFileIO@25.6.10.1
 - pkg:nuget/SunamoFileIO@25.6.7.1
+- pkg:nuget/SunamoFileIO@26.11.22.2
+- pkg:nuget/SunamoFileIO@26.11.23.1
 - pkg:nuget/SunamoFileIO@26.2.4.1
