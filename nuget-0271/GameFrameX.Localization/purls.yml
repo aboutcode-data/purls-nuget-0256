@@ -5,4 +5,7 @@
 - pkg:nuget/GameFrameX.Localization@1.13.7
 - pkg:nuget/GameFrameX.Localization@1.6.1
 - pkg:nuget/GameFrameX.Localization@1.8.0
+- pkg:nuget/GameFrameX.Localization@2.0.0.2-dev07
+- pkg:nuget/GameFrameX.Localization@2.0.0.2-dev08
+- pkg:nuget/GameFrameX.Localization@2.0.0.2-dev09
 - pkg:nuget/GameFrameX.Localization@2.0.0.2-dev11
