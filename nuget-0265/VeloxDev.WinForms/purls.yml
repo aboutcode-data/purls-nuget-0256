@@ -1,6 +1,8 @@
 - pkg:nuget/VeloxDev.WinForms@10.1.0
 - pkg:nuget/VeloxDev.WinForms@11.0.0
 - pkg:nuget/VeloxDev.WinForms@11.2.0
+- pkg:nuget/VeloxDev.WinForms@12.2.0
+- pkg:nuget/VeloxDev.WinForms@12.3.0
 - pkg:nuget/VeloxDev.WinForms@3.4.0
 - pkg:nuget/VeloxDev.WinForms@3.4.1
 - pkg:nuget/VeloxDev.WinForms@4.0.2
