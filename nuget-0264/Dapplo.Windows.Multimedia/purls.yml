@@ -164,4 +164,5 @@
 - pkg:nuget/Dapplo.Windows.Multimedia@3.23.3
 - pkg:nuget/Dapplo.Windows.Multimedia@3.24.2
 - pkg:nuget/Dapplo.Windows.Multimedia@3.25.2
+- pkg:nuget/Dapplo.Windows.Multimedia@3.26.3
 - pkg:nuget/Dapplo.Windows.Multimedia@3.9.2
