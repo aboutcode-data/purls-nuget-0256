@@ -5,3 +5,5 @@
 - pkg:nuget/Webority.Ai.AzureOpenAi@0.66.3
 - pkg:nuget/Webority.Ai.AzureOpenAi@0.69.0
 - pkg:nuget/Webority.Ai.AzureOpenAi@0.69.1
+- pkg:nuget/Webority.Ai.AzureOpenAi@0.69.3
+- pkg:nuget/Webority.Ai.AzureOpenAi@0.69.4
