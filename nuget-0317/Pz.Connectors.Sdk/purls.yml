@@ -3,5 +3,6 @@
 - pkg:nuget/Pz.Connectors.Sdk@0.14.0
 - pkg:nuget/Pz.Connectors.Sdk@0.15.0
 - pkg:nuget/Pz.Connectors.Sdk@0.16.2
+- pkg:nuget/Pz.Connectors.Sdk@0.22.1
 - pkg:nuget/Pz.Connectors.Sdk@0.7.0
 - pkg:nuget/Pz.Connectors.Sdk@0.9.1
