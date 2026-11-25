@@ -1,1 +1,2 @@
 - pkg:nuget/Similarweb.LinqToDB.Firebolt@5.0.0-rc.1
+- pkg:nuget/Similarweb.LinqToDB.Firebolt@6.4.1
