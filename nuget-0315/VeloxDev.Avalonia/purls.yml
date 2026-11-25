@@ -11,6 +11,7 @@
 - pkg:nuget/VeloxDev.Avalonia@10.1.0
 - pkg:nuget/VeloxDev.Avalonia@11.0.0
 - pkg:nuget/VeloxDev.Avalonia@11.2.0
+- pkg:nuget/VeloxDev.Avalonia@12.2.0
 - pkg:nuget/VeloxDev.Avalonia@2.0.0
 - pkg:nuget/VeloxDev.Avalonia@2.0.0-rc.2
 - pkg:nuget/VeloxDev.Avalonia@2.0.0-rc.4
