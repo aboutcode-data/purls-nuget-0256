@@ -1,1 +1,7 @@
+- pkg:nuget/OmniEurope.Blazor@1.11.1
+- pkg:nuget/OmniEurope.Blazor@1.12.1
+- pkg:nuget/OmniEurope.Blazor@1.14.1
+- pkg:nuget/OmniEurope.Blazor@1.14.4
 - pkg:nuget/OmniEurope.Blazor@1.4.0
+- pkg:nuget/OmniEurope.Blazor@1.8.2
+- pkg:nuget/OmniEurope.Blazor@1.8.3
