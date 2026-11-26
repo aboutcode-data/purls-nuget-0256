@@ -6,6 +6,10 @@
 - pkg:nuget/Soenneker.Blazor.SheetMapper@11.0.703
 - pkg:nuget/Soenneker.Blazor.SheetMapper@11.0.711
 - pkg:nuget/Soenneker.Blazor.SheetMapper@11.0.714
+- pkg:nuget/Soenneker.Blazor.SheetMapper@11.0.733
+- pkg:nuget/Soenneker.Blazor.SheetMapper@11.0.740
+- pkg:nuget/Soenneker.Blazor.SheetMapper@11.0.743
+- pkg:nuget/Soenneker.Blazor.SheetMapper@11.0.745
 - pkg:nuget/Soenneker.Blazor.SheetMapper@3.0.1
 - pkg:nuget/Soenneker.Blazor.SheetMapper@3.0.10
 - pkg:nuget/Soenneker.Blazor.SheetMapper@3.0.103

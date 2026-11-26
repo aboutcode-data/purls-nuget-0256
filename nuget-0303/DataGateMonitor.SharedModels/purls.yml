@@ -6,3 +6,5 @@
 - pkg:nuget/DataGateMonitor.SharedModels@1.0.58
 - pkg:nuget/DataGateMonitor.SharedModels@1.0.65
 - pkg:nuget/DataGateMonitor.SharedModels@1.0.68
+- pkg:nuget/DataGateMonitor.SharedModels@1.0.82
+- pkg:nuget/DataGateMonitor.SharedModels@1.0.84
