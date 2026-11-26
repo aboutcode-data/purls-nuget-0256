@@ -1,0 +1,4 @@
+- pkg:nuget/SI.Rosetta.Persistence.PostgreSQL@1.33.0
+- pkg:nuget/SI.Rosetta.Persistence.PostgreSQL@1.36.0
+- pkg:nuget/SI.Rosetta.Persistence.PostgreSQL@1.38.0
+- pkg:nuget/SI.Rosetta.Persistence.PostgreSQL@1.40.0
