@@ -34,4 +34,5 @@
 - pkg:nuget/Eternet.Agents.Control.Cli@5.2.0
 - pkg:nuget/Eternet.Agents.Control.Cli@5.2.16
 - pkg:nuget/Eternet.Agents.Control.Cli@5.2.23
+- pkg:nuget/Eternet.Agents.Control.Cli@5.2.31
 - pkg:nuget/Eternet.Agents.Control.Cli@5.2.6
