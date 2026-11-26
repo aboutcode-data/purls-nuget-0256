@@ -1,3 +1,4 @@
+- pkg:nuget/BindOpen.Databases.PostgreSql@0.0.1
 - pkg:nuget/BindOpen.Databases.PostgreSql@1.0.1
 - pkg:nuget/BindOpen.Databases.PostgreSql@1.0.100
 - pkg:nuget/BindOpen.Databases.PostgreSql@1.0.101
