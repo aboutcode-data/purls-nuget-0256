@@ -51,6 +51,7 @@
 - pkg:nuget/EmsApi.Client@2.3.0
 - pkg:nuget/EmsApi.Client@2.3.1
 - pkg:nuget/EmsApi.Client@2.30.2
+- pkg:nuget/EmsApi.Client@2.30.8
 - pkg:nuget/EmsApi.Client@2.4.0
 - pkg:nuget/EmsApi.Client@2.4.1
 - pkg:nuget/EmsApi.Client@2.5.0
