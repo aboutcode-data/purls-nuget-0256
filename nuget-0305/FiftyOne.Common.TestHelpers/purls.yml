@@ -31,4 +31,5 @@
 - pkg:nuget/FiftyOne.Common.TestHelpers@4.4.7
 - pkg:nuget/FiftyOne.Common.TestHelpers@4.4.8
 - pkg:nuget/FiftyOne.Common.TestHelpers@4.4.9
+- pkg:nuget/FiftyOne.Common.TestHelpers@5.1.10
 - pkg:nuget/FiftyOne.Common.TestHelpers@5.1.6
