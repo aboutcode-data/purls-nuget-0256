@@ -10,6 +10,7 @@
 - pkg:nuget/Soenneker.X.OpenApiClient@11.0.318
 - pkg:nuget/Soenneker.X.OpenApiClient@11.0.325
 - pkg:nuget/Soenneker.X.OpenApiClient@11.0.326
+- pkg:nuget/Soenneker.X.OpenApiClient@11.0.329
 - pkg:nuget/Soenneker.X.OpenApiClient@3.0.1
 - pkg:nuget/Soenneker.X.OpenApiClient@3.0.10
 - pkg:nuget/Soenneker.X.OpenApiClient@3.0.11
