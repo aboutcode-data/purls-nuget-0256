@@ -3,5 +3,7 @@
 - pkg:nuget/Ecng.Excel@1.0.16
 - pkg:nuget/Ecng.Excel@1.0.20
 - pkg:nuget/Ecng.Excel@1.0.23
+- pkg:nuget/Ecng.Excel@1.0.25
+- pkg:nuget/Ecng.Excel@1.0.40
 - pkg:nuget/Ecng.Excel@1.0.5
 - pkg:nuget/Ecng.Excel@1.0.9
