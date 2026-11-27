@@ -26,6 +26,7 @@
 - pkg:nuget/Lumeo.Charts@4.0.2
 - pkg:nuget/Lumeo.Charts@4.3.0
 - pkg:nuget/Lumeo.Charts@5.1.1
+- pkg:nuget/Lumeo.Charts@5.17.0
 - pkg:nuget/Lumeo.Charts@5.2.0
 - pkg:nuget/Lumeo.Charts@5.3.1
 - pkg:nuget/Lumeo.Charts@5.6.0
