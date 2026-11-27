@@ -5,4 +5,6 @@
 - pkg:nuget/Ecng.Excel.OpenXml@1.0.26
 - pkg:nuget/Ecng.Excel.OpenXml@1.0.28
 - pkg:nuget/Ecng.Excel.OpenXml@1.0.30
+- pkg:nuget/Ecng.Excel.OpenXml@1.0.41
+- pkg:nuget/Ecng.Excel.OpenXml@1.0.43
 - pkg:nuget/Ecng.Excel.OpenXml@1.0.6
