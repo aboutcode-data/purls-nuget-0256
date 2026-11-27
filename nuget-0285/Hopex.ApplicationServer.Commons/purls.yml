@@ -1304,6 +1304,7 @@
 - pkg:nuget/Hopex.ApplicationServer.Commons@62.24.74.1
 - pkg:nuget/Hopex.ApplicationServer.Commons@62.24.76.1
 - pkg:nuget/Hopex.ApplicationServer.Commons@62.24.76.2
+- pkg:nuget/Hopex.ApplicationServer.Commons@62.25.0.192
 - pkg:nuget/Hopex.ApplicationServer.Commons@62.3.0.123
 - pkg:nuget/Hopex.ApplicationServer.Commons@62.3.15.13
 - pkg:nuget/Hopex.ApplicationServer.Commons@62.3.15.15
