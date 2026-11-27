@@ -5,6 +5,9 @@
 - pkg:nuget/HarfBuzzSharp.NativeAssets.Linux@14.2.1.302
 - pkg:nuget/HarfBuzzSharp.NativeAssets.Linux@14.2.1.4
 - pkg:nuget/HarfBuzzSharp.NativeAssets.Linux@14.2.1.400
+- pkg:nuget/HarfBuzzSharp.NativeAssets.Linux@14.4.0.103
+- pkg:nuget/HarfBuzzSharp.NativeAssets.Linux@14.4.0.3
+- pkg:nuget/HarfBuzzSharp.NativeAssets.Linux@15.0.0
 - pkg:nuget/HarfBuzzSharp.NativeAssets.Linux@2.5.3-rc.147
 - pkg:nuget/HarfBuzzSharp.NativeAssets.Linux@2.6.1
 - pkg:nuget/HarfBuzzSharp.NativeAssets.Linux@2.6.1-rc.153
