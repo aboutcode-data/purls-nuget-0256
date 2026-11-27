@@ -28,8 +28,12 @@
 - pkg:nuget/Scryber.Core.Mvc@6.0.0.8-beta
 - pkg:nuget/Scryber.Core.Mvc@6.0.1-beta
 - pkg:nuget/Scryber.Core.Mvc@8.0.0.1-beta
+- pkg:nuget/Scryber.Core.Mvc@9.11.0-beta.2
 - pkg:nuget/Scryber.Core.Mvc@9.2.0
 - pkg:nuget/Scryber.Core.Mvc@9.2.0.3
 - pkg:nuget/Scryber.Core.Mvc@9.6.0.7-beta
 - pkg:nuget/Scryber.Core.Mvc@9.7.0
 - pkg:nuget/Scryber.Core.Mvc@9.7.4.4
+- pkg:nuget/Scryber.Core.Mvc@9.8.0-beta.3
+- pkg:nuget/Scryber.Core.Mvc@9.8.0-beta.5
+- pkg:nuget/Scryber.Core.Mvc@9.9.1
