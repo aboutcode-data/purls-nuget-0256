@@ -7,3 +7,11 @@
 - pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@5.0.50
 - pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@5.0.53
 - pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@6.1.58
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@6.3.64
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@7.0.69
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@8.0.78
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@8.1.81
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@9.0.87
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@9.4.91
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@9.6.93
+- pkg:nuget/Alvecta.Foundation.Infrastructure.EF.Postgres@9.6.94
