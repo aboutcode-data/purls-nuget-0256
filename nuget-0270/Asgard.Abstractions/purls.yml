@@ -9,3 +9,5 @@
 - pkg:nuget/Asgard.Abstractions@4.1.11
 - pkg:nuget/Asgard.Abstractions@4.1.6
 - pkg:nuget/Asgard.Abstractions@5.0.2
+- pkg:nuget/Asgard.Abstractions@7.1.0
+- pkg:nuget/Asgard.Abstractions@8.0.0
