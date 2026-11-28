@@ -20,6 +20,7 @@
 - pkg:nuget/SFA.DAS.DfESignIn.Auth@0.2.321-prerelease-10
 - pkg:nuget/SFA.DAS.DfESignIn.Auth@0.2.327-prerelease-11
 - pkg:nuget/SFA.DAS.DfESignIn.Auth@0.2.327-prerelease-6
+- pkg:nuget/SFA.DAS.DfESignIn.Auth@0.2.407-prerelease-8
 - pkg:nuget/SFA.DAS.DfESignIn.Auth@17.1.110-prerelease-1
 - pkg:nuget/SFA.DAS.DfESignIn.Auth@17.1.110-prerelease-2
 - pkg:nuget/SFA.DAS.DfESignIn.Auth@17.1.110-prerelease-3
