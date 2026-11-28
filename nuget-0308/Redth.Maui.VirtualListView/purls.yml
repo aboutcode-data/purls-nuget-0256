@@ -13,3 +13,5 @@
 - pkg:nuget/Redth.Maui.VirtualListView@0.3.1%2BHEAD.bafd036
 - pkg:nuget/Redth.Maui.VirtualListView@0.3.2%2BHEAD.e7b420a
 - pkg:nuget/Redth.Maui.VirtualListView@0.4.0%2BHEAD.cf2e554
+- pkg:nuget/Redth.Maui.VirtualListView@0.5.0
+- pkg:nuget/Redth.Maui.VirtualListView@0.5.6
