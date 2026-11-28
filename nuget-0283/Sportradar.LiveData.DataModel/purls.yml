@@ -1,3 +1,5 @@
 - pkg:nuget/Sportradar.LiveData.DataModel@1.0.297
 - pkg:nuget/Sportradar.LiveData.DataModel@1.0.305
 - pkg:nuget/Sportradar.LiveData.DataModel@1.0.322
+- pkg:nuget/Sportradar.LiveData.DataModel@1.0.341-SNAPSHOT-9430245
+- pkg:nuget/Sportradar.LiveData.DataModel@1.0.342
