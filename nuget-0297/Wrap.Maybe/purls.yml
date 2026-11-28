@@ -20,3 +20,5 @@
 - pkg:nuget/Wrap.Maybe@1.0.0-beta.25041503
 - pkg:nuget/Wrap.Maybe@1.0.0-beta.26012605
 - pkg:nuget/Wrap.Maybe@1.2.6
+- pkg:nuget/Wrap.Maybe@2.0.0-rc.1
+- pkg:nuget/Wrap.Maybe@2.0.0-rc.2
