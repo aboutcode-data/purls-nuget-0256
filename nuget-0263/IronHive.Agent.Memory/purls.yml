@@ -5,3 +5,6 @@
 - pkg:nuget/IronHive.Agent.Memory@0.39.1
 - pkg:nuget/IronHive.Agent.Memory@0.44.0
 - pkg:nuget/IronHive.Agent.Memory@0.52.5
+- pkg:nuget/IronHive.Agent.Memory@0.55.0
+- pkg:nuget/IronHive.Agent.Memory@0.60.2
+- pkg:nuget/IronHive.Agent.Memory@0.71.0
