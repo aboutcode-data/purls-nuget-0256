@@ -1,1 +1,2 @@
 - pkg:nuget/CK.AppIdentity.Abstractions@0.14.0
+- pkg:nuget/CK.AppIdentity.Abstractions@0.14.6
