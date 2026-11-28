@@ -3,3 +3,4 @@
 - pkg:nuget/Sanet.Transport.SignalR.Server@1.3.2
 - pkg:nuget/Sanet.Transport.SignalR.Server@1.4.2
 - pkg:nuget/Sanet.Transport.SignalR.Server@1.7.0
+- pkg:nuget/Sanet.Transport.SignalR.Server@1.8.1
