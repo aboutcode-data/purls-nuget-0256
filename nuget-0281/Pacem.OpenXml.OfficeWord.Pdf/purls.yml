@@ -1,0 +1,4 @@
+- pkg:nuget/Pacem.OpenXml.OfficeWord.Pdf@0.10.19-galilei
+- pkg:nuget/Pacem.OpenXml.OfficeWord.Pdf@1.0.0-maiorana
+- pkg:nuget/Pacem.OpenXml.OfficeWord.Pdf@1.0.2
+- pkg:nuget/Pacem.OpenXml.OfficeWord.Pdf@1.1.0
