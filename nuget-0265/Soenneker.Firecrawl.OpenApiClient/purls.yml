@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Firecrawl.OpenApiClient@11.0.100
+- pkg:nuget/Soenneker.Firecrawl.OpenApiClient@11.0.119
 - pkg:nuget/Soenneker.Firecrawl.OpenApiClient@4.0.22
 - pkg:nuget/Soenneker.Firecrawl.OpenApiClient@4.0.28
 - pkg:nuget/Soenneker.Firecrawl.OpenApiClient@4.0.3
@@ -5,3 +7,8 @@
 - pkg:nuget/Soenneker.Firecrawl.OpenApiClient@4.0.47
 - pkg:nuget/Soenneker.Firecrawl.OpenApiClient@4.0.53
 - pkg:nuget/Soenneker.Firecrawl.OpenApiClient@4.0.55
+- pkg:nuget/Soenneker.Firecrawl.OpenApiClient@4.0.62
+- pkg:nuget/Soenneker.Firecrawl.OpenApiClient@4.0.65
+- pkg:nuget/Soenneker.Firecrawl.OpenApiClient@4.0.66
+- pkg:nuget/Soenneker.Firecrawl.OpenApiClient@4.0.87
+- pkg:nuget/Soenneker.Firecrawl.OpenApiClient@4.0.88
