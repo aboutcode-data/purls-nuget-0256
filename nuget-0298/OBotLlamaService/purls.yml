@@ -37,6 +37,7 @@
 - pkg:nuget/OBotLlamaService@26.10.25
 - pkg:nuget/OBotLlamaService@26.10.31
 - pkg:nuget/OBotLlamaService@26.10.35
+- pkg:nuget/OBotLlamaService@26.11.16
 - pkg:nuget/OBotLlamaService@26.3.27
 - pkg:nuget/OBotLlamaService@26.3.28
 - pkg:nuget/OBotLlamaService@26.3.29
