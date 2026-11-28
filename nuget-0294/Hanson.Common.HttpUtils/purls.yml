@@ -2,3 +2,7 @@
 - pkg:nuget/Hanson.Common.HttpUtils@2.0.0
 - pkg:nuget/Hanson.Common.HttpUtils@2.1.0
 - pkg:nuget/Hanson.Common.HttpUtils@2.2.0
+- pkg:nuget/Hanson.Common.HttpUtils@2.5.0
+- pkg:nuget/Hanson.Common.HttpUtils@2.7.0
+- pkg:nuget/Hanson.Common.HttpUtils@2.7.1
+- pkg:nuget/Hanson.Common.HttpUtils@2.8.0
